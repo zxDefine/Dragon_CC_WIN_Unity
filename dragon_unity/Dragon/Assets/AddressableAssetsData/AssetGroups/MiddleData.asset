@@ -15,8 +15,18 @@ MonoBehaviour:
   m_GroupName: MiddleData
   m_GUID: 23203139d212c40588abc8675c842b8f
   m_SerializeEntries:
+  - m_GUID: 137c728f113e548e98308b72d6a1a717
+    m_Address: Assets/RenpyResources/GenSenRounded-M.ttc
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4884d89fea3ce40eaac09f0b369189a4
     m_Address: Assets/RenpyResources/middle_data/ButtonTemplate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76b83ee06bbf6481ab8f79b509b81bba
+    m_Address: Assets/RenpyResources/SourceHanSansLite.ttf
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

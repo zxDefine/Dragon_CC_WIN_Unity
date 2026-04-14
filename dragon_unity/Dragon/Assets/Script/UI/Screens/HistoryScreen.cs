@@ -58,7 +58,7 @@ public class HistoryScreen : UIScreenBase
             t.text = $"{entry.character}: {entry.text}";
             t.fontSize = 20;
             t.color = Color.white;
-            t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+            t.font = UIFontProvider.Current;
             t.alignment = TextAnchor.MiddleLeft;
             t.horizontalOverflow = HorizontalWrapMode.Wrap;
             shown++;

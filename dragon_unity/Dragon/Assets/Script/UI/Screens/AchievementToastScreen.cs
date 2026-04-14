@@ -65,7 +65,7 @@ public class AchievementToastScreen : UIScreenBase
         t.fontSize = size;
         t.color = color;
         t.alignment = TextAnchor.MiddleCenter;
-        t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        t.font = UIFontProvider.Current;
         t.horizontalOverflow = HorizontalWrapMode.Overflow;
         RectTransform rt = go.GetComponent<RectTransform>();
         rt.anchorMin = new Vector2(0.5f, 0.5f);

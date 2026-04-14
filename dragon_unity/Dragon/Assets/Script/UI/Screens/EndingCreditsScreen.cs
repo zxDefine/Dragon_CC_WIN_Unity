@@ -56,7 +56,7 @@ public class EndingCreditsScreen : UIScreenBase
         GameObject textGo = new GameObject("CreditsText");
         textGo.transform.SetParent(Root, false);
         _creditsText = textGo.AddComponent<Text>();
-        _creditsText.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        _creditsText.font = UIFontProvider.Current;
         _creditsText.fontSize = 32;
         _creditsText.alignment = TextAnchor.UpperCenter;
         _creditsText.color = Color.white;

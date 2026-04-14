@@ -83,7 +83,7 @@ public abstract class UIScreenBase : MonoBehaviour
         t.fontSize = fontSize;
         t.alignment = align;
         t.color = Color.white;
-        t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        t.font = UIFontProvider.Current;
         t.horizontalOverflow = HorizontalWrapMode.Overflow;
         t.verticalOverflow = VerticalWrapMode.Overflow;
         RectTransform rt = go.GetComponent<RectTransform>();
@@ -124,7 +124,7 @@ public abstract class UIScreenBase : MonoBehaviour
         text.alignment = TextAnchor.MiddleCenter;
         text.color = Color.white;
         text.fontSize = 22;
-        text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        text.font = UIFontProvider.Current;
         RectTransform trt = txt.GetComponent<RectTransform>();
         trt.anchorMin = Vector2.zero;
         trt.anchorMax = Vector2.one;

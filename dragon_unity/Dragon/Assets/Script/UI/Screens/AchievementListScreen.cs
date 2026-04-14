@@ -52,7 +52,7 @@ public class AchievementListScreen : UIScreenBase
         GameObject titleGo = new GameObject("Title");
         titleGo.transform.SetParent(card.transform, false);
         Text title = titleGo.AddComponent<Text>();
-        title.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        title.font = UIFontProvider.Current;
         title.alignment = TextAnchor.MiddleLeft;
         title.fontSize = 22;
         string prefix = unlocked ? "[已解锁] " : "[未解锁] ";
@@ -69,7 +69,7 @@ public class AchievementListScreen : UIScreenBase
         GameObject descGo = new GameObject("Desc");
         descGo.transform.SetParent(card.transform, false);
         Text desc = descGo.AddComponent<Text>();
-        desc.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        desc.font = UIFontProvider.Current;
         desc.alignment = TextAnchor.UpperLeft;
         desc.fontSize = 16;
         desc.text = unlocked ? def.Description : (def.Hidden ? "（未解锁）" : def.Description);
