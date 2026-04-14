@@ -182,33 +182,40 @@
 
 ## 4. 剧情脚本转换状态
 
-### 4.1 已转换（9个 rpy → 18个 cs）
+### 4.1 已转换（18 个 rpy → 36 个 cs）
 
-| rpy 文件 | 行数 | cs 文件 | 状态 |
+| rpy 文件 | 行数 | cs 文件 | Phase |
 |---|---|---|---|
-| zhuxian0.rpy | 1,970 | zhuxian0.cs + zhuxian0_menu.cs | 已转换 |
-| zhuxian_1.rpy | 5,481 | zhuxian_1.cs + zhuxian_1_menu.cs | 已转换 |
-| zhuxian_2.rpy | 3,604 | zhuxian_2.cs + zhuxian_2_menu.cs | 已转换 |
-| zhuxian_3.rpy | 3,101 | zhuxian_3.cs + zhuxian_3_menu.cs | 已转换 |
-| zhuxian4.rpy | 4,142 | zhuxian4.cs + zhuxian4_menu.cs | 已转换 |
-| wangzi.rpy | 1,956 | wangzi.cs + wangzi_menu.cs | 已转换 |
-| end3.rpy | 187 | end3.cs + end3_menu.cs | 已转换 |
-| end5.rpy | 1,000 | end5.cs + end5_menu.cs | 已转换 |
-| end6.rpy (label:end7) | 2,931 | end6.cs + end6_menu.cs | 已转换 |
+| zhuxian0.rpy | 1,970 | zhuxian0.cs + zhuxian0_menu.cs | 先期 |
+| zhuxian_1.rpy | 5,481 | zhuxian_1.cs + zhuxian_1_menu.cs | 先期 |
+| zhuxian_2.rpy | 3,604 | zhuxian_2.cs + zhuxian_2_menu.cs | 先期 |
+| zhuxian_3.rpy | 3,101 | zhuxian_3.cs + zhuxian_3_menu.cs | 先期 |
+| zhuxian4.rpy | 4,142 | zhuxian4.cs + zhuxian4_menu.cs | 先期 |
+| wangzi.rpy | 1,956 | wangzi.cs + wangzi_menu.cs | 先期 |
+| end3.rpy | 187 | end3.cs + end3_menu.cs | 先期 |
+| end5.rpy | 1,000 | end5.cs + end5_menu.cs | 先期 |
+| end6.rpy (label:end7) | 2,931 | end6.cs + end6_menu.cs | 先期 |
+| bai1.rpy | 1,094 | bai1.cs（手工，无 menu） | 3.3 |
+| juezhan.rpy | 1,135 | juezhan.cs + juezhan_menu.cs | 3.4 |
+| juezhanhou_bai.rpy | 519 | juezhanhou_bai.cs（无 menu） | 3.4 |
+| fanhuitu.rpy | 365 | fanhuitu.cs（无 menu） | 3.4 |
+| tuanzhan_you.rpy | 1,558 | tuanzhan_you.cs + tuanzhan_you_menu.cs | 3.5 |
+| zhuxian5.rpy | 3,749 | zhuxian5.cs + zhuxian5_menu.cs | 3.6 |
+| zhuxian6.rpy | 3,200 | zhuxian6.cs + zhuxian6_menu.cs | 3.7 |
+| bai.rpy | 3,033 | bai.cs + bai_menu.cs | 3.8 |
+| end7.rpy (label:end6) | 2,625 | end7.cs + end7_menu.cs | 3.9 |
 
-### 4.2 待转换（9个，排除被注释结局）
+> Phase 3.5+ 通过 `rpy_to_cs_transcriber.py` 机械转译，dialog ID 均来自 `rpy_dialogs_<name>.json` 权威源，对齐率 100%。脚本当前支持 rpy 对话/show/scene/hide/camera/ATL 块/play/stop/with（Dissolve/Fade/Shake/PushMove/具名过渡）/pause/voice/$/python/if-elif-else/menu（含 `if cond:` 后缀）/label/jump/return/空台词节拍/image 声明。
 
-| rpy 文件 | 行数 | 优先级 | 说明 |
-|---|---|---|---|
-| zhuxian5.rpy | 3,749 | P0 | 第三年主线（冰龙/黑龙分流） |
-| zhuxian6.rpy | 3,200 | P0 | 第四年主线（决战准备） |
-| juezhan.rpy | 1,135 | P0 | 决战核心（所有结局分流枢纽） |
-| tuanzhan_you.rpy | 1,558 | P0 | 团战路线过渡 |
-| fanhuitu.rpy | 365 | P0 | 返回途中（女王/冒险分流） |
-| bai.rpy | 3,033 | P1 | 第三年冰龙子线 |
-| bai1.rpy | 1,094 | P1 | 第四年冰龙子线 |
-| end7.rpy (label:end6) | 2,625 | P1 | 驯养结局（二周目解锁） |
-| juezhanhou_bai.rpy | 519 | P1 | 决战后冰龙出现 |
+### 4.2 待转换
+
+（全部完成）
+
+### 4.2.1 Phase 3.5+ 累计增量
+
+- `dialogues.txt`：+3222 条新 dialog（6663–9884），复用 1152 条既有 ID
+- `labels.txt`：+68 条 label 注册（含 4 条孤儿清理）
+- `rpy_to_cs_transcriber.py` 新增 ~1000 行确定性转译逻辑
 
 ### 4.3 不移植
 
@@ -222,19 +229,37 @@
 
 ## 5. P0 阻塞性 Bug 清单
 
-| 编号 | 问题 | 文件 | 行号 | 修复方案 |
-|---|---|---|---|---|
-| BUG-01 | `GameMethods.Show` 缺少 parallel_0/1 参数 | GameMethods.cs | ~34 | 扩展签名或使用 Dictionary 传递 |
-| BUG-02 | `File.ReadAllText` 硬编码路径 | DialogManager/CharacterManager/ImageManager | 20/37/53 | 改用 Addressables 加载 |
-| BUG-03 | `SceneBlack` alpha=0（应=1） | ImageManager.cs | 239 | 修改为 `new Color(0,0,0,1f)` |
-| BUG-04 | `PlayVoice`/`SaveLastVoiceToTheEnd` 返回 IEnumerable | GameMethods.cs | 151/157 | 改为 IEnumerator |
-| BUG-05 | `RenpyFade`/`Matrixcolor` 字段全 private 无 getter | RenpyFade.cs/Matrixcolor.cs | 全文件 | 添加 public getter |
-| BUG-06 | 对话跳过时缺少前后缀符号 | UIDialogue.cs | 99-101 | fullText 中包含 prefix/suffix |
-| BUG-07 | `AudioManager.Play` 同通道不替换旧音频 | AudioManager.cs | 47-57 | 先停止旧音频再播放新的 |
-| BUG-08 | 循环判定仅匹配 `"music"` | AudioManager.cs | 70 | 建立 Channel 配置表 |
-| BUG-09 | GameScript 中路径含反斜杠 | GameScript/*.cs | 多处 | 批量替换 `\` → `/` |
-| BUG-10 | `GameState.cs` An_2 字符串截断 | GameState.cs | 222 | 修复截断的字符串 |
-| BUG-11 | `UISelectionMenu.OnSelect` null 检查后未 yield break | UISelectionMenu.cs | 122-135 | 添加 yield break |
+本次（M1 收尾）核查后，11 条 P0 bug 中 10 条已在早期修复，1 条本次修复。
+
+| 编号 | 问题 | 状态 | 备注 |
+|---|---|---|---|
+| BUG-01 | `GameMethods.Show` 缺少 parallel_0/1 参数 | ✅ 已修复 | Show 签名现含 parallel_0..parallel_3（决策 5.5 方案 C） |
+| BUG-02 | `File.ReadAllText` Editor-only 硬编码路径 | ✅ 本次修复 | DialogManager/CharacterManager/ImageManager 均改为 Addressables 异步加载；新增 `IsReady` 标记；GameMain poll 三者 ready 后才进入主流程 |
+| BUG-03 | `SceneBlack` alpha=0（应=1） | ✅ 已修复 | ImageManager L443 `new Color(0f, 0f, 0f, 1f)` |
+| BUG-04 | `PlayVoice`/`SaveLastVoiceToTheEnd` 返回 IEnumerable | ✅ 已修复 | 两个方法现返回 IEnumerator（GameMethods.cs L213/L228） |
+| BUG-05 | `RenpyFade`/`Matrixcolor` 字段无 getter | ✅ 已修复 | 两个类均使用表达式体属性公开只读 getter |
+| BUG-06 | 对话跳过时缺少前后缀符号 | ✅ 已修复 | UIDialogue.TypeText L133 跳过时使用 `_whatPrefix + fullText + _whatSuffix` |
+| BUG-07 | `AudioManager.Play` 同通道不替换旧音频 | ✅ 已修复 | AudioManager.Play 先停止旧协程与音频（含 crossfade 分支） |
+| BUG-08 | 循环判定仅匹配 `"music"` | ✅ 已修复 | Channel 分类现覆盖 music / music1~4 循环、music5 不循环、soundb~soundf 循环 |
+| BUG-09 | GameScript 中路径含反斜杠 | ✅ 已修复 | grep 全库未见实际路径反斜杠，仅剩 `\n` 注释转义（Renpy 对白内合法） |
+| BUG-10 | `GameState.cs` An_2 字符串截断 | ✅ 已修复 | An_2 现为完整 `Character("洝&%魯#", voice_tag=...)` |
+| BUG-11 | `UISelectionMenu.OnSelect` null 检查后未 yield break | ✅ 已修复 | UISelectionMenu.cs L124/L134 均显式 `yield break` |
+
+### 5.1 BUG-02 本次修复细节
+
+**问题**：三大 Manager 在 Editor 下用 `File.ReadAllText("Assets/RenpyResources/middle_data/*.txt|json")` 同步读取，打成 Player 后 `Assets/` 不存在，加载失败。
+
+**修复**（参考既有 LabelRegistry.cs L44 的 Addressables 模式）：
+
+1. `DialogueLoader` 新增 `LoadDialoguesFromText(string)` 入口，原 `LoadDialogues(filePath)` 改为 `File.ReadLines` 的 BC 包装。
+2. `DialogManager.Awake` 只保留 Instance 设置，移除 `DialogueLoader.LoadDialogues(filePath)` 同步调用；新增 `IEnumerator Start()` → `LoadDialoguesAsync()` 使用 `Addressables.LoadAssetAsync<TextAsset>("Assets/RenpyResources/middle_data/dialogues.txt")`，加载完毕后 `IsReady = true`。
+3. `CharacterManager` 同样处理：Start 改为 IEnumerator，`LoadCharacterJsonAsync` 异步加载 character.json。
+4. `ImageManager` 同样处理：Awake 里的 JSON 解析整段迁移到 `LoadImageJsonAsync`；每个 RenpyImage 的解析逻辑保留不动。
+5. `GameMain.Start`：`yield return null` 之后加入 `while (!ManagersReady()) yield return null;` 轮询，确保三大 Manager 的 Addressables 加载完成才进入 `RegisterAllLabelsFromTxt` 与 `startLabel` 协程。
+
+**Addressables 地址**：使用既有 `MiddleData` Asset Group（已注册 `Assets/RenpyResources/middle_data` 整个文件夹，子文件通过完整 asset path 自动索引，与 LabelRegistry 用法一致）。
+
+**兼容性**：`DialogueLoader.LoadDialogues(filePath)` 保留给未来可能的离线工具/Editor 脚本使用；运行时不再走此入口。
 
 ---
 

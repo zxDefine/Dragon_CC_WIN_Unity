@@ -117,7 +117,7 @@ public class bai1 : ILabelProvider
         yield return _gameMethods.Show("shuihua", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"alpha", 1f}})});
         yield return _gameMethods.SetCamera(sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}}), new SameLineParamData(new Dictionary<string, object>{{"zpos", 0f}}), new SameLineParamData(new Dictionary<string, object>{{"easein", 0.60f}, {"zpos", -18f}})});
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei7", "yan11", "zui19"});
-        yield return _gameMethods.OpenDialog(6246); // "给你。"
+        yield return _gameMethods.OpenDialog(4230); // "给你。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei4", "yan7", "zui12"});
         Defaults.Haogandu_nuo = Defaults.Haogandu_nuo + 1;
         if (Defaults.Haogandu_he > 100 || Defaults.Haogandu_nuo > 100)
@@ -126,35 +126,35 @@ public class bai1 : ILabelProvider
             _gameMethods.SyncAchievement();
         }
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei7", "yan2", "zui19"});
-        yield return _gameMethods.OpenDialog(6247); // "你送我花，我也送给你花。"
+        yield return _gameMethods.OpenDialog(6246); // "你送我花，我也送给你花。"
         yield return _gameMethods.SetCamera(sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"zpos", -18f}})});
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei4", "yan19", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei7", "yan2", "zui7"});
         yield return _gameMethods.OpenDialog(4); // "……"
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai");
-        yield return _gameMethods.OpenDialog(6248); // "他垂着眼眸，"
+        yield return _gameMethods.OpenDialog(6247); // "他垂着眼眸，"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei4", "yan1", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai");
         yield return _gameMethods.OpenDialog(134); // "{nw}{w=0.15}"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei4", "yan19", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei8", "yan2", "zui15"});
-        yield return _gameMethods.OpenDialog(6249); // "神色淡淡地望了我片刻..."
+        yield return _gameMethods.OpenDialog(6248); // "神色淡淡地望了我片刻..."
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan19", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai");
-        yield return _gameMethods.OpenDialog(6250); // "终于，自高处伸出手来。"
+        yield return _gameMethods.OpenDialog(6249); // "终于，自高处伸出手来。"
         yield return _gameMethods.Show("nuo1", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"easein", 0.8f}, {"zpos", 10f}})});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei8", "yan9", "zui15"});
-        yield return _gameMethods.OpenDialog(6251); // "指尖触碰到那朵水流时..."
+        yield return _gameMethods.OpenDialog(6250); // "指尖触碰到那朵水流时..."
         yield return _gameMethods.Show("nuo1", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"zpos", 10f}})});
-        yield return _gameMethods.OpenDialog(6252); // "不过很快，在我的视野中..."
+        yield return _gameMethods.OpenDialog(6251); // "不过很快，在我的视野中..."
         yield return _gameMethods.PlaySound("sound", 0.0f, 1.0f, "audio/sound/he/ICE1.ogg");
         yield return _gameMethods.Show("shuihua", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"alpha", 1f}}), new SameLineParamData(new Dictionary<string, object>{{"linear", 0.6f}, {"alpha", 0f}})});
         yield return _gameMethods.Show("binghua", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"pos", new Vector2(468f, 354f)}, {"zoom", 0.66f}}), new SameLineParamData(new Dictionary<string, object>{{"alpha", 0f}, {"zpos", 10f}}), new SameLineParamData(new Dictionary<string, object>{{"linear", 0.6f}, {"alpha", 1f}})});
-        yield return _gameMethods.OpenDialog(6253); // "他的五指覆盖在我的手背上..."
+        yield return _gameMethods.OpenDialog(6252); // "他的五指覆盖在我的手背上..."
         yield return _gameMethods.Hide("binghua");
         yield return _gameMethods.Hide("shuihua");
         yield return _gameMethods.Transition(time:0.5f);
-        yield return _gameMethods.OpenDialog(6254); // "他摘下那朵冰花，拿在手里，低头看着它。"
+        yield return _gameMethods.OpenDialog(6253); // "他摘下那朵冰花，拿在手里，低头看着它。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan19", "zui12"});
         Engine._history = false;
         yield return _gameMethods.OpenDialog(134); // "{nw}{w=0.15}"
@@ -164,75 +164,75 @@ public class bai1 : ILabelProvider
         yield return _gameMethods.OpenDialog(4); // "……"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui6"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo");
-        yield return _gameMethods.OpenDialog(6255); // "你不想学习冰系魔法么。"
+        yield return _gameMethods.OpenDialog(6254); // "你不想学习冰系魔法么。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan13", "zui16"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo");
-        yield return _gameMethods.OpenDialog(6256); // "它会让水拥有更强的杀伤力和可塑性。"
+        yield return _gameMethods.OpenDialog(6255); // "它会让水拥有更强的杀伤力和可塑性。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan13", "zui8"});
         Engine._history = false;
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei8", "yan12", "zui15"});
         yield return _gameMethods.OpenDialog(134); // "{nw}{w=0.15}"
         Engine._history = true;
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei8", "yan2", "zui10"});
-        yield return _gameMethods.OpenDialog(6257); // "啊……但是，我没什么学习渠道啊。"
+        yield return _gameMethods.OpenDialog(6256); // "啊……但是，我没什么学习渠道啊。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui9"});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei7", "yan6", "zui15", "emoji12"});
-        yield return _gameMethods.OpenDialog(6258); // "难道要在寒冬腊月跳进冰湖..."
+        yield return _gameMethods.OpenDialog(6257); // "难道要在寒冬腊月跳进冰湖..."
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui13"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei7", "yan6", "zui15", "-emoji12"});
-        yield return _gameMethods.OpenDialog(6259); // "你忘记我的名讳和权柄了么？"
+        yield return _gameMethods.OpenDialog(6258); // "你忘记我的名讳和权柄了么？"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui8"});
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei7", "yan5", "zui10"});
-        yield return _gameMethods.OpenDialog(6260); // "诺伯拉.博尔吉亚。"
+        yield return _gameMethods.OpenDialog(6259); // "诺伯拉.博尔吉亚。"
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei7", "yan2", "zui10"});
-        yield return _gameMethods.OpenDialog(6261); // "冰霜与心灵之龙？"
+        yield return _gameMethods.OpenDialog(6260); // "冰霜与心灵之龙？"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan1", "zui14"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei7", "yan5", "zui15"});
-        yield return _gameMethods.OpenDialog(6262); // "是啊，冰霜可是我掌管的领域。"
+        yield return _gameMethods.OpenDialog(6261); // "是啊，冰霜可是我掌管的领域。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui13"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv");
-        yield return _gameMethods.OpenDialog(6263); // "只要念诵我的名讳..."
+        yield return _gameMethods.OpenDialog(6262); // "只要念诵我的名讳..."
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui8"});
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei7", "yan5", "zui15"});
         yield return _gameMethods.OpenDialog(4); // "……"
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei7", "yan8", "zui15"});
-        yield return _gameMethods.OpenDialog(6264); // "那么，它需要我交付什么代价来换取呢？"
+        yield return _gameMethods.OpenDialog(6263); // "那么，它需要我交付什么代价来换取呢？"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv_qian");
-        yield return _gameMethods.OpenDialog(6265); // "「……{nw}{w=0.3}"
+        yield return _gameMethods.OpenDialog(1378); // "「……{nw}{w=0.3}"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan13", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv_qian");
-        yield return _gameMethods.OpenDialog(6266); // "……」"
+        yield return _gameMethods.OpenDialog(1265); // "……」"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan2", "zui13"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv");
-        yield return _gameMethods.OpenDialog(6267); // "不知道。"
+        yield return _gameMethods.OpenDialog(6264); // "不知道。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui16"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei7", "yan2", "zui15"});
-        yield return _gameMethods.OpenDialog(6268); // "你愿意为此而付出什么呢？"
+        yield return _gameMethods.OpenDialog(6265); // "你愿意为此而付出什么呢？"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui8"});
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei7", "yan9", "zui15"});
         yield return _gameMethods.OpenDialog(4); // "……"
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai");
-        yield return _gameMethods.OpenDialog(6269); // "这个答案让我有些不安。"
+        yield return _gameMethods.OpenDialog(6266); // "这个答案让我有些不安。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei7", "yan20", "zui15"});
-        yield return _gameMethods.OpenDialog(6270); // "在我的过往经历中..."
+        yield return _gameMethods.OpenDialog(6267); // "在我的过往经历中..."
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei9", "yan13", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei8", "yan12", "zui18"});
-        yield return _gameMethods.OpenDialog(6271); // "可我手里哪还有几张牌可出呢？"
+        yield return _gameMethods.OpenDialog(6268); // "可我手里哪还有几张牌可出呢？"
         yield return _gameMethods.PlaySound("sound", 0.0f, 2f, "audio/sound/manbu/Body1_02_duan.mp3");
         yield return _gameMethods.SetCamera(sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}}), new SameLineParamData(new Dictionary<string, object>{{"ypos", 0f}, {"zpos", -18.0f}}), new SameLineParamData(new Dictionary<string, object>{{"easein", 0.50f}, {"ypos", -12f}, {"zpos", -30.0f}})});
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei8", "yan5", "zui10"});
-        yield return _gameMethods.OpenDialog(6272); // "「嗯——"
+        yield return _gameMethods.OpenDialog(6269); // "「嗯——"
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei7", "yan11", "zui4"});
-        yield return _gameMethods.OpenDialog(6273); // "也许是感情？」"
+        yield return _gameMethods.OpenDialog(6270); // "也许是感情？」"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei8", "yan7", "zui12"});
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei7", "yan2", "zui19"});
-        yield return _gameMethods.OpenDialog(6274); // "「你会得到我诚挚的感激，"
+        yield return _gameMethods.OpenDialog(6271); // "「你会得到我诚挚的感激，"
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei7", "yan24", "zui19", "emoji2"});
-        yield return _gameMethods.OpenDialog(6275); // "由衷的祝福，"
+        yield return _gameMethods.OpenDialog(6272); // "由衷的祝福，"
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei3", "yan12", "zui2", "-emoji2"});
-        yield return _gameMethods.OpenDialog(6276); // "以及人格……"
+        yield return _gameMethods.OpenDialog(6273); // "以及人格……"
         yield return _gameMethods.PlaySound("sounda", 0.0f, 1.0f, "audio/demo_audio/sound/ding1.mp3");
         Defaults.Haogandu_nuo = Defaults.Haogandu_nuo + 1;
         if (Defaults.Haogandu_he > 100 || Defaults.Haogandu_nuo > 100)
@@ -241,35 +241,35 @@ public class bai1 : ILabelProvider
             _gameMethods.SyncAchievement();
         }
         yield return _gameMethods.ExecuteCharacterImageData("nv1_qian", parts: new List<string>{"mei3", "yan5", "zui2", "emoji2"});
-        yield return _gameMethods.OpenDialog(6277); // "龙格上的升华。」"
+        yield return _gameMethods.OpenDialog(6274); // "龙格上的升华。」"
         yield return _gameMethods.SetCamera(sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"ypos", -12f}, {"zpos", -30.0f}})});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei3", "yan5", "zui8", "emoji2"});
-        yield return _gameMethods.OpenDialog(6278); // "我厚着脸皮，开始尝试强行吃霸王餐。"
+        yield return _gameMethods.OpenDialog(6275); // "我厚着脸皮，开始尝试强行吃霸王餐。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan13", "zui8"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv_qian", parts: new List<string>{"mei3", "yan5", "zui8", "-emoji2"});
-        yield return _gameMethods.OpenDialog(6279); // "「嗯————{nw}{w=0.01}"
+        yield return _gameMethods.OpenDialog(6276); // "「嗯————{nw}{w=0.01}"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei6", "yan1", "zui14"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv_qian");
-        yield return _gameMethods.OpenDialog(6280); // "可以啊~」"
+        yield return _gameMethods.OpenDialog(6277); // "可以啊~」"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan11", "zui8"});
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei4", "yan2", "zui8", "emoji2", "emoji12"});
-        yield return _gameMethods.OpenDialog(6281); // "……嗯嗯嗯？"
+        yield return _gameMethods.OpenDialog(6278); // "……嗯嗯嗯？"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan13", "zui14"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei4", "yan2", "zui8", "emoji2", "-emoji12"});
-        yield return _gameMethods.OpenDialog(6282); // "反正你也已经让我看到了好东西。"
+        yield return _gameMethods.OpenDialog(6279); // "反正你也已经让我看到了好东西。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui13"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv");
-        yield return _gameMethods.OpenDialog(6283); // "作为让我看到花朵绽开的回报..."
+        yield return _gameMethods.OpenDialog(6280); // "作为让我看到花朵绽开的回报..."
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui8"});
         yield return _gameMethods.ExecuteCharacterImageData("nv1", parts: new List<string>{"mei3", "yan5", "zui10", "-emoji2"});
-        yield return _gameMethods.OpenDialog(6284); // "……真的吗？"
+        yield return _gameMethods.OpenDialog(2769); // "……真的吗？"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan2", "zui15"});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei3", "yan5", "zui15"});
-        yield return _gameMethods.OpenDialog(6285); // "嗯。"
+        yield return _gameMethods.OpenDialog(765); // "嗯。"
         yield return _gameMethods.PlaySound("sound", 0.0f, 1.0f, "<from 0.5 to 1.5>audio/sound/juezhan_dao/Footsteps Sneakers on Grass_01.ogg");
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui13"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}}), new SameLineParamData(new Dictionary<string, object>{{"easein", 0.8f}, {"ypos", 2.94f}, {"zpos", 66.0f}})});
         yield return _gameMethods.ExecuteCharacterImageData("nuo_nv", parts: new List<string>{"mei7", "yan2", "zui15"});
-        yield return _gameMethods.OpenDialog(6286); // "不过，我还有一个条件。"
+        yield return _gameMethods.OpenDialog(6281); // "不过，我还有一个条件。"
         yield return _gameMethods.Show("nuo1", parts: new List<string>{"mei7", "yan7", "zui8"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"ypos", 2.94f}, {"zpos", 66.0f}})});
         yield return _gameMethods.ExecuteCharacterImageData("nv_pangbai", parts: new List<string>{"mei8", "yan12", "zui8", "emoji2"});
         yield return _gameMethods.OpenDialog(6282); // "果然有附带要求..."

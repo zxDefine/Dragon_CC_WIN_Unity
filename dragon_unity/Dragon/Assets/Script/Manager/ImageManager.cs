@@ -3,7 +3,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
@@ -16,7 +15,14 @@ using DG.Tweening;
 public class ImageManager : MonoBehaviour
 {
     public static ImageManager Instance;
-    
+
+    /// <summary>
+    /// 异步加载完成后才为 true（BUG-02 修复）。
+    /// </summary>
+    public bool IsReady { get; private set; }
+
+    private const string ImageJsonAddress = "Assets/RenpyResources/middle_data/image.json";
+
     [Header("图层引用")]
     public Transform master0Layer;
     public Transform masterLayer; // show scene hide
@@ -48,34 +54,44 @@ public class ImageManager : MonoBehaviour
     {
         if (Instance == null)
         {
-            // 建立manager
             Instance = this;
             DontDestroyOnLoad(gameObject);
-            
-            // 读取json文件
-            string jsonText = File.ReadAllText("Assets/RenpyResources/middle_data/image.json");
-            // Dictionary<string, JObject> rootDict = JsonConvert.DeserializeObject<Dictionary<string, JObject>>(jsonText);
-            JObject root = JObject.Parse(jsonText);
-
-            // 遍历每个文件
-            foreach (var kvp in root)
-            {
-                string name = kvp.Key;
-                JToken data = kvp.Value;
-
-                // Debug.Log($"\n解析模块: {name}");
-
-                // 把数据传给专门的解析类处理
-                RenpyImage image = new RenpyImage(name, data);
-                _renpyImages[name] = image;
-            }
-
-            Debug.Log($"加载的image数量 -> {_renpyImages.Count}");
         }
         else
         {
             Destroy(gameObject);
         }
+    }
+
+    private IEnumerator Start()
+    {
+        if (Instance != this) yield break;
+        yield return LoadImageJsonAsync();
+    }
+
+    private IEnumerator LoadImageJsonAsync()
+    {
+        AsyncOperationHandle<TextAsset> handle = Addressables.LoadAssetAsync<TextAsset>(ImageJsonAddress);
+        yield return handle;
+
+        if (handle.Status == AsyncOperationStatus.Succeeded && handle.Result != null)
+        {
+            JObject root = JObject.Parse(handle.Result.text);
+            foreach (var kvp in root)
+            {
+                string name = kvp.Key;
+                JToken data = kvp.Value;
+                RenpyImage image = new RenpyImage(name, data);
+                _renpyImages[name] = image;
+            }
+            Debug.Log($"ImageManager loaded {_renpyImages.Count} images via Addressables");
+        }
+        else
+        {
+            Debug.LogError($"ImageManager: failed to load {ImageJsonAddress} via Addressables");
+        }
+
+        IsReady = true;
     }
 
     /// <summary>

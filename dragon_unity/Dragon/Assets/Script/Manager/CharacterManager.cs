@@ -1,13 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.IO;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 using UnityEngine.ResourceManagement.AsyncOperations;
 
 public class CharacterManager : MonoBehaviour
 {
     public static CharacterManager Instance;
+
+    /// <summary>
+    /// 异步加载完成后才为 true（BUG-02 修复）。
+    /// </summary>
+    public bool IsReady { get; private set; }
+
+    private const string CharacterJsonAddress = "Assets/RenpyResources/middle_data/character.json";
 
     // 通过middle_data的character.json读取
     private Dictionary<string, object> _characterImageJson = new Dictionary<string, object>();
@@ -31,11 +38,29 @@ public class CharacterManager : MonoBehaviour
         }
     }
 
-    private void Start()
+    private IEnumerator Start()
     {
-        // 读取json的内容
-        string json = File.ReadAllText("Assets/RenpyResources/middle_data/character.json");
-        _characterImageJson = JsonHelper.ParseJsonToNestedDict(json);
+        if (Instance != this) yield break;
+        yield return LoadCharacterJsonAsync();
+    }
+
+    private IEnumerator LoadCharacterJsonAsync()
+    {
+        AsyncOperationHandle<TextAsset> handle = Addressables.LoadAssetAsync<TextAsset>(CharacterJsonAddress);
+        yield return handle;
+
+        if (handle.Status == AsyncOperationStatus.Succeeded && handle.Result != null)
+        {
+            _characterImageJson = JsonHelper.ParseJsonToNestedDict(handle.Result.text);
+            Debug.Log($"CharacterManager loaded {_characterImageJson.Count} character entries via Addressables");
+        }
+        else
+        {
+            Debug.LogError($"CharacterManager: failed to load {CharacterJsonAddress} via Addressables");
+            _characterImageJson = new Dictionary<string, object>();
+        }
+
+        IsReady = true;
     }
     
     public void LoadCharacterImage(string characterName)
