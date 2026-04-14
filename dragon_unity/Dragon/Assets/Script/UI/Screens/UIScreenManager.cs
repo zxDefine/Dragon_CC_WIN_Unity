@@ -13,6 +13,19 @@ public class UIScreenManager : MonoBehaviour
     private Dictionary<Type, UIScreenBase> _screens = new Dictionary<Type, UIScreenBase>();
     private Stack<UIScreenBase> _stack = new Stack<UIScreenBase>();
 
+    /// <summary>
+    /// 启动期自动 bootstrap：在任何场景加载前创建 UIScreenManager 宿主 GameObject。
+    /// 这样 Start.unity 不需要手动挂载本脚本——场景里缺席也能工作。
+    /// </summary>
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+    private static void AutoBootstrap()
+    {
+        if (Instance != null) return;
+        GameObject host = new GameObject("UIScreenManager (auto)");
+        host.AddComponent<UIScreenManager>();
+        // AutoBootstrap 内 DontDestroyOnLoad 由 Awake 处理
+    }
+
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }

@@ -4,6 +4,7 @@ using UnityEngine;
 public class GameMain : MonoBehaviour
 {
     [Header("启动配置")]
+    [Tooltip("留空表示走主菜单；填 label_zhuxian0 之类会跳过主菜单直接进入对应章节（调试用）。")]
     public string startLabel = "";
 
     IEnumerator Start()
@@ -30,9 +31,27 @@ public class GameMain : MonoBehaviour
         LabelRegistry.Instance.InjectDependency("GameMethods", gm);
         yield return LabelRegistry.Instance.RegisterAllLabelsFromTxt();
 
-        // 启动游戏流程（运行指定 label 协程）
-        // StartCoroutine(LabelRegistry.Instance.RunCoroutineLabel("fanhuitu.label_intro"));
-        yield return LabelRegistry.Instance.RunCoroutineByMethodOnly(startLabel);
+        // M4：根据 startLabel 决定走主菜单还是直接启动指定章节
+        if (string.IsNullOrWhiteSpace(startLabel))
+        {
+            // 无指定 label → 弹主菜单，等待玩家点击"开始游戏"或"读取存档"
+            if (UIScreenManager.Instance != null)
+            {
+                UIScreenManager.Instance.Show<MainMenuScreen>();
+                Debug.Log("[GameMain] 进入主菜单（startLabel 为空）");
+            }
+            else
+            {
+                Debug.LogError("[GameMain] UIScreenManager 不存在，回退到默认 label");
+                yield return LabelRegistry.Instance.RunCoroutineByMethodOnly("label_zhuxian0");
+            }
+        }
+        else
+        {
+            // 指定了 startLabel → 跳过主菜单，直接进入（调试用）
+            Debug.Log($"[GameMain] 跳过主菜单，直接进入 {startLabel}");
+            yield return LabelRegistry.Instance.RunCoroutineByMethodOnly(startLabel);
+        }
     }
 
     private static bool ManagersReady()
