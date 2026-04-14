@@ -1396,7 +1396,7 @@ public class end7 : ILabelProvider
         yield return _gameMethods.Show("geci", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"anchor", new Vector2(0.5f, 1.0f)}}), new SameLineParamData(new Dictionary<string, object>{{"pos", new Vector2(0.58f, 1.68f)}})});
         yield return _gameMethods.Show("end", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"ypos", 0.5f}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 0.5f}})});
         yield return _gameMethods.Transition(time:0.5f);
-        yield return _gameMethods.TransitionBy("Pause_2_0_");
+        yield return _gameMethods.StopEngineTime(time:2.0f);
         yield return _gameMethods.Hide("end");
         yield return _gameMethods.Transition(time:0.5f);
         yield return _gameMethods.Show("cast_image", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"zoom", 0.34f}}), new SameLineParamData(new Dictionary<string, object>{{"anchor", new Vector2(0.5f, 0.5f)}}), new SameLineParamData(new Dictionary<string, object>{}), new SameLineParamData(new Dictionary<string, object>{})});

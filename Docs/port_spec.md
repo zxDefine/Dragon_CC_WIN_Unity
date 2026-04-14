@@ -283,10 +283,19 @@
 - [x] `rpy_to_cs_transcriber.py` 确定性转译工具链建立
 - 共 18 个 rpy 全部转换完成（9 条新增 + 9 条先期），见 §4.1
 
-### M3 — 转场与视觉特效系统
-- 5 个自定义 Shader
-- TransitionManager + WarperLibrary
-- ShakeEffect + MultipleTransitionSequencer
+### M3 — 转场与视觉特效系统 🟡 进行中
+- [x] M3.1 ScreenShake / hpunch：`TransitionManager.PlayShake` 对 Camera.main 做逐帧阻尼扰动；`TransitionBy("shake"/"hpunch")` 走 M3.5 统一派发入口
+- [x] M3.2 PushMove：`TransitionManager.PlayPushMove` 支持 `pushleft/pushright/pushup/pushdown`，ease-out 动画 0.3s
+- [x] M3.3 Pause/None/fade：transcriber `with Pause(N)` 直接发射 `StopEngineTime(N)`；`with None` 转为注释 no-op；`with fade` 在 TransitionBy 走 `TransitionWithFadeIn` 而非 dissolve
+- [x] M3.4 Epilepsy：`TransitionManager.PlayEpilepsy` 用 overlay Image 快速切换 white/red/yellow/orange/black 调色板（默认 6 次闪烁 / 0.5s）
+- [x] M3.5 TransitionManager 统一派发：新增 `TryPlayNamed(name, out routine)` 字符串派发入口，为未来 MultipleTransitionSequencer 组合预留；`GameMethods.TransitionBy` 优先走该入口
+- [x] M3.6 5 个自定义 Shader：
+  - `Shaders/GaussianBlur.shader`（9-tap 近似 σ≈1.5）
+  - `Shaders/MatrixColor.shader`（Invert + Hue 旋转 + Saturation + Contrast + Brightness）
+  - `Shaders/AdditiveBlend.shader`（SrcAlpha One，发光/粒子）
+  - `Shaders/MultiplyBlend.shader`（DstColor OneMinusSrcAlpha，立绘腮红）
+  - `Shaders/Glitch.shader`（条带抖动 + 色彩像差 + 扫描线）
+- WarperLibrary（Renpy 缓动函数库如 eyewarp/bounce/repeat）与 MultipleTransitionSequencer（多阶段转场组合）留待 M3 二轮打磨期间视需求补
 
 ### M4 — UI 系统移植
 - 25+ 个屏幕的 UGUI 实现

@@ -47,16 +47,24 @@ FADE_RE = re.compile(r'Fade\(\s*([0-9.]+)\s*,\s*([0-9.]+)\s*,\s*([0-9.]+)\s*(?:,
 SHAKE_RE = re.compile(r'Shake\(\s*\(([^)]*)\)\s*,\s*([0-9.]+)\s*(?:,\s*dist\s*=\s*([0-9.]+))?\s*\)')
 DISSOLVE_RE = re.compile(r'Dissolve\(\s*([0-9.]+)\s*\)')
 PUSHMOVE_RE = re.compile(r'PushMove\(\s*([0-9.]+)\s*,\s*"([^"]+)"\s*\)')
+PAUSE_RE = re.compile(r'Pause\(\s*([0-9.]+)\s*\)')
 
 
 def translate_with(expr):
     """把 rpy `with xxx` 的 xxx 翻译成 cs 调用。"""
     expr = expr.strip()
+    # with None —— 无过渡
+    if expr == 'None':
+        return '// with None (no-op)'
     m = DISSOLVE_RE.fullmatch(expr)
     if m:
         return f'yield return _gameMethods.Transition(time:{m.group(1)}f);'
     if expr == 'dissolve':
         return 'yield return _gameMethods.Transition(time:0.5f);'
+    # with Pause(N) —— Renpy 语义是单纯等待 N 秒，映射到 StopEngineTime
+    m = PAUSE_RE.fullmatch(expr)
+    if m:
+        return f'yield return _gameMethods.StopEngineTime(time:{to_float(m.group(1))});'
     m = FADE_RE.fullmatch(expr)
     if m:
         # rpy: Fade(out, hold, in, color) → cs: TransitionWithFadeIn(out, hold, in, color)
@@ -68,7 +76,7 @@ def translate_with(expr):
         )
     m = SHAKE_RE.fullmatch(expr)
     if m:
-        # Shake 没有专用方法，降级为 TransitionBy("shake")。原 Renpy 参数在注释中保留。
+        # Shake → TransitionBy("shake")（M3.1 已由 TransitionManager.PlayShake 真实实现）
         dur = m.group(2)
         dist = m.group(3) or '5'
         return f'yield return _gameMethods.TransitionBy("shake"); // Shake({m.group(1)}, {dur}, dist={dist})'
@@ -77,7 +85,7 @@ def translate_with(expr):
         dur = m.group(1)
         dirn = m.group(2)
         return f'yield return _gameMethods.TransitionBy("pushmove_{dirn}");'
-    # 裸 transition 名
+    # 裸 transition 名（hpunch / epilepsy / fade / blink* / trans_rip_* / 等）
     safe = re.sub(r'[^a-zA-Z0-9_]', '_', expr)
     return f'yield return _gameMethods.TransitionBy("{safe}");'
 

@@ -748,6 +748,14 @@ public class GameMethods : MonoBehaviour
 
         string lowerType = (dissolveType ?? "").ToLower();
 
+        // M3.5 优先走 TransitionManager.TryPlayNamed 的统一派发（shake/hpunch/push*/epilepsy/none）
+        // 这些类型不依赖 ColorOverlay，不需要走后面的 ImageDissolve 分支
+        if (TransitionManager.Instance != null && TransitionManager.Instance.TryPlayNamed(lowerType, out IEnumerator namedRoutine))
+        {
+            yield return namedRoutine;
+            yield break;
+        }
+
         // 先清除 ColorOverlay（如 ShowBlack 创建的黑幕）
         // Renpy 的 with XXX 会从旧画面过渡到新画面，覆盖层是旧画面的一部分
         bool hasBlackOverlay = ImageManager != null && ImageManager.HasColorOverlay("black");
@@ -806,6 +814,10 @@ public class GameMethods : MonoBehaviour
                     // 快速波纹 0.6s
                     yield return LoadAndPlayImageDissolve("Assets/RenpyResources/images/demo_images/demo_images_transition/waves.jpg", 0.6f, 32, false, overlayColor);
                     break;
+                case "fade":
+                    // 裸 `with fade` — 原版默认是短暂黑屏的 fade
+                    yield return TransitionWithFadeIn(0.5f, 0f, 0.5f, "#000");
+                    break;
                 default:
                     // 默认使用 dissolve 淡出
                     yield return Transition(0.5f);
@@ -814,8 +826,16 @@ public class GameMethods : MonoBehaviour
         }
         else
         {
-            // 没有覆盖层时，使用普通 dissolve
-            yield return Transition(0.5f);
+            // 没有覆盖层时，根据类型分派
+            if (lowerType == "fade")
+            {
+                yield return TransitionWithFadeIn(0.5f, 0f, 0.5f, "#000");
+            }
+            else
+            {
+                // 默认 dissolve
+                yield return Transition(0.5f);
+            }
         }
     }
 

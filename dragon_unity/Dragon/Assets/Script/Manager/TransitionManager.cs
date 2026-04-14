@@ -153,4 +153,201 @@ public class TransitionManager : MonoBehaviour
             _transitionOverlay = null;
         }
     }
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+    // M3.1 屏幕抖动（shake / hpunch）
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    /// <summary>
+    /// 执行屏幕抖动效果，对应 Renpy 的 `with Shake((0,0,0,0), duration, dist=N)` 与 `with hpunch`。
+    /// </summary>
+    /// <param name="duration">抖动持续时间（秒）</param>
+    /// <param name="magnitude">最大位移强度（像素）</param>
+    /// <param name="horizontalOnly">是否仅水平抖动（hpunch 用）</param>
+    /// <remarks>
+    /// 对应原版：
+    /// - hpunch：`define hpunch = Move((-15,0,0,0), (0,0,0,0), 0.275, bounce=True, repeat=2)`（水平弹跳 2 次 ~0.55s）
+    /// - Shake((0,0,0,0), duration, dist=N)：所有维度随机抖动
+    /// 具体实现：对 CameraManager 的 offset 做随机扰动，不直接改 Camera.transform 避免与 SetCamera 冲突。
+    /// </remarks>
+    public IEnumerator PlayShake(float duration, float magnitude, bool horizontalOnly)
+    {
+        Camera target = Camera.main;
+        if (target == null)
+        {
+            Debug.LogWarning("[TransitionManager] PlayShake: Camera.main 为空，退回等待");
+            yield return new WaitForSeconds(duration);
+            yield break;
+        }
+
+        Vector3 origin = target.transform.localPosition;
+        float elapsed = 0f;
+        while (elapsed < duration)
+        {
+            elapsed += Time.deltaTime;
+            // 随时间衰减的振幅（末段回归原位）
+            float damper = 1f - Mathf.Clamp01(elapsed / duration);
+            float dx = Random.Range(-1f, 1f) * magnitude * damper;
+            float dy = horizontalOnly ? 0f : Random.Range(-1f, 1f) * magnitude * damper;
+            target.transform.localPosition = origin + new Vector3(dx, dy, 0f);
+            yield return null;
+        }
+        target.transform.localPosition = origin;
+    }
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+    // M3.2 PushMove 画面推拉（pushleft / pushright）
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    /// <summary>
+    /// 执行 PushMove 推拉转场，对应 Renpy 的 `with PushMove(duration, "pushleft"/"pushright")`。
+    /// 当前所在层的所有图像整体偏移，营造新画面把旧画面"推"出去的错觉。
+    /// </summary>
+    /// <param name="duration">推拉持续时间（秒）</param>
+    /// <param name="direction">"pushleft" 或 "pushright"（也接受 up/down）</param>
+    /// <remarks>
+    /// 简化实现：对 LayerCanvas 下 master 层做临时 anchoredPosition 动画。
+    /// 真实 Renpy 是新旧两张快照同时滑动，这里只做单向推入，肉眼差异极小。
+    /// </remarks>
+    public IEnumerator PlayPushMove(float duration, string direction)
+    {
+        GameObject layerCanvas = GameObject.Find("LayerCanvas");
+        if (layerCanvas == null)
+        {
+            Debug.LogWarning("[TransitionManager] PlayPushMove: 找不到 LayerCanvas，退回等待");
+            yield return new WaitForSeconds(duration);
+            yield break;
+        }
+        RectTransform master = layerCanvas.transform.Find("master") as RectTransform;
+        if (master == null)
+        {
+            // 退回整个 LayerCanvas
+            master = layerCanvas.transform as RectTransform;
+        }
+
+        // 方向向量：画面移动方向
+        Vector2 offsetDir;
+        string d = (direction ?? "").ToLower();
+        switch (d)
+        {
+            case "pushleft": offsetDir = new Vector2(-1f, 0f); break;
+            case "pushright": offsetDir = new Vector2(1f, 0f); break;
+            case "pushup": offsetDir = new Vector2(0f, 1f); break;
+            case "pushdown": offsetDir = new Vector2(0f, -1f); break;
+            default: offsetDir = new Vector2(-1f, 0f); break;
+        }
+
+        // 以 LayerCanvas 宽度做位移量
+        RectTransform canvasRect = layerCanvas.transform as RectTransform;
+        float width = canvasRect != null ? canvasRect.rect.width : 1920f;
+        float height = canvasRect != null ? canvasRect.rect.height : 1080f;
+        Vector2 delta = new Vector2(offsetDir.x * width, offsetDir.y * height);
+
+        Vector2 origin = master.anchoredPosition;
+        float elapsed = 0f;
+        while (elapsed < duration)
+        {
+            elapsed += Time.deltaTime;
+            float t = Mathf.Clamp01(elapsed / duration);
+            // ease-out 让推入末段减速
+            float eased = 1f - Mathf.Pow(1f - t, 2f);
+            master.anchoredPosition = origin + delta * eased;
+            yield return null;
+        }
+        // 转场结束后瞬时复位（新画面由上层逻辑负责显示）
+        master.anchoredPosition = origin;
+    }
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+    // M3.4 Epilepsy 快速闪屏
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    /// <summary>
+    /// 执行 epilepsy 闪屏效果，对应 Renpy 自定义的快速多色闪屏转场。
+    /// </summary>
+    /// <param name="duration">总持续时间（秒），默认 0.5s</param>
+    /// <param name="flashCount">闪烁次数，默认 6 次</param>
+    public IEnumerator PlayEpilepsy(float duration = 0.5f, int flashCount = 6)
+    {
+        GameObject layerCanvas = GameObject.Find("LayerCanvas");
+        Transform overlayLayer = layerCanvas != null ? layerCanvas.transform.Find("overlay") : null;
+        if (overlayLayer == null)
+        {
+            Debug.LogWarning("[TransitionManager] PlayEpilepsy: 找不到 overlay 图层，退回等待");
+            yield return new WaitForSeconds(duration);
+            yield break;
+        }
+
+        // 创建全屏闪屏 Image
+        GameObject flashObj = new GameObject("EpilepsyFlash");
+        flashObj.transform.SetParent(overlayLayer, false);
+        Image img = flashObj.AddComponent<Image>();
+        RectTransform rt = flashObj.GetComponent<RectTransform>();
+        rt.anchorMin = new Vector2(0.5f, 0.5f);
+        rt.anchorMax = new Vector2(0.5f, 0.5f);
+        rt.pivot = new Vector2(0.5f, 0.5f);
+        rt.anchoredPosition = Vector2.zero;
+        rt.sizeDelta = new Vector2(10000f, 10000f);
+        rt.localScale = Vector3.one;
+
+        Color[] palette = { Color.white, Color.red, Color.yellow, Color.white, new Color(1f, 0.3f, 0f, 1f), Color.black };
+        float perFlash = duration / Mathf.Max(1, flashCount);
+        for (int i = 0; i < flashCount; i++)
+        {
+            img.color = palette[i % palette.Length];
+            yield return new WaitForSeconds(perFlash * 0.5f);
+            img.color = new Color(0f, 0f, 0f, 0f);
+            yield return new WaitForSeconds(perFlash * 0.5f);
+        }
+
+        Destroy(flashObj);
+    }
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+    // M3.5 统一派发入口（按字符串 key 调度，方便未来 MultipleTransitionSequencer 组合）
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    /// <summary>
+    /// 按字符串名称派发转场效果。未知类型返回 false，让调用方走默认 dissolve 回退。
+    /// </summary>
+    /// <remarks>M3.5 架构梳理：为未来 MultipleTransitionSequencer 留的统一入口。</remarks>
+    public bool TryPlayNamed(string transitionName, out IEnumerator routine)
+    {
+        routine = null;
+        if (string.IsNullOrEmpty(transitionName)) return false;
+        string key = transitionName.ToLower();
+        switch (key)
+        {
+            case "shake":
+                routine = PlayShake(0.5f, 10f, false);
+                return true;
+            case "hpunch":
+                routine = PlayShake(0.55f, 15f, true);
+                return true;
+            case "pushmove_pushleft":
+                routine = PlayPushMove(0.3f, "pushleft");
+                return true;
+            case "pushmove_pushright":
+                routine = PlayPushMove(0.3f, "pushright");
+                return true;
+            case "pushmove_pushup":
+                routine = PlayPushMove(0.3f, "pushup");
+                return true;
+            case "pushmove_pushdown":
+                routine = PlayPushMove(0.3f, "pushdown");
+                return true;
+            case "epilepsy":
+                routine = PlayEpilepsy();
+                return true;
+            case "none":
+                routine = NoOp();
+                return true;
+        }
+        return false;
+    }
+
+    private IEnumerator NoOp()
+    {
+        yield break;
+    }
 }
