@@ -22,6 +22,18 @@ public class TransitionManager : MonoBehaviour
     /// <summary>当前活跃的转场覆盖层 GameObject</summary>
     private GameObject _transitionOverlay;
 
+    /// <summary>
+    /// 启动期自动 bootstrap：在任何场景加载前创建 TransitionManager 宿主 GameObject。
+    /// 这样 Start.unity 不需要手动挂载本脚本——场景里缺席也能工作。
+    /// </summary>
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+    private static void AutoBootstrap()
+    {
+        if (Instance != null) return;
+        GameObject host = new GameObject("TransitionManager (auto)");
+        host.AddComponent<TransitionManager>();
+    }
+
     private void Awake()
     {
         if (Instance != null)
