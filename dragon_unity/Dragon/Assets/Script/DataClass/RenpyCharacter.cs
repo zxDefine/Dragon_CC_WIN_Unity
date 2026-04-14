@@ -12,6 +12,11 @@ public class RenpyCharacter
     private string _voiceTag;
     private string _whatPrefix;
     private string _whatSuffix;
+    /// <summary>
+    /// Renpy 中 Character(... screen="say1") 的 screen 名（say / say1 / say2）。
+    /// 用于 M6 多角色对话框背景变体切换（textbox / textbox_xin / textbox_xin1）。
+    /// </summary>
+    private string _screen;
     
     Dictionary<string, object> _characterImageDict = new Dictionary<string, object>();
     Dictionary<string, object> _characterPartsDict = new Dictionary<string, object>();
@@ -51,7 +56,17 @@ public class RenpyCharacter
         {
             _whatSuffix = _characterImageDict["what_suffix"].ToString();
         }
+
+        if (_characterImageDict.ContainsKey("screen"))
+        {
+            _screen = _characterImageDict["screen"].ToString();
+        }
     }
+
+    /// <summary>
+    /// 该角色对应的对话框 screen 变体名（如 "say1"/"say2"），未指定时返回 null。
+    /// </summary>
+    public string GetScreen() => _screen;
 
     private void LoadImage()
     {

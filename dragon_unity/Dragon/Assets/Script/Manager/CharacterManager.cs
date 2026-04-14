@@ -101,11 +101,16 @@ public class CharacterManager : MonoBehaviour
     {
         // 读取贴图
         LoadCharacterImage(characterName);
-        
+
         // 设置名字
         ChangeTalkCharacterName(characterName);
         // 设置对话前后的符号
         SetTalkCharacterSymbol(characterName);
+        // M6 polish B：根据 character.json 里的 screen 字段切换对话框背景变体
+        if (_characterImageDict.TryGetValue(characterName, out var c) && c != null)
+        {
+            DialogueTextboxSkin.SetVariant(c.GetScreen());
+        }
 
         // 设置显示角色头像
         SetShowTalkCharaIcon(true);

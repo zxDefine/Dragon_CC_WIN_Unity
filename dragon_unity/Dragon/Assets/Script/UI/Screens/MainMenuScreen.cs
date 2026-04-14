@@ -1,44 +1,76 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
+using UnityEngine.Events;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.UI;
 
 /// <summary>
 /// M4.2 主菜单 — 对应 Renpy screens.rpy L808 <c>screen main_menu</c>。
-/// 按钮：开始 / 读档 / 设置 / 附加 / 回想 / 退出。
+/// M6 phase 2：使用原版 zhu_ditu.jpg 背景 + zhu_logo1.png 标题 +
+/// zhu_button1~8.png 分层 sprite 按钮（透明 hit-test）。
 /// </summary>
 /// <remarks>
-/// M6 视觉打磨：使用原版 <c>gui/zhu/zhu_ditu.jpg</c> 全屏背景与 <c>zhu_logo1.png</c> 标题图。
-/// 按钮仍是文本按钮，原版 <c>zhu_button1~8.png</c> 是分层 sprite，留待后续完整对位。
+/// 实现思路：
+/// 1. 全屏 zhu_ditu.jpg 背景；
+/// 2. 标题位置叠加 zhu_logo1.png；
+/// 3. 8 张 zhu_buttonN.png（每张本身就是 1280×720 全画布的"按钮层"，按钮像素已就位）
+///    叠到背景之上做视觉；
+/// 4. 在每个按钮像素的中心位置插入一个透明 Image + Button 作为点击 hit-test 区域。
+///
+/// 按钮像素 bounds（已通过 GetPixels32 alpha 阈值采样得到）：
+///   button1: (18,445)-(296,481)  → 开始游戏（top, 大）
+///   button2: (17,398)-(304,434)  → 读取存档
+///   button3: (17,329)-(302,366)  → 设置
+///   button4: (18,281)-(305,317)  → 附加内容
+///   button5: (18,215)-(305,251)  → 退出游戏
+///   button6: (18,116)-(232,152)  → 回想模式（小，底部）
+///   button7: (17,66) -(230,102)  → 系统位（M6 暂留装饰）
+///   button8: (18,18) -(232,54)   → 系统位（M6 暂留装饰）
+///
+/// Source 1280×720 → Canvas 1920×1080 缩放系数 1.5x（同 16:9 比例）。
 /// </remarks>
 public class MainMenuScreen : UIScreenBase
 {
     private const string BackgroundAddress = "Assets/RenpyResources/gui/zhu/zhu_ditu.jpg";
     private const string LogoAddress = "Assets/RenpyResources/gui/zhu/zhu_logo1.png";
 
+    /// <summary>每个按钮的像素 bounds（在 1280×720 源图里）。</summary>
+    private static readonly RectInt[] ButtonBoundsSrc =
+    {
+        new RectInt(18, 445, 279, 37),  // 1
+        new RectInt(17, 398, 288, 37),  // 2
+        new RectInt(17, 329, 286, 38),  // 3
+        new RectInt(18, 281, 288, 37),  // 4
+        new RectInt(18, 215, 288, 37),  // 5
+        new RectInt(18, 116, 215, 37),  // 6
+        new RectInt(17, 66,  214, 37),  // 7
+        new RectInt(18, 18,  215, 37),  // 8
+    };
+
     private RawImage _bgImage;
     private RawImage _logoImage;
+    private readonly RawImage[] _buttonLayers = new RawImage[8];
+
     private AsyncOperationHandle<Texture2D> _bgHandle;
     private AsyncOperationHandle<Texture2D> _logoHandle;
+    private readonly AsyncOperationHandle<Texture2D>[] _buttonHandles = new AsyncOperationHandle<Texture2D>[8];
 
     protected override void BuildContent()
     {
-        // 黑色兜底，等纹理加载
+        // 0) 黑色兜底
         CreateFullScreenBackground(Root, Color.black);
 
-        // 全屏背景图占位（先创建，纹理后异步加载）
-        GameObject bgGo = new GameObject("Background");
-        bgGo.transform.SetParent(Root, false);
-        _bgImage = bgGo.AddComponent<RawImage>();
-        _bgImage.color = Color.white;
-        RectTransform bgRt = bgGo.GetComponent<RectTransform>();
-        bgRt.anchorMin = Vector2.zero;
-        bgRt.anchorMax = Vector2.one;
-        bgRt.offsetMin = Vector2.zero;
-        bgRt.offsetMax = Vector2.zero;
+        // 1) 全屏背景
+        _bgImage = CreateFullScreenRawImage(Root, "Background");
 
-        // Logo 占位（中上方）
+        // 2) 8 张 button sprite 层（也是全屏 RawImage，sprite 的透明区天然不挡视觉）
+        for (int i = 0; i < 8; i++)
+        {
+            _buttonLayers[i] = CreateFullScreenRawImage(Root, "ButtonLayer" + (i + 1));
+        }
+
+        // 3) Logo 在中上方
         GameObject logoGo = new GameObject("Logo");
         logoGo.transform.SetParent(Root, false);
         _logoImage = logoGo.AddComponent<RawImage>();
@@ -50,25 +82,71 @@ public class MainMenuScreen : UIScreenBase
         logoRt.anchoredPosition = new Vector2(0f, 280f);
         logoRt.sizeDelta = new Vector2(688f, 432f); // 2x of 344x216
 
-        CreateLabel(Root, "v1.0 — Unity 移植版", new Vector2(0f, 60f), 18);
+        // 4) 8 个透明 hit-test rect（前 6 个有 action，后 2 个保持装饰）
+        UnityAction[] actions =
+        {
+            OnStartGame,    // button1 → 开始游戏
+            OnLoadGame,     // button2 → 读取存档
+            OnSettings,     // button3 → 设置
+            OnExtras,       // button4 → 附加内容
+            OnQuit,         // button5 → 退出游戏
+            OnRecollection, // button6 → 回想模式
+            null,           // button7 → 装饰
+            null,           // button8 → 装饰
+        };
+        for (int i = 0; i < ButtonBoundsSrc.Length; i++)
+        {
+            if (actions[i] == null) continue;
+            CreateHitRect(Root, "Hit" + (i + 1), ButtonBoundsSrc[i], actions[i]);
+        }
 
-        // 6 个主按钮（对应 Renpy navigation.rpy L722）
-        // 视觉位置改到画面下方居中，与原版 zhu_button 排布更接近
-        float x = -480f;
-        float y0 = -40f;
-        float step = -78f;
-        CreateButton(Root, "开始游戏", new Vector2(x, y0 + step * 0), new Vector2(280f, 64f), OnStartGame);
-        CreateButton(Root, "读取存档", new Vector2(x, y0 + step * 1), new Vector2(280f, 64f), OnLoadGame);
-        CreateButton(Root, "设置",     new Vector2(x, y0 + step * 2), new Vector2(280f, 64f), OnSettings);
-        CreateButton(Root, "附加内容", new Vector2(x, y0 + step * 3), new Vector2(280f, 64f), OnExtras);
-        CreateButton(Root, "回想模式", new Vector2(x, y0 + step * 4), new Vector2(280f, 64f), OnRecollection);
-        CreateButton(Root, "退出游戏", new Vector2(x, y0 + step * 5), new Vector2(280f, 64f), OnQuit);
+        CreateLabel(Root, "v1.0 — Unity 移植版", new Vector2(0f, -500f), 16);
+    }
+
+    /// <summary>把源图里的按钮 bounds 转换成 canvas 中心坐标 + 大小的 Image+Button hit-rect。</summary>
+    private static void CreateHitRect(Transform parent, string name, RectInt bounds, UnityAction onClick)
+    {
+        // 源 1280×720 → 画布 1920×1080，缩放 1.5x；Y 轴在 Unity 是从底到上递增
+        const float scale = 1.5f;
+        float canvasX = ((bounds.x + bounds.width * 0.5f) - 640f) * scale;
+        float canvasY = ((bounds.y + bounds.height * 0.5f) - 360f) * scale;
+        Vector2 size = new Vector2(bounds.width * scale, bounds.height * scale);
+
+        GameObject hit = new GameObject(name);
+        hit.transform.SetParent(parent, false);
+        Image img = hit.AddComponent<Image>();
+        img.color = new Color(1f, 1f, 1f, 0f); // 完全透明但接收点击
+        Button btn = hit.AddComponent<Button>();
+        btn.transition = Selectable.Transition.None;
+        btn.onClick.AddListener(onClick);
+
+        RectTransform rt = hit.GetComponent<RectTransform>();
+        rt.anchorMin = new Vector2(0.5f, 0.5f);
+        rt.anchorMax = new Vector2(0.5f, 0.5f);
+        rt.pivot = new Vector2(0.5f, 0.5f);
+        rt.anchoredPosition = new Vector2(canvasX, canvasY);
+        rt.sizeDelta = size;
+    }
+
+    private static RawImage CreateFullScreenRawImage(Transform parent, string name)
+    {
+        GameObject go = new GameObject(name);
+        go.transform.SetParent(parent, false);
+        RawImage img = go.AddComponent<RawImage>();
+        img.color = Color.white;
+        // 关键：raycastTarget=false 让点击穿透到下面的 hit rect
+        img.raycastTarget = false;
+        RectTransform rt = go.GetComponent<RectTransform>();
+        rt.anchorMin = Vector2.zero;
+        rt.anchorMax = Vector2.one;
+        rt.offsetMin = Vector2.zero;
+        rt.offsetMax = Vector2.zero;
+        return img;
     }
 
     public override void Show()
     {
         base.Show();
-        // 每次 Show 都尝试加载纹理（已加载的话 Addressables 会快速返回）
         StartCoroutine(LoadTextures());
     }
 
@@ -79,13 +157,9 @@ public class MainMenuScreen : UIScreenBase
             _bgHandle = Addressables.LoadAssetAsync<Texture2D>(BackgroundAddress);
             yield return _bgHandle;
             if (_bgHandle.Status == AsyncOperationStatus.Succeeded && _bgHandle.Result != null)
-            {
                 _bgImage.texture = _bgHandle.Result;
-            }
             else
-            {
-                Debug.LogWarning("[MainMenu] 背景图 zhu_ditu.jpg 加载失败");
-            }
+                Debug.LogWarning("[MainMenu] 背景图加载失败");
         }
 
         if (!_logoHandle.IsValid())
@@ -93,19 +167,24 @@ public class MainMenuScreen : UIScreenBase
             _logoHandle = Addressables.LoadAssetAsync<Texture2D>(LogoAddress);
             yield return _logoHandle;
             if (_logoHandle.Status == AsyncOperationStatus.Succeeded && _logoHandle.Result != null)
-            {
                 _logoImage.texture = _logoHandle.Result;
-            }
             else
-            {
-                Debug.LogWarning("[MainMenu] Logo zhu_logo1.png 加载失败");
-            }
+                Debug.LogWarning("[MainMenu] Logo 加载失败");
+        }
+
+        for (int i = 0; i < 8; i++)
+        {
+            if (_buttonHandles[i].IsValid()) continue;
+            string addr = $"Assets/RenpyResources/gui/zhu/zhu_button{i + 1}.png";
+            _buttonHandles[i] = Addressables.LoadAssetAsync<Texture2D>(addr);
+            yield return _buttonHandles[i];
+            if (_buttonHandles[i].Status == AsyncOperationStatus.Succeeded && _buttonHandles[i].Result != null)
+                _buttonLayers[i].texture = _buttonHandles[i].Result;
         }
     }
 
     public override void Hide()
     {
-        // 主菜单常驻：通常不释放纹理，避免反复 IO
         base.Hide();
     }
 
@@ -113,21 +192,18 @@ public class MainMenuScreen : UIScreenBase
     {
         if (_bgHandle.IsValid()) Addressables.Release(_bgHandle);
         if (_logoHandle.IsValid()) Addressables.Release(_logoHandle);
+        for (int i = 0; i < 8; i++)
+            if (_buttonHandles[i].IsValid()) Addressables.Release(_buttonHandles[i]);
     }
 
     private void OnStartGame()
     {
-        // 隐藏自身并通过 GameMain 进入第一章
         UIScreenManager.Instance.PopAll();
         GameMethods gm = GameObject.Find("Game Methods")?.GetComponent<GameMethods>();
         if (gm != null && LabelRegistry.Instance != null)
-        {
             gm.StartCoroutine(LabelRegistry.Instance.RunCoroutineByMethodOnly("label_zhuxian0"));
-        }
         else
-        {
             Debug.LogError("[MainMenu] 无法启动：缺少 GameMethods / LabelRegistry");
-        }
     }
 
     private void OnLoadGame() => UIScreenManager.Instance.Show<LoadScreen>();

@@ -19,7 +19,7 @@ public class CGGalleryScreen : UIScreenBase
         public CGEntry(string name, string addr, string flag) { displayName = name; address = addr; requiredFlag = flag; }
     }
 
-    /// <summary>CG 列表：第一版只挂 12 张代表性 CG（M6 打磨会扫描全量）。</summary>
+    /// <summary>CG 列表：首批 9 张代表性 CG，全量扫描推迟到 M7 资源整理阶段。</summary>
     private static readonly List<CGEntry> Entries = new List<CGEntry>
     {
         new CGEntry("决战 · 九剑",   "Assets/RenpyResources/images/juezhan2_cg2_ren1.png", "Jq_9_6"),
@@ -99,15 +99,18 @@ public class CGGalleryScreen : UIScreenBase
         // 释放上一张
         ClosePreview();
 
-        _activeHandle = Addressables.LoadAssetAsync<Texture2D>(entry.address);
-        yield return _activeHandle;
-        if (_activeHandle.Status != AsyncOperationStatus.Succeeded || _activeHandle.Result == null)
+        // 用局部 handle 避免快速重复点击时 _activeHandle 被后一次调用覆盖，
+        // 导致本协程 yield 恢复后读到的是别人家的 handle。
+        var handle = Addressables.LoadAssetAsync<Texture2D>(entry.address);
+        _activeHandle = handle;
+        yield return handle;
+        if (handle.Status != AsyncOperationStatus.Succeeded || handle.Result == null)
         {
             Debug.LogWarning($"[CGGallery] 加载失败：{entry.address}");
             yield break;
         }
 
-        Texture2D tex = _activeHandle.Result;
+        Texture2D tex = handle.Result;
         Debug.Log($"[CGGallery] 预览 {entry.displayName} ({tex.width}x{tex.height})");
 
         // 全屏半透明背景 + Image 组件
@@ -116,7 +119,7 @@ public class CGGalleryScreen : UIScreenBase
 
         // 背景遮罩（点击关闭）
         Image bg = _activePreview.AddComponent<Image>();
-        bg.color = new Color(0f, 0f, 0f, 0.94f);
+        bg.color = new Color(0f, 0f, 0f, 0f); // 起始透明，将动画到 0.94
         Button closeBtn = _activePreview.AddComponent<Button>();
         closeBtn.onClick.AddListener(ClosePreview);
 
@@ -131,6 +134,7 @@ public class CGGalleryScreen : UIScreenBase
         imgGo.transform.SetParent(_activePreview.transform, false);
         RawImage img = imgGo.AddComponent<RawImage>();
         img.texture = tex;
+        img.color = new Color(1f, 1f, 1f, 0f); // 起始透明
 
         // 按宽高比适配到 ~1600x900 内部区域
         float maxW = 1600f, maxH = 900f;
@@ -143,10 +147,38 @@ public class CGGalleryScreen : UIScreenBase
         imgRt.pivot = new Vector2(0.5f, 0.5f);
         imgRt.anchoredPosition = Vector2.zero;
         imgRt.sizeDelta = new Vector2(w, h);
+        imgRt.localScale = Vector3.one * 0.92f; // 起始略微缩小，将动画到 1.0
 
         // 提示
-        CreateLabel(_activePreview.transform, entry.displayName + "（点击任意位置返回）",
+        var hintGo = CreateLabel(_activePreview.transform, entry.displayName + "（点击任意位置返回）",
             new Vector2(0f, -h * 0.5f - 40f), 22);
+        var hintText = hintGo.GetComponent<UnityEngine.UI.Text>();
+        if (hintText != null) hintText.color = new Color(1f, 1f, 1f, 0f);
+
+        // 入场动画：背景渐黑 + 图片同步淡入 + 轻微 ease-out 缩放
+        StartCoroutine(PreviewIntroAnim(bg, img, imgRt, hintText));
+    }
+
+    private System.Collections.IEnumerator PreviewIntroAnim(Image bg, RawImage img, RectTransform imgRt, UnityEngine.UI.Text hint)
+    {
+        const float duration = 0.32f;
+        float t = 0f;
+        Vector3 startScale = Vector3.one * 0.92f;
+        while (t < duration)
+        {
+            t += Time.unscaledDeltaTime;
+            float k = Mathf.Clamp01(t / duration);
+            float ease = 1f - Mathf.Pow(1f - k, 3f); // ease-out cubic
+            if (bg != null) bg.color = new Color(0f, 0f, 0f, 0.94f * k);
+            if (img != null) img.color = new Color(1f, 1f, 1f, k);
+            if (imgRt != null) imgRt.localScale = Vector3.Lerp(startScale, Vector3.one, ease);
+            if (hint != null) hint.color = new Color(1f, 1f, 1f, k);
+            yield return null;
+        }
+        if (bg != null) bg.color = new Color(0f, 0f, 0f, 0.94f);
+        if (img != null) img.color = Color.white;
+        if (imgRt != null) imgRt.localScale = Vector3.one;
+        if (hint != null) hint.color = Color.white;
     }
 
     public void ClosePreview()

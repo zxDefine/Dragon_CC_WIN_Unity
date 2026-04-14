@@ -83,14 +83,51 @@ public class SaveScreen : UIScreenBase
             label = $"槽 {slotId + 1}\n(空)";
         }
 
-        CreateButton(_gridRoot.transform, label, pos, size, () => OnSlotClicked(slotId));
+        var btn = CreateButton(_gridRoot.transform, label, pos, size, () => OnSlotClicked(slotId));
+
+        // M6 polish G：如果槽位有缩略图，把它作为 RawImage 浮在按钮上方
+        if (info.exists)
+        {
+            Texture2D thumb = info.DecodeThumbnail();
+            if (thumb != null)
+            {
+                GameObject thumbGo = new GameObject("Thumbnail");
+                thumbGo.transform.SetParent(btn.transform, false);
+                var raw = thumbGo.AddComponent<UnityEngine.UI.RawImage>();
+                raw.texture = thumb;
+                raw.raycastTarget = false; // 让 Button 仍然能点
+                var rt = thumbGo.GetComponent<RectTransform>();
+                rt.anchorMin = new Vector2(0.5f, 0.5f);
+                rt.anchorMax = new Vector2(0.5f, 0.5f);
+                rt.pivot = new Vector2(0.5f, 1f);
+                rt.anchoredPosition = new Vector2(0f, size.y * 0.5f - 12f);
+                rt.sizeDelta = new Vector2(256f, 144f);
+            }
+        }
     }
 
     protected virtual void OnSlotClicked(int slotId)
     {
-        // 保存动作
-        SaveSystem.Save(slotId, "", "（存档）");
-        Debug.Log($"[SaveScreen] 保存到槽 {slotId}");
-        RebuildGrid();
+        // M6 polish G：保存前先抓一张缩略图
+        StartCoroutine(SaveWithThumbnailRoutine(slotId));
+    }
+
+    private System.Collections.IEnumerator SaveWithThumbnailRoutine(int slotId)
+    {
+        // 临时把当前 SaveScreen Canvas 隐藏一帧，让缩略图截到的是底层游戏画面。
+        // 协程期间本 screen 理论上不会被 Pop/Destroy，但仍加 null 防护以防 Hide/Destroy 打断。
+        if (Canvas != null) Canvas.enabled = false;
+        // 等到帧末，再做截屏，确保 UI 真的没渲染
+        yield return new WaitForEndOfFrame();
+
+        byte[] png = null;
+        try { png = SaveScreenshotUtility.CaptureGameViewPng(256, 144); }
+        catch (System.Exception e) { Debug.LogException(e); }
+
+        if (Canvas != null) Canvas.enabled = true;
+
+        SaveSystem.Save(slotId, "", "（存档）", png);
+        Debug.Log($"[SaveScreen] 保存到槽 {slotId} thumbnail bytes=" + (png != null ? png.Length : 0));
+        if (this != null && _gridRoot != null) RebuildGrid();
     }
 }

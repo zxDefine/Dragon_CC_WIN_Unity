@@ -359,15 +359,27 @@ public class GameMethods : MonoBehaviour
     ///////////////////////////////////////////////////////////////////////////////////////////////////////
     /// nvl
     /// <summary>
-    /// 清空 NVL 模式的当前对话页面，对应 Renpy 的 nvl clear 命令。
+    /// 清空 NVL 模式的当前对话页面，对应 Renpy 的 <c>nvl clear</c> 命令。
     /// </summary>
     /// <remarks>
-    /// 对应 Renpy: nvl clear。在 NVL 全屏文本模式下，将当前累积的对话清空，开始新的一页。
-    /// M1 阶段未实现 NVL 模式（归入 M4 UI 系统），此处仅作占位防止编译错误。
+    /// Renpy 的 NVL 模式会把多条对白累积在一个全屏文本页里；
+    /// <c>nvl clear</c> 把这一页清空、准备新一页。本 Unity 移植未做独立的
+    /// NVL 全屏文本控件（DialogueUI 一次只显示一条对白），所以 nvl clear
+    /// 的等价语义是：把当前 DialogueUI 上的内容（角色名 + 文本）擦掉，
+    /// 让下一句 OpenDialog 从干净状态开始打字。
     /// </remarks>
     public IEnumerator NvlClear()
     {
-        Debug.Log("NvlClear (M1 阶段占位)");
+        var dui = DialogueUI.Instance;
+        if (dui != null)
+        {
+            if (dui.dialogueText != null) dui.dialogueText.text = "";
+            if (dui.dialogueNameText != null) dui.dialogueNameText.text = "";
+            // 同步清掉 _characterName / _whatPrefix / _whatSuffix（在 SetTalkCharacter* 之外的状态）
+            dui.SetTalkCharacterName("");
+            dui.SetTalkCharacterSymbol("", "");
+        }
+        Debug.Log("NvlClear executed");
         yield return null;
     }
     ///////////////////////////////////////////////////////////////////////////////////////////////////////
