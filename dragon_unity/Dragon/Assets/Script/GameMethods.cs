@@ -622,16 +622,29 @@ public class GameMethods : MonoBehaviour
     
     ///////////////////////////////////////////////////////////////////////////////////////////////////////
     /// achievement
-    /// 更新一个新的成就
+    /// <summary>
+    /// 授予成就（M5.1 接入 AchievementManager 真实持久化 + 触发 Toast 通知）。
+    /// 对应 Renpy 的 <c>achievement.grant("NEW_ACHIEVEMENT_1_X")</c>。
+    /// </summary>
     public void GrantAchievement(string achievementName)
     {
-        Debug.Log("grantAchievement " + achievementName);
+        bool unlocked = AchievementManager.Grant(achievementName);
+        if (unlocked)
+        {
+            // 弹出 toast 通知
+            if (AchievementToastScreen.Instance != null)
+            {
+                AchievementToastScreen.Instance.ShowToast(achievementName);
+            }
+        }
     }
-    
-    /// 保存这个成就的变化
+
+    /// <summary>
+    /// 把成就变更写回磁盘。对应 Renpy 的 <c>achievement.sync()</c>。
+    /// </summary>
     public void SyncAchievement()
     {
-        Debug.Log("syncAchievement ");
+        AchievementManager.Sync();
     }
     ///////////////////////////////////////////////////////////////////////////////////////////////////////
     

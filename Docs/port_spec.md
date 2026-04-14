@@ -313,8 +313,13 @@
 - [x] `UIScreenBase` / `UIScreenManager`：纯代码构建 Canvas，栈式导航，GetOrCreate 延迟实例化
 - 首版均为纯代码 UGUI，字体暂用 `LegacyRuntime.ttf`；美术资源接入（textbox 背景、主菜单立绘、gui/ 按钮样式）归入 M6 打磨
 
-### M5 — 成就与画廊系统
-- 成就系统、CG 画廊、回想模式、结局字幕
+### M5 — 成就与画廊系统 ✅（首版完成）
+- [x] M5.1 AchievementManager 后端：JSON + `{persistentDataPath}/achievements.json` 持久化；11 条成就注册表（NEW_ACHIEVEMENT_1_0 ~ 1_10）+ displayName / description / hidden 标记
+- [x] M5.1 Grant / Sync / IsUnlocked / ResetAll API；OnGranted event 供 UI 订阅
+- [x] M5.2 CG Gallery 真实预览 overlay：异步 Addressables 加载 Texture2D，按宽高比自适应到 1600×900 可视区域，点击任意处返回；Hide 时自动释放 AsyncOperationHandle
+- [x] M5.3 EndingCreditsScreen：匀速从底部滚动的结局字幕（默认 40s 总时长），滚完自动回主菜单；右下角"跳过"按钮；支持 `CustomCredits` 覆写
+- [x] M5.4 `GameMethods.GrantAchievement` 现对接 `AchievementManager.Grant` 并触发 `AchievementToastScreen.ShowToast` 滑入/滑出卡片
+- [x] M5 附加：AchievementToastScreen（右上角 Toast）+ AchievementListScreen（Extras 新增第 6 格"成就"入口，卡片网格展示全部 11 条，hidden 成就锁定前显示 ???）
 
 ### M6 — 全流程通测与保真度比对
 - 原版 vs 移植版逐场景对比

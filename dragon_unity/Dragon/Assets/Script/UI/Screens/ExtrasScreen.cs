@@ -11,7 +11,7 @@ public class ExtrasScreen : UIScreenBase
         CreateFullScreenBackground(Root, new Color(0.05f, 0.04f, 0.08f, 0.95f));
         CreateLabel(Root, "附加内容", new Vector2(0f, 430f), 42);
 
-        string[] labels = { "音乐回忆", "CG 鉴赏", "剧情回忆", "角色档案", "番外短篇", "素材展示" };
+        string[] labels = { "音乐回忆", "CG 鉴赏", "剧情回忆", "角色档案", "番外短篇", "成就", "素材展示" };
         System.Action[] handlers =
         {
             () => UIScreenManager.Instance.Show<MusicGalleryScreen>(),
@@ -19,6 +19,7 @@ public class ExtrasScreen : UIScreenBase
             () => UIScreenManager.Instance.Show<StoryGalleryScreen>(),
             () => UIScreenManager.Instance.Show<CharacterArchiveScreen>(),
             () => UIScreenManager.Instance.Show<FanwaiScreen>(),
+            () => UIScreenManager.Instance.Show<AchievementListScreen>(),
             () => UIScreenManager.Instance.Show<SucaiScreen>(),
         };
         for (int i = 0; i < labels.Length; i++)

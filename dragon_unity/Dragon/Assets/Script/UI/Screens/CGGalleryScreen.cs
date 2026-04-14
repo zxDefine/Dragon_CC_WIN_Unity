@@ -87,19 +87,85 @@ public class CGGalleryScreen : UIScreenBase
     private void OnPreview(int idx)
     {
         if (idx < 0 || idx >= Entries.Count) return;
-        // M4 首版：日志 + 异步加载为 Sprite 放全屏。M6 阶段做过渡 + 缩放效果。
+        // M5.2：弹出全屏 overlay 显示真实图像；点击任意处关闭
         StartCoroutine(LoadAndShow(Entries[idx]));
     }
 
+    private AsyncOperationHandle<Texture2D> _activeHandle;
+    private GameObject _activePreview;
+
     private System.Collections.IEnumerator LoadAndShow(CGEntry entry)
     {
-        AsyncOperationHandle<Texture2D> handle = Addressables.LoadAssetAsync<Texture2D>(entry.address);
-        yield return handle;
-        if (handle.Status == AsyncOperationStatus.Succeeded && handle.Result != null)
+        // 释放上一张
+        ClosePreview();
+
+        _activeHandle = Addressables.LoadAssetAsync<Texture2D>(entry.address);
+        yield return _activeHandle;
+        if (_activeHandle.Status != AsyncOperationStatus.Succeeded || _activeHandle.Result == null)
         {
-            Debug.Log($"[CGGallery] 预览 {entry.displayName} ({handle.Result.width}x{handle.Result.height})");
-            // TODO(M6): 弹出全屏预览 overlay
+            Debug.LogWarning($"[CGGallery] 加载失败：{entry.address}");
+            yield break;
         }
-        Addressables.Release(handle);
+
+        Texture2D tex = _activeHandle.Result;
+        Debug.Log($"[CGGallery] 预览 {entry.displayName} ({tex.width}x{tex.height})");
+
+        // 全屏半透明背景 + Image 组件
+        _activePreview = new GameObject("CGPreview");
+        _activePreview.transform.SetParent(Root, false);
+
+        // 背景遮罩（点击关闭）
+        Image bg = _activePreview.AddComponent<Image>();
+        bg.color = new Color(0f, 0f, 0f, 0.94f);
+        Button closeBtn = _activePreview.AddComponent<Button>();
+        closeBtn.onClick.AddListener(ClosePreview);
+
+        RectTransform bgRt = _activePreview.GetComponent<RectTransform>();
+        bgRt.anchorMin = Vector2.zero;
+        bgRt.anchorMax = Vector2.one;
+        bgRt.offsetMin = Vector2.zero;
+        bgRt.offsetMax = Vector2.zero;
+
+        // 图片本体
+        GameObject imgGo = new GameObject("Image");
+        imgGo.transform.SetParent(_activePreview.transform, false);
+        RawImage img = imgGo.AddComponent<RawImage>();
+        img.texture = tex;
+
+        // 按宽高比适配到 ~1600x900 内部区域
+        float maxW = 1600f, maxH = 900f;
+        float aspect = (float)tex.width / Mathf.Max(1, tex.height);
+        float w = maxW, h = maxW / aspect;
+        if (h > maxH) { h = maxH; w = maxH * aspect; }
+        RectTransform imgRt = imgGo.GetComponent<RectTransform>();
+        imgRt.anchorMin = new Vector2(0.5f, 0.5f);
+        imgRt.anchorMax = new Vector2(0.5f, 0.5f);
+        imgRt.pivot = new Vector2(0.5f, 0.5f);
+        imgRt.anchoredPosition = Vector2.zero;
+        imgRt.sizeDelta = new Vector2(w, h);
+
+        // 提示
+        CreateLabel(_activePreview.transform, entry.displayName + "（点击任意位置返回）",
+            new Vector2(0f, -h * 0.5f - 40f), 22);
+    }
+
+    public void ClosePreview()
+    {
+        if (_activePreview != null)
+        {
+            Destroy(_activePreview);
+            _activePreview = null;
+        }
+        if (_activeHandle.IsValid())
+        {
+            Addressables.Release(_activeHandle);
+            _activeHandle = default;
+        }
+    }
+
+    public override void Hide()
+    {
+        ClosePreview();
+        base.Hide();
     }
 }
