@@ -52,7 +52,7 @@ public static class AchievementRegistry
         if (_byId == null)
         {
             _byId = new Dictionary<string, AchievementDef>();
-            foreach (var a in All) _byId[a.id] = a;
+            foreach (var a in All) _byId[a.Id] = a;
         }
         return _byId.TryGetValue(id, out var def) ? def : null;
     }
