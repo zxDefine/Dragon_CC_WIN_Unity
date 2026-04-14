@@ -40,23 +40,23 @@ public class AchievementListScreen : UIScreenBase
 
     private static void CreateAchievementCard(Transform parent, AchievementRegistry.AchievementDef def)
     {
-        bool unlocked = AchievementManager.IsUnlocked(def.id);
-        GameObject card = new GameObject("Card_" + def.id);
+        bool unlocked = AchievementManager.IsUnlocked(def.Id);
+        GameObject card = new GameObject("Card_" + def.Id);
         card.transform.SetParent(parent, false);
         Image bg = card.AddComponent<Image>();
         bg.color = unlocked
             ? new Color(0.18f, 0.12f, 0.05f, 0.9f)
             : new Color(0.08f, 0.08f, 0.1f, 0.85f);
 
-        // 标题
+        // 标题。使用中文方括号前缀代替 emoji 避免 LegacyRuntime.ttf 缺字形
         GameObject titleGo = new GameObject("Title");
         titleGo.transform.SetParent(card.transform, false);
         Text title = titleGo.AddComponent<Text>();
         title.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
         title.alignment = TextAnchor.MiddleLeft;
         title.fontSize = 22;
-        string prefix = unlocked ? "🏆 " : "🔒 ";
-        title.text = prefix + (unlocked ? def.displayName : (def.hidden ? "???" : def.displayName));
+        string prefix = unlocked ? "[已解锁] " : "[未解锁] ";
+        title.text = prefix + (unlocked ? def.DisplayName : (def.Hidden ? "???" : def.DisplayName));
         title.color = unlocked ? new Color(1f, 0.85f, 0.4f, 1f) : new Color(0.6f, 0.6f, 0.6f, 1f);
         RectTransform trt = titleGo.GetComponent<RectTransform>();
         trt.anchorMin = new Vector2(0f, 1f);
@@ -72,7 +72,7 @@ public class AchievementListScreen : UIScreenBase
         desc.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
         desc.alignment = TextAnchor.UpperLeft;
         desc.fontSize = 16;
-        desc.text = unlocked ? def.description : (def.hidden ? "（未解锁）" : def.description);
+        desc.text = unlocked ? def.Description : (def.Hidden ? "（未解锁）" : def.Description);
         desc.color = unlocked ? new Color(0.95f, 0.95f, 0.95f, 1f) : new Color(0.5f, 0.5f, 0.5f, 1f);
         desc.horizontalOverflow = HorizontalWrapMode.Wrap;
         desc.verticalOverflow = VerticalWrapMode.Truncate;

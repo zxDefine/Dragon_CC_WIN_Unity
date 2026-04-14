@@ -86,26 +86,36 @@ public class EndingCreditsScreen : UIScreenBase
 
     private IEnumerator ScrollRoutine()
     {
-        // 从底部滚到顶部
+        // 从底部滚到顶部。使用 unscaledDeltaTime 防止游戏暂停（timeScale=0）时字幕停滞。
         float startY = -1080f;
         float endY = 2200f;
         float t = 0f;
         while (t < ScrollDuration)
         {
-            t += Time.deltaTime;
+            t += Time.unscaledDeltaTime;
             float k = Mathf.Clamp01(t / ScrollDuration);
             _creditsRt.anchoredPosition = new Vector2(0f, Mathf.Lerp(startY, endY, k));
             yield return null;
         }
         // 滚完后等 1s 自动返回
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSecondsRealtime(1f);
         OnSkip();
     }
 
     private void OnSkip()
     {
         if (_scrollRoutine != null) { StopCoroutine(_scrollRoutine); _scrollRoutine = null; }
+        // 清除跨结局残留：下一次结局触发时若没主动设置 CustomCredits，将走默认文案
+        CustomCredits = null;
         UIScreenManager.Instance.PopAll();
         UIScreenManager.Instance.Show<MainMenuScreen>();
+    }
+
+    public override void Hide()
+    {
+        // Hide 也清理一次作为双重保险
+        if (_scrollRoutine != null) { StopCoroutine(_scrollRoutine); _scrollRoutine = null; }
+        CustomCredits = null;
+        base.Hide();
     }
 }

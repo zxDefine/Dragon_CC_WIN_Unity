@@ -49,7 +49,8 @@ public class AchievementToastScreen : UIScreenBase
         rt.anchoredPosition = new Vector2(-30f, -30f);
         rt.sizeDelta = new Vector2(480f, 120f);
 
-        _titleText = CreateToastLabel(_card.transform, "🏆 成就解锁", new Vector2(0f, 30f), 26, new Color(1f, 0.85f, 0.4f, 1f));
+        // 使用中文标题代替 emoji 避免 LegacyRuntime.ttf 缺字形
+        _titleText = CreateToastLabel(_card.transform, "★ 成就解锁", new Vector2(0f, 30f), 26, new Color(1f, 0.85f, 0.4f, 1f));
         _subText = CreateToastLabel(_card.transform, "", new Vector2(0f, -15f), 18, Color.white);
 
         _card.SetActive(false);
@@ -75,6 +76,10 @@ public class AchievementToastScreen : UIScreenBase
         return t;
     }
 
+    /// <summary>
+    /// 展示一条成就解锁通知。已解锁状态已由 <see cref="AchievementManager"/> 判定，
+    /// 本方法只负责视觉弹窗；若 <paramref name="achievementId"/> 未在注册表就静默跳过。
+    /// </summary>
     public void ShowToast(string achievementId)
     {
         var def = AchievementRegistry.Get(achievementId);
@@ -84,7 +89,7 @@ public class AchievementToastScreen : UIScreenBase
         if (Canvas != null) Canvas.enabled = true;
         gameObject.SetActive(true);
 
-        _subText.text = def.displayName;
+        _subText.text = def.DisplayName;
         _card.SetActive(true);
 
         if (_activeRoutine != null) StopCoroutine(_activeRoutine);

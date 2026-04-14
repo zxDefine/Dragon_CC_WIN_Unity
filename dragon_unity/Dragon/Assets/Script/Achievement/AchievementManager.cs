@@ -27,9 +27,16 @@ public static class AchievementManager
     private static Dictionary<string, UnlockedEntry> _state;
     private static bool _dirty;
 
+    /// <summary>
+    /// 加载失败的"毒化"标志。一旦为 true，后续 Sync() 拒绝写回以防止旧存档被空状态覆盖。
+    /// 修复 M5 审查 CRITICAL：EnsureLoaded 捕获异常后 _state 变空 → 下次 Sync 会静默擦除旧存档。
+    /// </summary>
+    private static bool _loadFailed;
+
     public static event Action<string> OnGranted; // 通知 UI 弹出 toast
 
     private static string FilePath => Path.Combine(Application.persistentDataPath, FileName);
+    private static string BackupPath => Path.Combine(Application.persistentDataPath, FileName + ".corrupted");
 
     private static void EnsureLoaded()
     {
@@ -49,7 +56,22 @@ public static class AchievementManager
         }
         catch (Exception e)
         {
-            Debug.LogError($"[AchievementManager] load failed: {e.Message}");
+            // 关键：标记 _loadFailed 以阻止后续 Sync 用空 _state 覆盖磁盘
+            _loadFailed = true;
+            Debug.LogError($"[AchievementManager] load failed (will NOT overwrite to prevent data loss): {e}");
+            // 尝试把损坏文件另存为 .corrupted 备份
+            try
+            {
+                if (File.Exists(FilePath))
+                {
+                    File.Copy(FilePath, BackupPath, overwrite: true);
+                    Debug.LogWarning($"[AchievementManager] corrupted file backed up to {BackupPath}");
+                }
+            }
+            catch (Exception be)
+            {
+                Debug.LogError($"[AchievementManager] backup failed: {be.Message}");
+            }
         }
     }
 
@@ -73,16 +95,26 @@ public static class AchievementManager
             unlockTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
         };
         _dirty = true;
-        Debug.Log($"[AchievementManager] 🏆 Grant {id} ({def.displayName})");
+        Debug.Log($"[AchievementManager] ★ Grant {id} ({def.DisplayName})");
         OnGranted?.Invoke(id);
         return true;
     }
 
-    /// <summary>同步到磁盘。仅在状态变更后实际写文件。</summary>
+    /// <summary>
+    /// 同步到磁盘。仅在状态变更后实际写文件。
+    /// 若上次 EnsureLoaded 失败（<see cref="_loadFailed"/> = true），拒绝写入以保护旧存档。
+    /// </summary>
     public static void Sync()
     {
         EnsureLoaded();
         if (!_dirty) return;
+        if (_loadFailed)
+        {
+            Debug.LogError("[AchievementManager] Sync aborted: previous load failed. "
+                + "Corrupted save was backed up as achievements.json.corrupted; "
+                + "clear it manually or call ForceSync() to proceed.");
+            return;
+        }
         try
         {
             var s = new Store();
@@ -94,8 +126,20 @@ public static class AchievementManager
         }
         catch (Exception e)
         {
-            Debug.LogError($"[AchievementManager] Sync failed: {e.Message}");
+            Debug.LogException(e);
+            Debug.LogError("[AchievementManager] Sync failed (see exception above)");
         }
+    }
+
+    /// <summary>
+    /// 管理员覆盖：即使 <see cref="_loadFailed"/> 为 true 也强制写回。
+    /// 仅应在用户明确选择"覆盖损坏存档"后调用。
+    /// </summary>
+    public static void ForceSync()
+    {
+        _loadFailed = false;
+        _dirty = true;
+        Sync();
     }
 
     public static bool IsUnlocked(string id)
@@ -117,11 +161,12 @@ public static class AchievementManager
         foreach (var kv in _state) yield return kv.Value;
     }
 
-    /// <summary>Debug / 测试用：清空解锁状态。</summary>
+    /// <summary>Debug / 测试用：清空解锁状态。同时清除 <see cref="_loadFailed"/> 以允许后续 Sync。</summary>
     public static void ResetAll()
     {
         _state = new Dictionary<string, UnlockedEntry>();
         _dirty = true;
+        _loadFailed = false;
         Sync();
     }
 }

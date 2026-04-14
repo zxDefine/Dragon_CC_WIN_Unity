@@ -60,4 +60,15 @@ public class GameMain : MonoBehaviour
             && CharacterManager.Instance != null && CharacterManager.Instance.IsReady
             && ImageManager.Instance != null && ImageManager.Instance.IsReady;
     }
+
+    /// <summary>
+    /// 应用退出时的安全网：即使某个 cs 遗漏了 <c>SyncAchievement()</c>，
+    /// 这里仍会把未持久化的成就解锁刷回磁盘，避免玩家流失成就。
+    /// 同时由 <see cref="AchievementManager._loadFailed"/> 守护，不会覆盖损坏的旧存档。
+    /// </summary>
+    private void OnApplicationQuit()
+    {
+        try { AchievementManager.Sync(); }
+        catch (System.Exception e) { Debug.LogException(e); }
+    }
 }

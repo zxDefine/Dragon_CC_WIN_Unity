@@ -7,19 +7,23 @@ using System.Collections.Generic;
 /// </summary>
 public static class AchievementRegistry
 {
-    [Serializable]
+    /// <summary>
+    /// 单条成就的不可变描述。字段只读，避免外部运行时修改注册表（审查建议）。
+    /// </summary>
     public class AchievementDef
     {
-        public string id;
-        public string displayName;
-        public string description;
-        public bool hidden; // 未解锁时是否隐藏描述
+        public string Id { get; }
+        public string DisplayName { get; }
+        public string Description { get; }
+        /// <summary>未解锁时是否隐藏描述（"???"占位）。</summary>
+        public bool Hidden { get; }
+
         public AchievementDef(string id, string name, string desc, bool hidden = false)
         {
-            this.id = id;
-            displayName = name;
-            description = desc;
-            this.hidden = hidden;
+            Id = id;
+            DisplayName = name;
+            Description = desc;
+            Hidden = hidden;
         }
     }
 
