@@ -297,9 +297,21 @@
   - `Shaders/Glitch.shader`（条带抖动 + 色彩像差 + 扫描线）
 - WarperLibrary（Renpy 缓动函数库如 eyewarp/bounce/repeat）与 MultipleTransitionSequencer（多阶段转场组合）留待 M3 二轮打磨期间视需求补
 
-### M4 — UI 系统移植
-- 25+ 个屏幕的 UGUI 实现
-- 存档/读档功能
+### M4 — UI 系统移植 ✅（首版完成，M6 打磨对齐美术）
+- [x] M4.1 SaveSystem 后端：`GameStateSnapshot`（反射序列化 Defaults/Persistent/Preferences/Engine 全量静态字段）+ `SaveSystem`（JSON + `Application.persistentDataPath/saves/` + 18 槽位 + quick/auto 特殊槽）
+- [x] M4.2 Main Menu + Navigation（开始/读档/设置/附加/回想/退出）
+- [x] M4.3 Quick Menu overlay（回退/跳过/自动/保存/Q存/Q读/历史/隐藏/设置/菜单）
+- [x] M4.4 Game Menu + Save / Load 画面（3×2 网格 × 10 页分页）
+- [x] M4.5 Settings（music/sound/voice 音量 + 文字速度 + 自动播放间隔 + 全屏切换，PlayerPrefs 持久化）
+- [x] M4.6 Dialog/Choice 变体注册表（`UIVariantRegistry`：say/say1/say2 与 choice/choice1~5 的样式参数集中声明）
+- [x] M4.7 Extras 入口 + Sucai 素材页 + History 历史面板 + Recollection 回想总入口
+- [x] M4.8 Music Gallery（9 首代表曲目 + 停止按钮 + AudioManager 真播放）
+- [x] M4.9 Story Gallery（11 个章节条目 + 基于 `Defaults.Persistent.Jq_*` 的解锁门禁）
+- [x] M4.10 CG Gallery（9 张代表 CG，网格布局，点击异步 Addressables 加载 Texture2D 预览日志）
+- [x] M4.11 Character Archive（5 角色档案 + 反射读取 Haogandu_* 好感度）
+- [x] M4.12 Fanwai 番外列表（基于 Gallery_fanwai*_lock 解锁）
+- [x] `UIScreenBase` / `UIScreenManager`：纯代码构建 Canvas，栈式导航，GetOrCreate 延迟实例化
+- 首版均为纯代码 UGUI，字体暂用 `LegacyRuntime.ttf`；美术资源接入（textbox 背景、主菜单立绘、gui/ 按钮样式）归入 M6 打磨
 
 ### M5 — 成就与画廊系统
 - 成就系统、CG 画廊、回想模式、结局字幕
