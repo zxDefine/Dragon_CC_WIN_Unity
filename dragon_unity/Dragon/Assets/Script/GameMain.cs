@@ -36,14 +36,14 @@ public class GameMain : MonoBehaviour
         LabelRegistry.Instance.InjectDependency("GameMethods", gm);
         yield return LabelRegistry.Instance.RegisterAllLabelsFromTxt();
 
-        // M4：根据 startLabel 决定走主菜单还是直接启动指定章节
+        // M4/M6：根据 startLabel 决定走 splash → 主菜单还是直接启动指定章节
         if (string.IsNullOrWhiteSpace(startLabel))
         {
-            // 无指定 label → 弹主菜单，等待玩家点击"开始游戏"或"读取存档"
+            // 无指定 label → 启动 splash，splash 会在动画结束后自动切到主菜单
             if (UIScreenManager.Instance != null)
             {
-                UIScreenManager.Instance.Show<MainMenuScreen>();
-                Debug.Log("[GameMain] 进入主菜单（startLabel 为空）");
+                UIScreenManager.Instance.Show<SplashScreen>();
+                Debug.Log("[GameMain] 进入启动画面（startLabel 为空）");
             }
             else
             {
