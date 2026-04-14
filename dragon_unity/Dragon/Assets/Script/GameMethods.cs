@@ -386,21 +386,117 @@ public class GameMethods : MonoBehaviour
     /// <remarks>对应 Renpy: menu(screen="choiceX"): "选项文本" jump label_name if condition</remarks>
     public IEnumerator OpenSelectMenu(List<string> talk = null, List<string> jump = null, List<string> condition = null, string screen = null)
     {
-        // 兼容旧的调用方式
-        List<string> textList = talk;
-        List<string> labelList = jump;
+        // 根据 condition 过滤选项。Renpy 语义：`"选项" if expr` 只在 expr 为真时显示。
+        // M1 阶段支持 "NONE"（总是显示）与 "Defaults.<FieldName>" 形式布尔字段（反射读取）。
+        // 其它复杂表达式归入 M4 完整解析。
+        List<string> filteredTalk = new List<string>();
+        List<string> filteredJump = new List<string>();
+        int count = talk?.Count ?? 0;
+        for (int i = 0; i < count; i++)
+        {
+            string cond = (condition != null && i < condition.Count) ? condition[i] : "NONE";
+            if (!EvaluateMenuCondition(cond))
+            {
+                Debug.Log($"[OpenSelectMenu] 过滤掉选项[{i}] '{talk[i]}'，条件 '{cond}' 为 false");
+                continue;
+            }
+            filteredTalk.Add(talk[i]);
+            filteredJump.Add(jump != null && i < jump.Count ? jump[i] : null);
+        }
 
         SelectInfo selectInfo = new SelectInfo
         {
-            textList = textList,
-            labelList = labelList
+            textList = filteredTalk,
+            labelList = filteredJump
         };
-        Debug.Log($"OpenSelectMenu talk:{talk?.Count} jump:{jump?.Count} screen:{screen}");
+        Debug.Log($"OpenSelectMenu talk:{talk?.Count}→{filteredTalk.Count} jump:{jump?.Count} screen:{screen}");
 
-        // TODO: condition 条件过滤（目前 "NONE" 表示无条件，其他值需要评估）
-        // TODO: screen 参数控制不同的选择界面样式（M4 阶段实现）
+        // TODO(M4): screen 参数控制不同的选择界面样式
 
         yield return uiSelectionMenu.OpenMenu(selectInfo);
+    }
+
+    /// <summary>
+    /// 评估 menu 选项的条件字符串。返回 true 表示选项应该显示。
+    /// 支持：
+    ///   "NONE"                            → 始终显示
+    ///   "Defaults.<Field>"                → 读取 GameState.cs 上的静态 bool/int 字段
+    ///   "Defaults.Persistent.<Field>"     → 读取 Persistent 子对象字段
+    ///   前缀 "!"                          → 结果取反
+    /// 其它形式（含比较、组合逻辑等）归入 M4 完整表达式解析；此处回退为 false 并记录警告。
+    /// </summary>
+    private static bool EvaluateMenuCondition(string cond)
+    {
+        if (string.IsNullOrEmpty(cond) || cond == "NONE") return true;
+        string expr = cond.Trim();
+        bool negate = false;
+        if (expr.StartsWith("!"))
+        {
+            negate = true;
+            expr = expr.Substring(1).TrimStart();
+        }
+        bool? value = ResolveDottedBool(expr);
+        if (!value.HasValue)
+        {
+            Debug.LogWarning($"[EvaluateMenuCondition] 无法解析条件 '{cond}'，回退为 false");
+            return false;
+        }
+        return negate ? !value.Value : value.Value;
+    }
+
+    /// <summary>
+    /// 通过反射解析 "Defaults.X" / "Defaults.Persistent.Y" 形式的字段路径，
+    /// 返回布尔化后的结果（bool 直接返回；数值类型 0 为 false，非 0 为 true；string 空为 false）。
+    /// 解析失败返回 null。
+    /// </summary>
+    private static bool? ResolveDottedBool(string path)
+    {
+        string[] parts = path.Split('.');
+        if (parts.Length < 2) return null;
+        System.Type t = System.Type.GetType(parts[0]);
+        if (t == null)
+        {
+            // 在当前已加载程序集里按短名查找（匹配 Defaults / Engine 等单根类型）
+            foreach (var asm in System.AppDomain.CurrentDomain.GetAssemblies())
+            {
+                t = asm.GetType(parts[0], false, false);
+                if (t != null) break;
+                foreach (var candidate in asm.GetTypes())
+                {
+                    if (candidate.Name == parts[0]) { t = candidate; break; }
+                }
+                if (t != null) break;
+            }
+        }
+        if (t == null) return null;
+
+        object current = null; // 静态根
+        for (int i = 1; i < parts.Length; i++)
+        {
+            string name = parts[i];
+            var field = t.GetField(name, System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Static | System.Reflection.BindingFlags.Instance);
+            if (field != null)
+            {
+                current = field.GetValue(current);
+                t = field.FieldType;
+                continue;
+            }
+            var prop = t.GetProperty(name, System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Static | System.Reflection.BindingFlags.Instance);
+            if (prop != null)
+            {
+                current = prop.GetValue(current);
+                t = prop.PropertyType;
+                continue;
+            }
+            return null;
+        }
+        if (current == null) return false;
+        if (current is bool b) return b;
+        if (current is int iv) return iv != 0;
+        if (current is long lv) return lv != 0;
+        if (current is float fv) return fv != 0f;
+        if (current is string sv) return !string.IsNullOrEmpty(sv);
+        return true; // 非空引用即 true
     }
     ///////////////////////////////////////////////////////////////////////////////////////////////////////
     

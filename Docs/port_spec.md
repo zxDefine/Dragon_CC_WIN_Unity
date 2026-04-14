@@ -265,19 +265,23 @@
 
 ## 6. 里程碑计划
 
-### M0 — 规格文档补全（当前）
+### M0 — 规格文档补全 ✅
 - [x] port_spec.md（本文件）
-- [ ] renpy_analysis.md
-- [ ] architecture.md
-- [ ] asset_spec.md
+- [x] renpy_analysis.md（390 行，原版逆向分析）
+- [x] architecture.md（203 行，目标工程架构说明）
+- [x] asset_spec.md（193 行，资源迁移规格）
 
-### M1 — P0 Bug 修复 + GameMethods 空实现补全
-- 目标：让 zhuxian0 一章可完整运行
-- 详细 todo 见 M1 实施时拆分
+### M1 — P0 Bug 修复 + GameMethods 空实现补全 ✅
+- [x] 11 条 P0 bug 全部修复（BUG-01~11，详见 §5）
+- [x] `OpenSelectMenu` condition 反射求值（支持 `"NONE"` / `"Defaults.X"` / `"Defaults.Persistent.X"` / 前缀 `!` 取反）
+- [x] `TransitionBy` 已实现 10+ 种 ImageDissolve 转场（eye/waves 遮罩，M3 继续打磨）
+- NvlClear 暂按原计划归入 M4（NVL 模式需要 UI 子系统配套）
 
-### M2 — 剩余 9 个剧情脚本转换
-- 转换 P0 关键路径：zhuxian5/6, juezhan, tuanzhan_you, fanhuitu
-- 转换 P1 分支：bai, bai1, end7, juezhanhou_bai
+### M2 — 剩余剧情脚本转换 ✅
+- [x] P0 关键路径：zhuxian5/6（Phase 3.6/3.7）, juezhan（Phase 3.4）, tuanzhan_you（Phase 3.5）, fanhuitu（Phase 3.4）
+- [x] P1 分支：bai（Phase 3.8）, bai1（Phase 3.3）, end7（Phase 3.9）, juezhanhou_bai（Phase 3.4）
+- [x] `rpy_to_cs_transcriber.py` 确定性转译工具链建立
+- 共 18 个 rpy 全部转换完成（9 条新增 + 9 条先期），见 §4.1
 
 ### M3 — 转场与视觉特效系统
 - 5 个自定义 Shader
