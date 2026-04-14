@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: eb6320ac98a304056b10d542adbe75bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1184587162428418669
+    second: yongzhe_shuye_0
+  - first:
+      213: -8337081852312215126
+    second: yongzhe_shuye_1
+  - first:
+      213: 2455731972204599537
+    second: yongzhe_shuye_2
+  - first:
+      213: -8271209583930905885
+    second: yongzhe_shuye_3
+  - first:
+      213: 4772145965749978502
+    second: yongzhe_shuye_4
+  - first:
+      213: -5994899878951757792
+    second: yongzhe_shuye_5
+  - first:
+      213: 4064976037437829445
+    second: yongzhe_shuye_6
+  - first:
+      213: 5208163361271418015
+    second: yongzhe_shuye_7
+  - first:
+      213: -2156810924616976881
+    second: yongzhe_shuye_8
+  - first:
+      213: -5248531898581366197
+    second: yongzhe_shuye_9
+  - first:
+      213: -5996614810339561959
+    second: yongzhe_shuye_10
+  - first:
+      213: -4307177374435164824
+    second: yongzhe_shuye_11
+  - first:
+      213: 409272425659853361
+    second: yongzhe_shuye_12
+  - first:
+      213: 1009669346860518311
+    second: yongzhe_shuye_13
+  - first:
+      213: 6504755769615561372
+    second: yongzhe_shuye_14
+  - first:
+      213: -8649376967528398307
+    second: yongzhe_shuye_15
+  - first:
+      213: 1418004263765086080
+    second: yongzhe_shuye_16
+  - first:
+      213: -6667891236787980322
+    second: yongzhe_shuye_17
+  - first:
+      213: -7116099374570832780
+    second: yongzhe_shuye_18
+  - first:
+      213: 5494398034966649811
+    second: yongzhe_shuye_19
+  - first:
+      213: -9051222405724640599
+    second: yongzhe_shuye_20
+  - first:
+      213: -4193063430285472341
+    second: yongzhe_shuye_21
+  - first:
+      213: 8167775326071291301
+    second: yongzhe_shuye_22
+  - first:
+      213: -2158080367382200293
+    second: yongzhe_shuye_23
+  - first:
+      213: -7235948812235097571
+    second: yongzhe_shuye_24
+  - first:
+      213: -2840341249752258848
+    second: yongzhe_shuye_25
+  - first:
+      213: 8380031592446751664
+    second: yongzhe_shuye_26
+  - first:
+      213: 7375955292264062421
+    second: yongzhe_shuye_27
+  - first:
+      213: -207083363867236510
+    second: yongzhe_shuye_28
+  - first:
+      213: 6777405233232129203
+    second: yongzhe_shuye_29
+  - first:
+      213: -965752286367735358
+    second: yongzhe_shuye_30
+  - first:
+      213: 3988571771111406188
+    second: yongzhe_shuye_31
+  - first:
+      213: -5914268241840787213
+    second: yongzhe_shuye_32
+  - first:
+      213: 1709342309301492776
+    second: yongzhe_shuye_33
+  - first:
+      213: -7379437174255906028
+    second: yongzhe_shuye_34
+  - first:
+      213: -245871821170007096
+    second: yongzhe_shuye_35
+  - first:
+      213: 9055339548226811828
+    second: yongzhe_shuye_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yongzhe_shuye_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 165
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39557f180408f8fe0800000000000000
+      internalID: -1184587162428418669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 606
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa123912a3cbc4c80800000000000000
+      internalID: -8337081852312215126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_2
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f813dab733841220800000000000000
+      internalID: 2455731972204599537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 943
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaedf6c4b2c63d80800000000000000
+      internalID: -8271209583930905885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 522
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68547d0d8711a3240800000000000000
+      internalID: 4772145965749978502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 463
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0285c0b8256ddcca0800000000000000
+      internalID: -5994899878951757792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_6
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 450
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541f4fb3b22b96830800000000000000
+      internalID: 4064976037437829445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 420
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c89c8abfc174840800000000000000
+      internalID: 5208163361271418015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 403
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06f58e24e77112e0800000000000000
+      internalID: -2156810924616976881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 381
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a40c0db087927b0800000000000000
+      internalID: -5248531898581366197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 332
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e2dd6f99eb7cca0800000000000000
+      internalID: -5996614810339561959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 340
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d31349ff4d934c0800000000000000
+      internalID: -4307177374435164824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a61db4a170ea500800000000000000
+      internalID: 409272425659853361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abc838ebe0130e00800000000000000
+      internalID: 1009669346860518311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92bb96a8e8854a50800000000000000
+      internalID: 6504755769615561372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 312
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d124602797d37f780800000000000000
+      internalID: -8649376967528398307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 290
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f05bf6d53cda310800000000000000
+      internalID: 1418004263765086080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 306
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ff468f34e673a0800000000000000
+      internalID: -6667891236787980322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c735052598e3d90800000000000000
+      internalID: -7116099374570832780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db9ac8f6e5004c40800000000000000
+      internalID: 5494398034966649811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae9bb6d29936280800000000000000
+      internalID: -9051222405724640599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 292
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad4725a60f3fc5c0800000000000000
+      internalID: -4193063430285472341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adfda36264c95170800000000000000
+      internalID: 8167775326071291301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 239
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1080710755fc02e0800000000000000
+      internalID: -2158080367382200293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 219
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a31d994eeb49b90800000000000000
+      internalID: -7235948812235097571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a0af9ea41598d0800000000000000
+      internalID: -2840341249752258848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 201
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3f652855adb4470800000000000000
+      internalID: 8380031592446751664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 254
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddf824248ac5660800000000000000
+      internalID: 7375955292264062421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ecc917ca402df0800000000000000
+      internalID: -207083363867236510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcaca1c62e2e0e50800000000000000
+      internalID: 6777405233232129203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1a70e8965f892f0800000000000000
+      internalID: -965752286367735358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6afe3ab4e04a5730800000000000000
+      internalID: 3988571771111406188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0b4b28e5c4ceda0800000000000000
+      internalID: -5914268241840787213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c167916cdc8b710800000000000000
+      internalID: 1709342309301492776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 9
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4131a2aecf8f69990800000000000000
+      internalID: -7379437174255906028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c322ee91ec769cf0800000000000000
+      internalID: -245871821170007096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yongzhe_shuye_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7fa9487570bad70800000000000000
+      internalID: 9055339548226811828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yongzhe_shuye_0: -1184587162428418669
+      yongzhe_shuye_1: -8337081852312215126
+      yongzhe_shuye_10: -5996614810339561959
+      yongzhe_shuye_11: -4307177374435164824
+      yongzhe_shuye_12: 409272425659853361
+      yongzhe_shuye_13: 1009669346860518311
+      yongzhe_shuye_14: 6504755769615561372
+      yongzhe_shuye_15: -8649376967528398307
+      yongzhe_shuye_16: 1418004263765086080
+      yongzhe_shuye_17: -6667891236787980322
+      yongzhe_shuye_18: -7116099374570832780
+      yongzhe_shuye_19: 5494398034966649811
+      yongzhe_shuye_2: 2455731972204599537
+      yongzhe_shuye_20: -9051222405724640599
+      yongzhe_shuye_21: -4193063430285472341
+      yongzhe_shuye_22: 8167775326071291301
+      yongzhe_shuye_23: -2158080367382200293
+      yongzhe_shuye_24: -7235948812235097571
+      yongzhe_shuye_25: -2840341249752258848
+      yongzhe_shuye_26: 8380031592446751664
+      yongzhe_shuye_27: 7375955292264062421
+      yongzhe_shuye_28: -207083363867236510
+      yongzhe_shuye_29: 6777405233232129203
+      yongzhe_shuye_3: -8271209583930905885
+      yongzhe_shuye_30: -965752286367735358
+      yongzhe_shuye_31: 3988571771111406188
+      yongzhe_shuye_32: -5914268241840787213
+      yongzhe_shuye_33: 1709342309301492776
+      yongzhe_shuye_34: -7379437174255906028
+      yongzhe_shuye_35: -245871821170007096
+      yongzhe_shuye_36: 9055339548226811828
+      yongzhe_shuye_4: 4772145965749978502
+      yongzhe_shuye_5: -5994899878951757792
+      yongzhe_shuye_6: 4064976037437829445
+      yongzhe_shuye_7: 5208163361271418015
+      yongzhe_shuye_8: -2156810924616976881
+      yongzhe_shuye_9: -5248531898581366197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

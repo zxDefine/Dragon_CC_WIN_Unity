@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 463b642e8d0114ec6b44723bb82255ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3901200932964164702
+    second: zhuajiaohuai_dingtu3_0
+  - first:
+      213: -5049104532442544571
+    second: zhuajiaohuai_dingtu3_1
+  - first:
+      213: -5211091848744768174
+    second: zhuajiaohuai_dingtu3_2
+  - first:
+      213: 5039712088767472407
+    second: zhuajiaohuai_dingtu3_3
+  - first:
+      213: 3151759419401435603
+    second: zhuajiaohuai_dingtu3_4
+  - first:
+      213: -3089744756591448472
+    second: zhuajiaohuai_dingtu3_5
+  - first:
+      213: -5520022363482942075
+    second: zhuajiaohuai_dingtu3_6
+  - first:
+      213: -2887150033755880992
+    second: zhuajiaohuai_dingtu3_7
+  - first:
+      213: 7357576472162933717
+    second: zhuajiaohuai_dingtu3_8
+  - first:
+      213: 3482875084072433288
+    second: zhuajiaohuai_dingtu3_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_0
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 735
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5460ce3499d32630800000000000000
+      internalID: 3901200932964164702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_1
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 734
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54682f5dd2afde9b0800000000000000
+      internalID: -5049104532442544571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 668
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d62a7b29b7ea7b0800000000000000
+      internalID: -5211091848744768174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_3
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 624
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7132a357177a0f540800000000000000
+      internalID: 5039712088767472407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_4
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 658
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9f9e24e7c4dbb20800000000000000
+      internalID: 3151759419401435603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 565
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eadb893850f15d0800000000000000
+      internalID: -3089744756591448472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_6
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 611
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585136028e0f463b0800000000000000
+      internalID: -5520022363482942075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 518
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e149b05758cee7d0800000000000000
+      internalID: -2887150033755880992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 506
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db1b0fb1dc5b1660800000000000000
+      internalID: 7357576472162933717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhuajiaohuai_dingtu3_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 520
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88632379f68a55030800000000000000
+      internalID: 3482875084072433288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zhuajiaohuai_dingtu3_0: 3901200932964164702
+      zhuajiaohuai_dingtu3_1: -5049104532442544571
+      zhuajiaohuai_dingtu3_2: -5211091848744768174
+      zhuajiaohuai_dingtu3_3: 5039712088767472407
+      zhuajiaohuai_dingtu3_4: 3151759419401435603
+      zhuajiaohuai_dingtu3_5: -3089744756591448472
+      zhuajiaohuai_dingtu3_6: -5520022363482942075
+      zhuajiaohuai_dingtu3_7: -2887150033755880992
+      zhuajiaohuai_dingtu3_8: 7357576472162933717
+      zhuajiaohuai_dingtu3_9: 3482875084072433288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

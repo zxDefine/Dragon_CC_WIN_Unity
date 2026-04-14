@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b3f9ea60e34bc4533971b0c90a9bc198
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1422144176769931434
+    second: gongzuoshi_logo0_0
+  - first:
+      213: -8270355432968277818
+    second: gongzuoshi_logo0_1
+  - first:
+      213: -5836999323748266203
+    second: gongzuoshi_logo0_2
+  - first:
+      213: 2587272205404961094
+    second: gongzuoshi_logo0_3
+  - first:
+      213: 9021891761068463047
+    second: gongzuoshi_logo0_4
+  - first:
+      213: 6544056321440123036
+    second: gongzuoshi_logo0_5
+  - first:
+      213: -8157350927750088791
+    second: gongzuoshi_logo0_6
+  - first:
+      213: -3786068712831978439
+    second: gongzuoshi_logo0_7
+  - first:
+      213: 4697791707134766003
+    second: gongzuoshi_logo0_8
+  - first:
+      213: -5584285673552680400
+    second: gongzuoshi_logo0_9
+  - first:
+      213: -2235969156416427391
+    second: gongzuoshi_logo0_10
+  - first:
+      213: -7810878459946169846
+    second: gongzuoshi_logo0_11
+  - first:
+      213: -8373140465540894765
+    second: gongzuoshi_logo0_12
+  - first:
+      213: 1076695779030861661
+    second: gongzuoshi_logo0_13
+  - first:
+      213: 7833742278702143678
+    second: gongzuoshi_logo0_14
+  - first:
+      213: 1335395229476382584
+    second: gongzuoshi_logo0_15
+  - first:
+      213: 6072738497447987589
+    second: gongzuoshi_logo0_16
+  - first:
+      213: 4751241200826502130
+    second: gongzuoshi_logo0_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ec34f767834ce0800000000000000
+      internalID: -1422144176769931434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c034bb4d8bc93d80800000000000000
+      internalID: -8270355432968277818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f0ac17a00defea0800000000000000
+      internalID: -5836999323748266203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 46
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6497764ec56d7e320800000000000000
+      internalID: 2587272205404961094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 46
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c35284b1c2343d70800000000000000
+      internalID: 9021891761068463047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 43
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98869d6d8821da50800000000000000
+      internalID: 6544056321440123036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 46
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b04bfc844bce80800000000000000
+      internalID: -8157350927750088791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 46
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934fd6ca09e257bc0800000000000000
+      internalID: -3786068712831978439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 46
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb2b8ceaa8e13140800000000000000
+      internalID: 4697791707134766003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 46
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ae69744c1a082b0800000000000000
+      internalID: -5584285673552680400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 46
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aa11f16ed38f0e0800000000000000
+      internalID: -2235969156416427391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 46
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a882bac6f2a9390800000000000000
+      internalID: -7810878459946169846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df6cf00c11accb80800000000000000
+      internalID: -8373140465540894765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570c404b1131fe00800000000000000
+      internalID: 1076695779030861661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb81008f81b07bc60800000000000000
+      internalID: 7833742278702143678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e0bfc2e6488210800000000000000
+      internalID: 1335395229476382584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 13
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5890a3a1d73b64450800000000000000
+      internalID: 6072738497447987589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gongzuoshi_logo0_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc671f2bccfe140800000000000000
+      internalID: 4751241200826502130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gongzuoshi_logo0_0: -1422144176769931434
+      gongzuoshi_logo0_1: -8270355432968277818
+      gongzuoshi_logo0_10: -2235969156416427391
+      gongzuoshi_logo0_11: -7810878459946169846
+      gongzuoshi_logo0_12: -8373140465540894765
+      gongzuoshi_logo0_13: 1076695779030861661
+      gongzuoshi_logo0_14: 7833742278702143678
+      gongzuoshi_logo0_15: 1335395229476382584
+      gongzuoshi_logo0_16: 6072738497447987589
+      gongzuoshi_logo0_17: 4751241200826502130
+      gongzuoshi_logo0_2: -5836999323748266203
+      gongzuoshi_logo0_3: 2587272205404961094
+      gongzuoshi_logo0_4: 9021891761068463047
+      gongzuoshi_logo0_5: 6544056321440123036
+      gongzuoshi_logo0_6: -8157350927750088791
+      gongzuoshi_logo0_7: -3786068712831978439
+      gongzuoshi_logo0_8: 4697791707134766003
+      gongzuoshi_logo0_9: -5584285673552680400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

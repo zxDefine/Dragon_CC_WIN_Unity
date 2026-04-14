@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: bda0caa2d3f4b445db8ec421e29c4af3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3217109656073304167
+    second: fastwork_02_0
+  - first:
+      213: 7007921226634923820
+    second: fastwork_02_1
+  - first:
+      213: -4780188189640397102
+    second: fastwork_02_2
+  - first:
+      213: 5397589619499460430
+    second: fastwork_02_3
+  - first:
+      213: -4552819371568789142
+    second: fastwork_02_4
+  - first:
+      213: -2929078772285162703
+    second: fastwork_02_5
+  - first:
+      213: 1584394921721206613
+    second: fastwork_02_6
+  - first:
+      213: -3659616060969880419
+    second: fastwork_02_7
+  - first:
+      213: -8174598059131386861
+    second: fastwork_02_8
+  - first:
+      213: -1065989629333058300
+    second: fastwork_02_9
+  - first:
+      213: -7461667619365429950
+    second: fastwork_02_10
+  - first:
+      213: 7252324794061521377
+    second: fastwork_02_11
+  - first:
+      213: -497040651267815205
+    second: fastwork_02_12
+  - first:
+      213: 2265765672766287832
+    second: fastwork_02_13
+  - first:
+      213: 2016627541482000051
+    second: fastwork_02_14
+  - first:
+      213: 2438954632290967021
+    second: fastwork_02_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fastwork_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 1280
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687abdef2875ac20800000000000000
+      internalID: 3217109656073304167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 1280
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f8e7fd933214160800000000000000
+      internalID: 7007921226634923820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 1280
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de67f40b2c59adb0800000000000000
+      internalID: -4780188189640397102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 1280
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e999492718ea40800000000000000
+      internalID: 5397589619499460430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 1280
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69002747e221d0c0800000000000000
+      internalID: -4552819371568789142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 1066
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b3ec22062d957d0800000000000000
+      internalID: -2929078772285162703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 466
+        width: 499
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557102d69c6ecf510800000000000000
+      internalID: 1584394921721206613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 1280
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94739ff49e663dc0800000000000000
+      internalID: -3659616060969880419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 1280
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31440e7406efd8e80800000000000000
+      internalID: -8174598059131386861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 1280
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d4a597418d431f0800000000000000
+      internalID: -1065989629333058300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 1280
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d50b375d4d27890800000000000000
+      internalID: -7461667619365429950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 122
+        width: 790
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e18bc9c9fe65a460800000000000000
+      internalID: 7252324794061521377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 888
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c04e39282a19f0800000000000000
+      internalID: -497040651267815205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 1280
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2285ffdd917f10800000000000000
+      internalID: 2265765672766287832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 1280
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3becd4e70108cfb10800000000000000
+      internalID: 2016627541482000051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastwork_02_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 1072
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1ff0e058e8d120800000000000000
+      internalID: 2438954632290967021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fastwork_02_0: 3217109656073304167
+      fastwork_02_1: 7007921226634923820
+      fastwork_02_10: -7461667619365429950
+      fastwork_02_11: 7252324794061521377
+      fastwork_02_12: -497040651267815205
+      fastwork_02_13: 2265765672766287832
+      fastwork_02_14: 2016627541482000051
+      fastwork_02_15: 2438954632290967021
+      fastwork_02_2: -4780188189640397102
+      fastwork_02_3: 5397589619499460430
+      fastwork_02_4: -4552819371568789142
+      fastwork_02_5: -2929078772285162703
+      fastwork_02_6: 1584394921721206613
+      fastwork_02_7: -3659616060969880419
+      fastwork_02_8: -8174598059131386861
+      fastwork_02_9: -1065989629333058300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

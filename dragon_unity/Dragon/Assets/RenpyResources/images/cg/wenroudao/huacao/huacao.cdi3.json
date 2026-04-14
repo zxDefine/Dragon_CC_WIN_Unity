@@ -1,0 +1,76 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "花1_外"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "花1_内"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "草1_外"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "草1_内"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "flower_left",
+			"Name": "flower_left"
+		},
+		{
+			"Id": "flower_center",
+			"Name": "flower_center"
+		},
+		{
+			"Id": "flower_right",
+			"Name": "flower_right"
+		},
+		{
+			"Id": "Part2",
+			"Name": "温柔刀1.2_改肩宽.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "花草 拷贝"
+		},
+		{
+			"Id": "flower_left_3",
+			"Name": "flower_left_3"
+		},
+		{
+			"Id": "flower_left_5",
+			"Name": "flower_left_5"
+		}
+	]
+}

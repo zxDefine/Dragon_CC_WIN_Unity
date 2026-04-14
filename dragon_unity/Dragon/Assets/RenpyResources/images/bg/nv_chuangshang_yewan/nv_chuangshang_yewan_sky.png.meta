@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 405cedc3216a649dc95e7f78edaa6b78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5430810315128379517
+    second: nv_chuangshang_yewan_sky_0
+  - first:
+      213: -3137758447174917801
+    second: nv_chuangshang_yewan_sky_1
+  - first:
+      213: 525780545146205229
+    second: nv_chuangshang_yewan_sky_2
+  - first:
+      213: -8374591996261691224
+    second: nv_chuangshang_yewan_sky_3
+  - first:
+      213: 7407074917827055851
+    second: nv_chuangshang_yewan_sky_4
+  - first:
+      213: 5878060245638543659
+    second: nv_chuangshang_yewan_sky_5
+  - first:
+      213: 3612036808230160630
+    second: nv_chuangshang_yewan_sky_6
+  - first:
+      213: -6647023751665460021
+    second: nv_chuangshang_yewan_sky_7
+  - first:
+      213: -4889066535815574363
+    second: nv_chuangshang_yewan_sky_8
+  - first:
+      213: -5194432890382671428
+    second: nv_chuangshang_yewan_sky_9
+  - first:
+      213: -5387287331905255706
+    second: nv_chuangshang_yewan_sky_10
+  - first:
+      213: 7854614487976707138
+    second: nv_chuangshang_yewan_sky_11
+  - first:
+      213: -5154352049446870481
+    second: nv_chuangshang_yewan_sky_12
+  - first:
+      213: 7348148733905937055
+    second: nv_chuangshang_yewan_sky_13
+  - first:
+      213: -4662200602479630336
+    second: nv_chuangshang_yewan_sky_14
+  - first:
+      213: -8116093406173111034
+    second: nv_chuangshang_yewan_sky_15
+  - first:
+      213: 6596418990307883651
+    second: nv_chuangshang_yewan_sky_16
+  - first:
+      213: 8279843690132028217
+    second: nv_chuangshang_yewan_sky_17
+  - first:
+      213: 1616433477337824077
+    second: nv_chuangshang_yewan_sky_18
+  - first:
+      213: 6876524402784337652
+    second: nv_chuangshang_yewan_sky_19
+  - first:
+      213: -7153651878940933408
+    second: nv_chuangshang_yewan_sky_20
+  - first:
+      213: -2975891065694798556
+    second: nv_chuangshang_yewan_sky_21
+  - first:
+      213: 7151795757242526950
+    second: nv_chuangshang_yewan_sky_22
+  - first:
+      213: 1087824582631553996
+    second: nv_chuangshang_yewan_sky_23
+  - first:
+      213: -7126955775100487148
+    second: nv_chuangshang_yewan_sky_24
+  - first:
+      213: -1565595887267876095
+    second: nv_chuangshang_yewan_sky_25
+  - first:
+      213: 849418653712310221
+    second: nv_chuangshang_yewan_sky_26
+  - first:
+      213: -6383287219905591485
+    second: nv_chuangshang_yewan_sky_27
+  - first:
+      213: 4219511909462172904
+    second: nv_chuangshang_yewan_sky_28
+  - first:
+      213: -2352241865240707139
+    second: nv_chuangshang_yewan_sky_29
+  - first:
+      213: -2690165600227716716
+    second: nv_chuangshang_yewan_sky_30
+  - first:
+      213: -70123871485959933
+    second: nv_chuangshang_yewan_sky_31
+  - first:
+      213: 7637763796555218649
+    second: nv_chuangshang_yewan_sky_32
+  - first:
+      213: 2453825013971302405
+    second: nv_chuangshang_yewan_sky_33
+  - first:
+      213: -7880106068968076990
+    second: nv_chuangshang_yewan_sky_34
+  - first:
+      213: -3622947516431075771
+    second: nv_chuangshang_yewan_sky_35
+  - first:
+      213: -3339732895136615642
+    second: nv_chuangshang_yewan_sky_36
+  - first:
+      213: -7725743866351781610
+    second: nv_chuangshang_yewan_sky_37
+  - first:
+      213: 8770471752549632382
+    second: nv_chuangshang_yewan_sky_38
+  - first:
+      213: -2770125720187820942
+    second: nv_chuangshang_yewan_sky_39
+  - first:
+      213: 8879745666667189295
+    second: nv_chuangshang_yewan_sky_40
+  - first:
+      213: 5323020033350323421
+    second: nv_chuangshang_yewan_sky_41
+  - first:
+      213: 7580511187897197661
+    second: nv_chuangshang_yewan_sky_42
+  - first:
+      213: -8156737064201886702
+    second: nv_chuangshang_yewan_sky_43
+  - first:
+      213: -3849664736273649422
+    second: nv_chuangshang_yewan_sky_44
+  - first:
+      213: -4839978821440212816
+    second: nv_chuangshang_yewan_sky_45
+  - first:
+      213: 2374054380474210718
+    second: nv_chuangshang_yewan_sky_46
+  - first:
+      213: 6006606711070705678
+    second: nv_chuangshang_yewan_sky_47
+  - first:
+      213: -6076098582163277734
+    second: nv_chuangshang_yewan_sky_48
+  - first:
+      213: -8648534521741746975
+    second: nv_chuangshang_yewan_sky_49
+  - first:
+      213: -6829672565090280280
+    second: nv_chuangshang_yewan_sky_50
+  - first:
+      213: 4331773964355729363
+    second: nv_chuangshang_yewan_sky_51
+  - first:
+      213: -6112772905104980821
+    second: nv_chuangshang_yewan_sky_52
+  - first:
+      213: 8663072391782541411
+    second: nv_chuangshang_yewan_sky_53
+  - first:
+      213: -4125854814429573911
+    second: nv_chuangshang_yewan_sky_54
+  - first:
+      213: 5918492205514768309
+    second: nv_chuangshang_yewan_sky_55
+  - first:
+      213: 2390644018969902494
+    second: nv_chuangshang_yewan_sky_56
+  - first:
+      213: -2072155281276996571
+    second: nv_chuangshang_yewan_sky_57
+  - first:
+      213: -5444587240602345019
+    second: nv_chuangshang_yewan_sky_58
+  - first:
+      213: -5323048909714117937
+    second: nv_chuangshang_yewan_sky_59
+  - first:
+      213: 2127599382198304767
+    second: nv_chuangshang_yewan_sky_60
+  - first:
+      213: 8592151454516479408
+    second: nv_chuangshang_yewan_sky_61
+  - first:
+      213: -8218319837965202512
+    second: nv_chuangshang_yewan_sky_62
+  - first:
+      213: 4038822753299307146
+    second: nv_chuangshang_yewan_sky_63
+  - first:
+      213: 2757369742263571205
+    second: nv_chuangshang_yewan_sky_64
+  - first:
+      213: 1336714233299052682
+    second: nv_chuangshang_yewan_sky_65
+  - first:
+      213: -2685732086114471606
+    second: nv_chuangshang_yewan_sky_66
+  - first:
+      213: -521515537424272427
+    second: nv_chuangshang_yewan_sky_67
+  - first:
+      213: 2263110331045163229
+    second: nv_chuangshang_yewan_sky_68
+  - first:
+      213: 6575111583824622492
+    second: nv_chuangshang_yewan_sky_69
+  - first:
+      213: -8929600998421431685
+    second: nv_chuangshang_yewan_sky_70
+  - first:
+      213: -6976927436833707191
+    second: nv_chuangshang_yewan_sky_71
+  - first:
+      213: 3157129180509598095
+    second: nv_chuangshang_yewan_sky_72
+  - first:
+      213: -4027352240424121742
+    second: nv_chuangshang_yewan_sky_73
+  - first:
+      213: -3246993399628691609
+    second: nv_chuangshang_yewan_sky_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_0
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1507
+        width: 71
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ee34cac2e1a4b0800000000000000
+      internalID: -5430810315128379517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_1
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1608
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751682d11517474d0800000000000000
+      internalID: -3137758447174917801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_2
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1575
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24304fbe92fb4700800000000000000
+      internalID: 525780545146205229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_3
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1606
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a01efb23f877cb80800000000000000
+      internalID: -8374591996261691224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_4
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 619
+        width: 388
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be099c5b4673bc660800000000000000
+      internalID: 7407074917827055851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_5
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 967
+        width: 445
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2971ad66a0139150800000000000000
+      internalID: 5878060245638543659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_6
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1524
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c136f658802230800000000000000
+      internalID: 3612036808230160630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_7
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1562
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc55648d1701c3a0800000000000000
+      internalID: -6647023751665460021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1238
+        width: 59
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac867993eb862cb0800000000000000
+      internalID: -4889066535815574363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_9
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1248
+        width: 65
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1a227becaa9e7b0800000000000000
+      internalID: -5194432890382671428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_10
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1252
+        width: 19
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e643d6f6b28c35b0800000000000000
+      internalID: -5387287331905255706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_11
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1256
+        width: 70
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2440d73e242310d60800000000000000
+      internalID: 7854614487976707138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_12
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1261
+        width: 21
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a965be101878b0800000000000000
+      internalID: -5154352049446870481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_13
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1271
+        width: 29
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922331675ed9f560800000000000000
+      internalID: 7348148733905937055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_14
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1276
+        width: 92
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008e691e0498c4fb0800000000000000
+      internalID: -4662200602479630336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_15
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1304
+        width: 125
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d59294c08dd5f80800000000000000
+      internalID: -8116093406173111034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_16
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1138
+        width: 123
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a31f25f103b8b50800000000000000
+      internalID: 6596418990307883651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_17
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1088
+        width: 59
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b341ab7f9e7e270800000000000000
+      internalID: 8279843690132028217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_18
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1090
+        width: 65
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b35c3fea9be6610800000000000000
+      internalID: 1616433477337824077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_19
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1090
+        width: 19
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef34dc2825e6f50800000000000000
+      internalID: 6876524402784337652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_20
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1090
+        width: 70
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e28bec848f19bc90800000000000000
+      internalID: -7153651878940933408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_21
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1211
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db00bb7d283b6d0800000000000000
+      internalID: -2975891065694798556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_22
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1206
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec26907958404360800000000000000
+      internalID: 7151795757242526950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_23
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1090
+        width: 92
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbf0b1c1bab81f00800000000000000
+      internalID: 1087824582631553996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_24
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1121
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a77379b77f71d90800000000000000
+      internalID: -7126955775100487148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_25
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1120
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f59dd5d2e54ae0800000000000000
+      internalID: -1565595887267876095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_26
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1133
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfdc10e3cdb9cb00800000000000000
+      internalID: 849418653712310221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_27
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1090
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478c36f7120a67a0800000000000000
+      internalID: -6383287219905591485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_28
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1094
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4e509c9b7be8a30800000000000000
+      internalID: 4219511909462172904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_29
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 985
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf768c7c782b5fd0800000000000000
+      internalID: -2352241865240707139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_30
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 989
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4919373c3ac9aaad0800000000000000
+      internalID: -2690165600227716716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_31
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 991
+        width: 19
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301edcdd5bed60ff0800000000000000
+      internalID: -70123871485959933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_32
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 993
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de3304d4b9cef960800000000000000
+      internalID: 7637763796555218649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_33
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 996
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5083aba69dcbd0220800000000000000
+      internalID: 2453825013971302405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_34
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1035
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24902c6e74d34a290800000000000000
+      internalID: -7880106068968076990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_35
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1030
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546fd33dd64b8bdc0800000000000000
+      internalID: -3622947516431075771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_36
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1038
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f1b460a2e6a1d0800000000000000
+      internalID: -3339732895136615642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_37
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 592
+        width: 311
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619f274e2e4a8c490800000000000000
+      internalID: -7725743866351781610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_38
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 962
+        width: 191
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79815b4799f6b970800000000000000
+      internalID: 8770471752549632382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_39
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 957
+        width: 197
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274280195598e89d0800000000000000
+      internalID: -2770125720187820942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_40
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1018
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24138d03a13b3b70800000000000000
+      internalID: 8879745666667189295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_41
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1013
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc422c848a2fd940800000000000000
+      internalID: 5323020033350323421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_42
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1006
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54ac7a13c2633960800000000000000
+      internalID: 7580511187897197661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_43
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1001
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214ebf93bd27dce80800000000000000
+      internalID: -8156737064201886702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_44
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 984
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0bf0a915e339ac0800000000000000
+      internalID: -3849664736273649422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_45
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 937
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b074abb7e0f4dcb0800000000000000
+      internalID: -4839978821440212816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_46
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 929
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9910a971e552f020800000000000000
+      internalID: 2374054380474210718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_47
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 928
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c8d6baf0cb5350800000000000000
+      internalID: 6006606711070705678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_48
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 923
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5837e5388c5daba0800000000000000
+      internalID: -6076098582163277734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_49
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 902
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec51e3acab3af780800000000000000
+      internalID: -8648534521741746975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_50
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 900
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac1099bcf02831a0800000000000000
+      internalID: -6829672565090280280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_51
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 921
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d775b8487d8d1c30800000000000000
+      internalID: 4331773964355729363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_52
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 952
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c59efd611b2ba0800000000000000
+      internalID: -6112772905104980821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_53
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 542
+        width: 175
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36821bff07a693870800000000000000
+      internalID: 8663072391782541411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_54
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 874
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec071fe7e40eb6c0800000000000000
+      internalID: -4125854814429573911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_55
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 934
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf30abad45b22250800000000000000
+      internalID: 5918492205514768309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_56
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 700
+        width: 35
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dfc1fa1164d2120800000000000000
+      internalID: 2390644018969902494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_57
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 821
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f80c10c93e33e0800000000000000
+      internalID: -2072155281276996571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_58
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 814
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1e54750c0f074b0800000000000000
+      internalID: -5444587240602345019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_59
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 812
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa576283bb026b0800000000000000
+      internalID: -5323048909714117937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_60
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 869
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff35489d50c68d10800000000000000
+      internalID: 2127599382198304767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_61
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 868
+        width: 19
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b58fc689347d3770800000000000000
+      internalID: 8592151454516479408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_62
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 861
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc98f56a9a2fd80800000000000000
+      internalID: -8218319837965202512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_63
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 864
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a9b2145e7cc0830800000000000000
+      internalID: 4038822753299307146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_64
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 904
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503d702eb25244620800000000000000
+      internalID: 2757369742263571205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_65
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 803
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88aff15386fc8210800000000000000
+      internalID: 1336714233299052682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_66
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 816
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413745b5ec5abad0800000000000000
+      internalID: -2685732086114471606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_67
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 862
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3bafeb16433c8f0800000000000000
+      internalID: -521515537424272427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_68
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 861
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b6790bde286f10800000000000000
+      internalID: 2263110331045163229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_69
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 756
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c933c68262d7f3b50800000000000000
+      internalID: 6575111583824622492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_70
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 696
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7afd17f33fa31480800000000000000
+      internalID: -8929600998421431685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_71
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 684
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba9d72679fc2f90800000000000000
+      internalID: -6976927436833707191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_72
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 682
+        width: 36
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817b42334060db20800000000000000
+      internalID: 3157129180509598095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_73
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 669
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a8524a978fb18c0800000000000000
+      internalID: -4027352240424121742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nv_chuangshang_yewan_sky_74
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 582
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7670813d4bc50f2d0800000000000000
+      internalID: -3246993399628691609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nv_chuangshang_yewan_sky_0: -5430810315128379517
+      nv_chuangshang_yewan_sky_1: -3137758447174917801
+      nv_chuangshang_yewan_sky_10: -5387287331905255706
+      nv_chuangshang_yewan_sky_11: 7854614487976707138
+      nv_chuangshang_yewan_sky_12: -5154352049446870481
+      nv_chuangshang_yewan_sky_13: 7348148733905937055
+      nv_chuangshang_yewan_sky_14: -4662200602479630336
+      nv_chuangshang_yewan_sky_15: -8116093406173111034
+      nv_chuangshang_yewan_sky_16: 6596418990307883651
+      nv_chuangshang_yewan_sky_17: 8279843690132028217
+      nv_chuangshang_yewan_sky_18: 1616433477337824077
+      nv_chuangshang_yewan_sky_19: 6876524402784337652
+      nv_chuangshang_yewan_sky_2: 525780545146205229
+      nv_chuangshang_yewan_sky_20: -7153651878940933408
+      nv_chuangshang_yewan_sky_21: -2975891065694798556
+      nv_chuangshang_yewan_sky_22: 7151795757242526950
+      nv_chuangshang_yewan_sky_23: 1087824582631553996
+      nv_chuangshang_yewan_sky_24: -7126955775100487148
+      nv_chuangshang_yewan_sky_25: -1565595887267876095
+      nv_chuangshang_yewan_sky_26: 849418653712310221
+      nv_chuangshang_yewan_sky_27: -6383287219905591485
+      nv_chuangshang_yewan_sky_28: 4219511909462172904
+      nv_chuangshang_yewan_sky_29: -2352241865240707139
+      nv_chuangshang_yewan_sky_3: -8374591996261691224
+      nv_chuangshang_yewan_sky_30: -2690165600227716716
+      nv_chuangshang_yewan_sky_31: -70123871485959933
+      nv_chuangshang_yewan_sky_32: 7637763796555218649
+      nv_chuangshang_yewan_sky_33: 2453825013971302405
+      nv_chuangshang_yewan_sky_34: -7880106068968076990
+      nv_chuangshang_yewan_sky_35: -3622947516431075771
+      nv_chuangshang_yewan_sky_36: -3339732895136615642
+      nv_chuangshang_yewan_sky_37: -7725743866351781610
+      nv_chuangshang_yewan_sky_38: 8770471752549632382
+      nv_chuangshang_yewan_sky_39: -2770125720187820942
+      nv_chuangshang_yewan_sky_4: 7407074917827055851
+      nv_chuangshang_yewan_sky_40: 8879745666667189295
+      nv_chuangshang_yewan_sky_41: 5323020033350323421
+      nv_chuangshang_yewan_sky_42: 7580511187897197661
+      nv_chuangshang_yewan_sky_43: -8156737064201886702
+      nv_chuangshang_yewan_sky_44: -3849664736273649422
+      nv_chuangshang_yewan_sky_45: -4839978821440212816
+      nv_chuangshang_yewan_sky_46: 2374054380474210718
+      nv_chuangshang_yewan_sky_47: 6006606711070705678
+      nv_chuangshang_yewan_sky_48: -6076098582163277734
+      nv_chuangshang_yewan_sky_49: -8648534521741746975
+      nv_chuangshang_yewan_sky_5: 5878060245638543659
+      nv_chuangshang_yewan_sky_50: -6829672565090280280
+      nv_chuangshang_yewan_sky_51: 4331773964355729363
+      nv_chuangshang_yewan_sky_52: -6112772905104980821
+      nv_chuangshang_yewan_sky_53: 8663072391782541411
+      nv_chuangshang_yewan_sky_54: -4125854814429573911
+      nv_chuangshang_yewan_sky_55: 5918492205514768309
+      nv_chuangshang_yewan_sky_56: 2390644018969902494
+      nv_chuangshang_yewan_sky_57: -2072155281276996571
+      nv_chuangshang_yewan_sky_58: -5444587240602345019
+      nv_chuangshang_yewan_sky_59: -5323048909714117937
+      nv_chuangshang_yewan_sky_6: 3612036808230160630
+      nv_chuangshang_yewan_sky_60: 2127599382198304767
+      nv_chuangshang_yewan_sky_61: 8592151454516479408
+      nv_chuangshang_yewan_sky_62: -8218319837965202512
+      nv_chuangshang_yewan_sky_63: 4038822753299307146
+      nv_chuangshang_yewan_sky_64: 2757369742263571205
+      nv_chuangshang_yewan_sky_65: 1336714233299052682
+      nv_chuangshang_yewan_sky_66: -2685732086114471606
+      nv_chuangshang_yewan_sky_67: -521515537424272427
+      nv_chuangshang_yewan_sky_68: 2263110331045163229
+      nv_chuangshang_yewan_sky_69: 6575111583824622492
+      nv_chuangshang_yewan_sky_7: -6647023751665460021
+      nv_chuangshang_yewan_sky_70: -8929600998421431685
+      nv_chuangshang_yewan_sky_71: -6976927436833707191
+      nv_chuangshang_yewan_sky_72: 3157129180509598095
+      nv_chuangshang_yewan_sky_73: -4027352240424121742
+      nv_chuangshang_yewan_sky_74: -3246993399628691609
+      nv_chuangshang_yewan_sky_8: -4889066535815574363
+      nv_chuangshang_yewan_sky_9: -5194432890382671428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

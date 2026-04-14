@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: f3facc453ec0e443099b8fed4b903542
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 808716781662145031
+    second: feather_gezi_00082_0
+  - first:
+      213: 3065757351031809679
+    second: feather_gezi_00082_1
+  - first:
+      213: -6215343420803048893
+    second: feather_gezi_00082_2
+  - first:
+      213: -983225311579972020
+    second: feather_gezi_00082_3
+  - first:
+      213: 1658256553159774555
+    second: feather_gezi_00082_4
+  - first:
+      213: 6873075122118152483
+    second: feather_gezi_00082_5
+  - first:
+      213: 2979544320649015723
+    second: feather_gezi_00082_6
+  - first:
+      213: -2772530598294123738
+    second: feather_gezi_00082_7
+  - first:
+      213: 8577477216651234089
+    second: feather_gezi_00082_8
+  - first:
+      213: 5534975292613373983
+    second: feather_gezi_00082_9
+  - first:
+      213: 1120392341293138289
+    second: feather_gezi_00082_10
+  - first:
+      213: -1930898209480406182
+    second: feather_gezi_00082_11
+  - first:
+      213: -7693806676370596256
+    second: feather_gezi_00082_12
+  - first:
+      213: 6849620404295147186
+    second: feather_gezi_00082_13
+  - first:
+      213: 3082164161034800434
+    second: feather_gezi_00082_14
+  - first:
+      213: 5758013597907719333
+    second: feather_gezi_00082_15
+  - first:
+      213: -2840195648664601823
+    second: feather_gezi_00082_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: feather_gezi_00082_0
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 715
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8edec0a3293b00800000000000000
+      internalID: 808716781662145031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 450
+        width: 61
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862bc35112cb8a20800000000000000
+      internalID: 3065757351031809679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 506
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a19fdc61aaeb9a0800000000000000
+      internalID: -6215343420803048893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 309
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e5a19d9c1ea52f0800000000000000
+      internalID: -983225311579972020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 372
+        width: 150
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515d8d9c8f430710800000000000000
+      internalID: 1658256553159774555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_5
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 342
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3215d609861126f50800000000000000
+      internalID: 6873075122118152483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba131d8f5c7795920800000000000000
+      internalID: 2979544320649015723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 228
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b07cf3c1ef589d0800000000000000
+      internalID: -2772530598294123738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_8
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 218
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bc0874512590770800000000000000
+      internalID: 8577477216651234089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_9
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 188
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b8ccf3be20dc40800000000000000
+      internalID: 5534975292613373983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 186
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17188d7f5ee6c8f00800000000000000
+      internalID: 1120392341293138289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 68
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8b7e0f421435e0800000000000000
+      internalID: -1930898209480406182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 113
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ed664679b1a3590800000000000000
+      internalID: -7693806676370596256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_13
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 53
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be9744877dbe0f50800000000000000
+      internalID: 6849620404295147186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_14
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 95
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4be579fb06ca20800000000000000
+      internalID: 3082164161034800434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_15
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 104
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4982b2cd298ef40800000000000000
+      internalID: 5758013597907719333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feather_gezi_00082_16
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7cb40b199598d0800000000000000
+      internalID: -2840195648664601823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      feather_gezi_00082_0: 808716781662145031
+      feather_gezi_00082_1: 3065757351031809679
+      feather_gezi_00082_10: 1120392341293138289
+      feather_gezi_00082_11: -1930898209480406182
+      feather_gezi_00082_12: -7693806676370596256
+      feather_gezi_00082_13: 6849620404295147186
+      feather_gezi_00082_14: 3082164161034800434
+      feather_gezi_00082_15: 5758013597907719333
+      feather_gezi_00082_16: -2840195648664601823
+      feather_gezi_00082_2: -6215343420803048893
+      feather_gezi_00082_3: -983225311579972020
+      feather_gezi_00082_4: 1658256553159774555
+      feather_gezi_00082_5: 6873075122118152483
+      feather_gezi_00082_6: 2979544320649015723
+      feather_gezi_00082_7: -2772530598294123738
+      feather_gezi_00082_8: 8577477216651234089
+      feather_gezi_00082_9: 5534975292613373983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

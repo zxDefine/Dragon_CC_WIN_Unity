@@ -1,0 +1,35 @@
+Converter Bug Fix Preview
+Total: 5, Fixable: 5, Failed: 0
+================================================================================
+
+### zhuxian/zhuxian_1.cs
+
+  Line 246 [show_bad_name]
+  OLD: yield return _gameMethods.Show("ease_quad", parts: new List<string>{"0.98", "xpos", "0.62"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 0.5f}})});
+  NEW: yield return _gameMethods.Show("he", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 0.5f}}), new SameLineParamData(new Dictionary<string, object>{{"ease_quad", 0.98f}, {"xpos", 0.62f}})});
+  (matched rpy line 301)
+
+### zhuxian/zhuxian_3.cs
+
+  Line 2640 [show_bad_name]
+  OLD: yield return _gameMethods.Show("xrotate", parts: new List<string>{"0.0", "yrotate", "0.0", "zrotate", "6.0"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"pos", new Vector2(0.58f, 1.37f)}, {"anchor", new Vector2(0.5f, 1.0f)}, {"zoom", 0.33f}})});
+  NEW: yield return _gameMethods.Show("zhentou", sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"pos", new Vector2(0.58f, 1.37f)}, {"anchor", new Vector2(0.5f, 1.0f)}, {"zoom", 0.33f}, {"xrotate", 0.0f}, {"yrotate", 0.0f}, {"zrotate", 6.0f}})});
+  (matched rpy line 3042)
+
+### zhuxian/zhuxian_3_menu.cs
+
+  Line 30 [show_bad_name]
+  OLD: yield return _gameMethods.Show("matrixanchor", parts: new List<string>{"(", "0.5", ",", "0.5", ")"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"ypos", 204f}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 192f}, {"zpos", 90.0f}}), new SameLineParamData(new Dictionary<string, object>{{"linear", 1f}, {"xpos", 222f
+  NEW: yield return _gameMethods.Show("he", parts: new List<string>{"mei9", "yan18", "zui9", "emoji12"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"ypos", 204f}, {"matrixanchor", new Vector2(0.5f, 0.5f)}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 192f}, {"zpos", 90.0f}}), new SameLineParamData(new Dictionary<strin
+  (matched rpy line 249)
+
+  Line 92 [show_bad_name]
+  OLD: yield return _gameMethods.Show("matrixanchor", parts: new List<string>{"(", "0.5", ",", "0.5", ")"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"ypos", 204f}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 192f}, {"zpos", 90.0f}}), new SameLineParamData(new Dictionary<string, object>{{"linear", 1f}, {"xpos", 222f
+  NEW: yield return _gameMethods.Show("he", parts: new List<string>{"mei2", "yan25", "zui20"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"ypos", 204f}, {"matrixanchor", new Vector2(0.5f, 0.5f)}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 192f}, {"zpos", 90.0f}}), new SameLineParamData(new Dictionary<string, object>
+  (matched rpy line 296)
+
+  Line 170 [show_bad_name]
+  OLD: yield return _gameMethods.Show("matrixanchor", parts: new List<string>{"(", "0.5", ",", "0.5", ")"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"ypos", 204f}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 192f}, {"zpos", 90.0f}}), new SameLineParamData(new Dictionary<string, object>{{"linear", 1f}, {"xpos", 222f
+  NEW: yield return _gameMethods.Show("he", parts: new List<string>{"mei2", "yan25", "zui13"}, sameLine: new List<SameLineParamData>{new SameLineParamData(new Dictionary<string, object>{{"subpixel", true}, {"ypos", 204f}, {"matrixanchor", new Vector2(0.5f, 0.5f)}}), new SameLineParamData(new Dictionary<string, object>{{"xpos", 192f}, {"zpos", 90.0f}}), new SameLineParamData(new Dictionary<string, object>
+  (matched rpy line 354)
+

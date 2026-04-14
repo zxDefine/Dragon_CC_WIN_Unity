@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: a23048cddd2bb4a018068af6fb7b1070
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3046266076642347659
+    second: juezhan_cg5_ball1_0
+  - first:
+      213: -2173199961822449229
+    second: juezhan_cg5_ball1_1
+  - first:
+      213: -5765135548422386742
+    second: juezhan_cg5_ball1_2
+  - first:
+      213: 3043055417694028569
+    second: juezhan_cg5_ball1_3
+  - first:
+      213: 7311013298223497962
+    second: juezhan_cg5_ball1_4
+  - first:
+      213: -6308994866407202384
+    second: juezhan_cg5_ball1_5
+  - first:
+      213: 10718672412518375
+    second: juezhan_cg5_ball1_6
+  - first:
+      213: -4044472869872285714
+    second: juezhan_cg5_ball1_7
+  - first:
+      213: -5867424754927153337
+    second: juezhan_cg5_ball1_8
+  - first:
+      213: 4157096745121385291
+    second: juezhan_cg5_ball1_9
+  - first:
+      213: 8351237421955520247
+    second: juezhan_cg5_ball1_10
+  - first:
+      213: 278220020200818546
+    second: juezhan_cg5_ball1_11
+  - first:
+      213: -3090758186704922893
+    second: juezhan_cg5_ball1_12
+  - first:
+      213: 2872135231026919006
+    second: juezhan_cg5_ball1_13
+  - first:
+      213: -7926993435876177594
+    second: juezhan_cg5_ball1_14
+  - first:
+      213: 879825000064772954
+    second: juezhan_cg5_ball1_15
+  - first:
+      213: 3097277657589129259
+    second: juezhan_cg5_ball1_16
+  - first:
+      213: 1067195433571580513
+    second: juezhan_cg5_ball1_17
+  - first:
+      213: -3709666492679984007
+    second: juezhan_cg5_ball1_18
+  - first:
+      213: 3986894218648410443
+    second: juezhan_cg5_ball1_19
+  - first:
+      213: 7196056380709720080
+    second: juezhan_cg5_ball1_20
+  - first:
+      213: 6318635910386520537
+    second: juezhan_cg5_ball1_21
+  - first:
+      213: 6753212201497772038
+    second: juezhan_cg5_ball1_22
+  - first:
+      213: 32959184545630762
+    second: juezhan_cg5_ball1_23
+  - first:
+      213: -6836145445963621758
+    second: juezhan_cg5_ball1_24
+  - first:
+      213: -5227017681234592817
+    second: juezhan_cg5_ball1_25
+  - first:
+      213: 5351717798348799972
+    second: juezhan_cg5_ball1_26
+  - first:
+      213: -7150522593440237022
+    second: juezhan_cg5_ball1_27
+  - first:
+      213: -6906281425569226320
+    second: juezhan_cg5_ball1_28
+  - first:
+      213: 286042178792819857
+    second: juezhan_cg5_ball1_29
+  - first:
+      213: 2671545598483832134
+    second: juezhan_cg5_ball1_30
+  - first:
+      213: -5580938223251605646
+    second: juezhan_cg5_ball1_31
+  - first:
+      213: -8457705278991994870
+    second: juezhan_cg5_ball1_32
+  - first:
+      213: -2057281513159548057
+    second: juezhan_cg5_ball1_33
+  - first:
+      213: -5933819538695996912
+    second: juezhan_cg5_ball1_34
+  - first:
+      213: 7613191280607870085
+    second: juezhan_cg5_ball1_35
+  - first:
+      213: -7064724254149921969
+    second: juezhan_cg5_ball1_36
+  - first:
+      213: -8256105772289998085
+    second: juezhan_cg5_ball1_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 228
+        width: 1090
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a079d5bd2864a20800000000000000
+      internalID: 3046266076642347659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_1
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1010
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13ea9162e37d1e0800000000000000
+      internalID: -2173199961822449229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 636
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb8e4283cf1effa0800000000000000
+      internalID: -5765135548422386742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 615
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130b7397ca1b3a20800000000000000
+      internalID: 3043055417694028569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 601
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c4ccfbdfe57560800000000000000
+      internalID: 7311013298223497962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 603
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b129027892f178a0800000000000000
+      internalID: -6308994866407202384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 590
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ac956394162000800000000000000
+      internalID: 10718672412518375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 590
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ce877a552fd7c0800000000000000
+      internalID: -4044472869872285714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 577
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fcb38b548b29ea0800000000000000
+      internalID: -5867424754927153337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 568
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b84e5e679f0b930800000000000000
+      internalID: 4157096745121385291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 576
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f69b92403e85e370800000000000000
+      internalID: 8351237421955520247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 541
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c87162af6cd300800000000000000
+      internalID: 278220020200818546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 548
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f692d20ecb6b15d0800000000000000
+      internalID: -3090758186704922893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567e3086cfdbd720800000000000000
+      internalID: 2872135231026919006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 501
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494fb51879adf190800000000000000
+      internalID: -7926993435876177594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 529
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6e511d24c53c00800000000000000
+      internalID: 879825000064772954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 522
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20aa579e9dbbfa20800000000000000
+      internalID: 3097277657589129259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 514
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16af3f3b7907fce00800000000000000
+      internalID: 1067195433571580513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 505
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce3a4cafd948cc0800000000000000
+      internalID: -3709666492679984007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d89b1b2b445730800000000000000
+      internalID: 3986894218648410443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 490
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d2e3e6278dd360800000000000000
+      internalID: 7196056380709720080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 490
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19d9702ed40b750800000000000000
+      internalID: 6318635910386520537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 484
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600cb1b97ba38bd50800000000000000
+      internalID: 6753212201497772038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2acde62438157000800000000000000
+      internalID: 32959184545630762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 473
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a1f64bfe12121a0800000000000000
+      internalID: -6836145445963621758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 473
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb7353ec17e577b0800000000000000
+      internalID: -5227017681234592817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 464
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef37b4abfe154a40800000000000000
+      internalID: 5351717798348799972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 458
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af69b169d34cc90800000000000000
+      internalID: -7150522593440237022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 449
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1611e62a5f720a0800000000000000
+      internalID: -6906281425569226320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 450
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c89b998d938f300800000000000000
+      internalID: 286042178792819857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d13ee319c331520800000000000000
+      internalID: 2671545598483832134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27730b941468c82b0800000000000000
+      internalID: -5580938223251605646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 400
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a007cbe0cd130aa80800000000000000
+      internalID: -8457705278991994870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a52d1d511373e0800000000000000
+      internalID: -2057281513159548057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_34
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab0ca7196d6ada0800000000000000
+      internalID: -5933819538695996912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cbbbf122d77a960800000000000000
+      internalID: 7613191280607870085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_36
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 237
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43be4ba8be05fd90800000000000000
+      internalID: -7064724254149921969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg5_ball1_37
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 242
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf24a96fa8b6c6d80800000000000000
+      internalID: -8256105772289998085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      juezhan_cg5_ball1_0: 3046266076642347659
+      juezhan_cg5_ball1_1: -2173199961822449229
+      juezhan_cg5_ball1_10: 8351237421955520247
+      juezhan_cg5_ball1_11: 278220020200818546
+      juezhan_cg5_ball1_12: -3090758186704922893
+      juezhan_cg5_ball1_13: 2872135231026919006
+      juezhan_cg5_ball1_14: -7926993435876177594
+      juezhan_cg5_ball1_15: 879825000064772954
+      juezhan_cg5_ball1_16: 3097277657589129259
+      juezhan_cg5_ball1_17: 1067195433571580513
+      juezhan_cg5_ball1_18: -3709666492679984007
+      juezhan_cg5_ball1_19: 3986894218648410443
+      juezhan_cg5_ball1_2: -5765135548422386742
+      juezhan_cg5_ball1_20: 7196056380709720080
+      juezhan_cg5_ball1_21: 6318635910386520537
+      juezhan_cg5_ball1_22: 6753212201497772038
+      juezhan_cg5_ball1_23: 32959184545630762
+      juezhan_cg5_ball1_24: -6836145445963621758
+      juezhan_cg5_ball1_25: -5227017681234592817
+      juezhan_cg5_ball1_26: 5351717798348799972
+      juezhan_cg5_ball1_27: -7150522593440237022
+      juezhan_cg5_ball1_28: -6906281425569226320
+      juezhan_cg5_ball1_29: 286042178792819857
+      juezhan_cg5_ball1_3: 3043055417694028569
+      juezhan_cg5_ball1_30: 2671545598483832134
+      juezhan_cg5_ball1_31: -5580938223251605646
+      juezhan_cg5_ball1_32: -8457705278991994870
+      juezhan_cg5_ball1_33: -2057281513159548057
+      juezhan_cg5_ball1_34: -5933819538695996912
+      juezhan_cg5_ball1_35: 7613191280607870085
+      juezhan_cg5_ball1_36: -7064724254149921969
+      juezhan_cg5_ball1_37: -8256105772289998085
+      juezhan_cg5_ball1_4: 7311013298223497962
+      juezhan_cg5_ball1_5: -6308994866407202384
+      juezhan_cg5_ball1_6: 10718672412518375
+      juezhan_cg5_ball1_7: -4044472869872285714
+      juezhan_cg5_ball1_8: -5867424754927153337
+      juezhan_cg5_ball1_9: 4157096745121385291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

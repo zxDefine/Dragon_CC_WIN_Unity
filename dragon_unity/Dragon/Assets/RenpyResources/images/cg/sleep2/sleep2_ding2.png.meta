@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 6a47b7ea14dcf4296b0e69bc5ff2b22b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1769620241783667320
+    second: sleep2_ding2_0
+  - first:
+      213: -8908845719039308411
+    second: sleep2_ding2_1
+  - first:
+      213: 468842488284654101
+    second: sleep2_ding2_2
+  - first:
+      213: 4271911422296172184
+    second: sleep2_ding2_3
+  - first:
+      213: 8705605788927454810
+    second: sleep2_ding2_4
+  - first:
+      213: 7035784323626052220
+    second: sleep2_ding2_5
+  - first:
+      213: 887380495043182963
+    second: sleep2_ding2_6
+  - first:
+      213: 7278957954556309106
+    second: sleep2_ding2_7
+  - first:
+      213: 3968350818336011502
+    second: sleep2_ding2_8
+  - first:
+      213: 4422254273139814175
+    second: sleep2_ding2_9
+  - first:
+      213: 264731003172794959
+    second: sleep2_ding2_10
+  - first:
+      213: -7675883454064262522
+    second: sleep2_ding2_11
+  - first:
+      213: 3026876372447865275
+    second: sleep2_ding2_12
+  - first:
+      213: 7840498940310093648
+    second: sleep2_ding2_13
+  - first:
+      213: -7941090057937888311
+    second: sleep2_ding2_14
+  - first:
+      213: -4992126049144109600
+    second: sleep2_ding2_15
+  - first:
+      213: -8568701383722099055
+    second: sleep2_ding2_16
+  - first:
+      213: -8682185297025189799
+    second: sleep2_ding2_17
+  - first:
+      213: -7416526205216633367
+    second: sleep2_ding2_18
+  - first:
+      213: 1957264950054166465
+    second: sleep2_ding2_19
+  - first:
+      213: -220597188085084591
+    second: sleep2_ding2_20
+  - first:
+      213: 6459559133698874776
+    second: sleep2_ding2_21
+  - first:
+      213: 5749989928824723692
+    second: sleep2_ding2_22
+  - first:
+      213: 2631869626461032031
+    second: sleep2_ding2_23
+  - first:
+      213: 5052787214036020961
+    second: sleep2_ding2_24
+  - first:
+      213: -4925616629465641766
+    second: sleep2_ding2_25
+  - first:
+      213: -3329961330944099308
+    second: sleep2_ding2_26
+  - first:
+      213: -3266264852840746239
+    second: sleep2_ding2_27
+  - first:
+      213: -4553862170965401889
+    second: sleep2_ding2_28
+  - first:
+      213: -7062271127118474756
+    second: sleep2_ding2_29
+  - first:
+      213: -2118563253601420451
+    second: sleep2_ding2_30
+  - first:
+      213: 5874935735092113405
+    second: sleep2_ding2_31
+  - first:
+      213: 5578361207237903332
+    second: sleep2_ding2_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sleep2_ding2_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1270
+        width: 158
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3bdaeb34fe8810800000000000000
+      internalID: 1769620241783667320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1394
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d07e5050c6d5480800000000000000
+      internalID: -8908845719039308411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1344
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a21d152c9a18600800000000000000
+      internalID: 468842488284654101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1326
+        width: 51
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a5e51ec0e84b30800000000000000
+      internalID: 4271911422296172184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_4
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 672
+        width: 546
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eea9b375680d870800000000000000
+      internalID: 8705605788927454810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_5
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1340
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2efda09024a160800000000000000
+      internalID: 7035784323626052220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_6
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1283
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c8a3dbdb905c00800000000000000
+      internalID: 887380495043182963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1174
+        width: 62
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2550b1bd040560800000000000000
+      internalID: 7278957954556309106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1168
+        width: 62
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47c074b0a621730800000000000000
+      internalID: 3968350818336011502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_9
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1297
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa3f0d4d00f5d30800000000000000
+      internalID: 4422254273139814175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 988
+        width: 81
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42b52dd1738ca300800000000000000
+      internalID: 264731003172794959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_11
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1072
+        width: 77
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828337caa8c97590800000000000000
+      internalID: -7675883454064262522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_12
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1050
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb927ce0600a10a20800000000000000
+      internalID: 3026876372447865275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 993
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7207de3c0fcc60800000000000000
+      internalID: 7840498940310093648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 972
+        width: 21
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbd93f7aa49bc190800000000000000
+      internalID: -7941090057937888311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 959
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e58ac6cec768bab0800000000000000
+      internalID: -4992126049144109600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 840
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e98dc8d7bd51980800000000000000
+      internalID: -8568701383722099055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 851
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958b1b8f87ea28780800000000000000
+      internalID: -8682185297025189799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 858
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edcfa6f5b4331990800000000000000
+      internalID: -7416526205216633367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 788
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf1d4f1a1a992b10800000000000000
+      internalID: 1957264950054166465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 815
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e0db5b60840fcf0800000000000000
+      internalID: -220597188085084591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 791
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d50c1dec6f4a950800000000000000
+      internalID: 6459559133698874776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 775
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8dba120611ccf40800000000000000
+      internalID: 5749989928824723692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 705
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e89542b77468420800000000000000
+      internalID: 2631869626461032031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 720
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea04a433b1f1640800000000000000
+      internalID: 5052787214036020961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 717
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc81f4c5c1b4abb0800000000000000
+      internalID: -4925616629465641766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 684
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3a49ffc999c1d0800000000000000
+      internalID: -3329961330944099308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 710
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037518fb65eba2d0800000000000000
+      internalID: -3266264852840746239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 638
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde948f9b7e6dc0c0800000000000000
+      internalID: -4553862170965401889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 580
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf11b90d3d5cdfd90800000000000000
+      internalID: -7062271127118474756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 625
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b34ea02f95992e0800000000000000
+      internalID: -2118563253601420451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_31
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 588
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe960ace6f78150800000000000000
+      internalID: 5874935735092113405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep2_ding2_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 414
+        width: 90
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e30c3a66f15a6d40800000000000000
+      internalID: 5578361207237903332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sleep2_ding2_0: 1769620241783667320
+      sleep2_ding2_1: -8908845719039308411
+      sleep2_ding2_10: 264731003172794959
+      sleep2_ding2_11: -7675883454064262522
+      sleep2_ding2_12: 3026876372447865275
+      sleep2_ding2_13: 7840498940310093648
+      sleep2_ding2_14: -7941090057937888311
+      sleep2_ding2_15: -4992126049144109600
+      sleep2_ding2_16: -8568701383722099055
+      sleep2_ding2_17: -8682185297025189799
+      sleep2_ding2_18: -7416526205216633367
+      sleep2_ding2_19: 1957264950054166465
+      sleep2_ding2_2: 468842488284654101
+      sleep2_ding2_20: -220597188085084591
+      sleep2_ding2_21: 6459559133698874776
+      sleep2_ding2_22: 5749989928824723692
+      sleep2_ding2_23: 2631869626461032031
+      sleep2_ding2_24: 5052787214036020961
+      sleep2_ding2_25: -4925616629465641766
+      sleep2_ding2_26: -3329961330944099308
+      sleep2_ding2_27: -3266264852840746239
+      sleep2_ding2_28: -4553862170965401889
+      sleep2_ding2_29: -7062271127118474756
+      sleep2_ding2_3: 4271911422296172184
+      sleep2_ding2_30: -2118563253601420451
+      sleep2_ding2_31: 5874935735092113405
+      sleep2_ding2_32: 5578361207237903332
+      sleep2_ding2_4: 8705605788927454810
+      sleep2_ding2_5: 7035784323626052220
+      sleep2_ding2_6: 887380495043182963
+      sleep2_ding2_7: 7278957954556309106
+      sleep2_ding2_8: 3968350818336011502
+      sleep2_ding2_9: 4422254273139814175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

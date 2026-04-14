@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 3a2541f3b6a7546219f4f78bc162657f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8944891727367384566
+    second: woshi_nv1_rain3_0
+  - first:
+      213: 3236561773130538564
+    second: woshi_nv1_rain3_1
+  - first:
+      213: 1008345871792412686
+    second: woshi_nv1_rain3_2
+  - first:
+      213: -3560835257852248244
+    second: woshi_nv1_rain3_3
+  - first:
+      213: -2165735264494068146
+    second: woshi_nv1_rain3_4
+  - first:
+      213: -6571173612368025579
+    second: woshi_nv1_rain3_5
+  - first:
+      213: 5151449689900430738
+    second: woshi_nv1_rain3_6
+  - first:
+      213: -3666188944677807741
+    second: woshi_nv1_rain3_7
+  - first:
+      213: -6155922534895669616
+    second: woshi_nv1_rain3_8
+  - first:
+      213: 3045632806158358845
+    second: woshi_nv1_rain3_9
+  - first:
+      213: -6282308666202952020
+    second: woshi_nv1_rain3_10
+  - first:
+      213: -5801205925855347790
+    second: woshi_nv1_rain3_11
+  - first:
+      213: -1333637551082959084
+    second: woshi_nv1_rain3_12
+  - first:
+      213: 3877119791484613805
+    second: woshi_nv1_rain3_13
+  - first:
+      213: -3864105523582027356
+    second: woshi_nv1_rain3_14
+  - first:
+      213: -5563338239195825987
+    second: woshi_nv1_rain3_15
+  - first:
+      213: 7712084855921612965
+    second: woshi_nv1_rain3_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 41
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd201c42a3a22c70800000000000000
+      internalID: 8944891727367384566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 373
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44edd0dd8c39aec20800000000000000
+      internalID: 3236561773130538564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 440
+        width: 404
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e081bea5a3d5efd00800000000000000
+      internalID: 1008345871792412686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1083
+        width: 16
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb708f23f559ec0800000000000000
+      internalID: -3560835257852248244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 448
+        width: 190
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5b426043c1f1e0800000000000000
+      internalID: -2165735264494068146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1025
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51822654a608ec4a0800000000000000
+      internalID: -6571173612368025579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1104
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295bfcc0330ad7740800000000000000
+      internalID: 5151449689900430738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 435
+        width: 206
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d30144941f1dc0800000000000000
+      internalID: -3666188944677807741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_8
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1040
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ea8bae115c19aa0800000000000000
+      internalID: -6155922534895669616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_9
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 879
+        width: 18
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39585796e2444a20800000000000000
+      internalID: 3045632806158358845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 988
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6d9d9d81c0d8a0800000000000000
+      internalID: -6282308666202952020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 419
+        width: 262
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb308052f9fd7fa0800000000000000
+      internalID: -5801205925855347790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 432
+        width: 26
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f049496b7fd7de0800000000000000
+      internalID: -1333637551082959084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_13
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 419
+        width: 66
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b31398eb4ec530800000000000000
+      internalID: 3877119791484613805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 459
+        width: 175
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9b44ccf70ff5ac0800000000000000
+      internalID: -3864105523582027356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_15
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 419
+        width: 323
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8b267e85d0bc2b0800000000000000
+      internalID: -5563338239195825987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woshi_nv1_rain3_16
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 428
+        width: 218
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a890eae054d60b60800000000000000
+      internalID: 7712084855921612965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      woshi_nv1_rain3_0: 8944891727367384566
+      woshi_nv1_rain3_1: 3236561773130538564
+      woshi_nv1_rain3_10: -6282308666202952020
+      woshi_nv1_rain3_11: -5801205925855347790
+      woshi_nv1_rain3_12: -1333637551082959084
+      woshi_nv1_rain3_13: 3877119791484613805
+      woshi_nv1_rain3_14: -3864105523582027356
+      woshi_nv1_rain3_15: -5563338239195825987
+      woshi_nv1_rain3_16: 7712084855921612965
+      woshi_nv1_rain3_2: 1008345871792412686
+      woshi_nv1_rain3_3: -3560835257852248244
+      woshi_nv1_rain3_4: -2165735264494068146
+      woshi_nv1_rain3_5: -6571173612368025579
+      woshi_nv1_rain3_6: 5151449689900430738
+      woshi_nv1_rain3_7: -3666188944677807741
+      woshi_nv1_rain3_8: -6155922534895669616
+      woshi_nv1_rain3_9: 3045632806158358845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

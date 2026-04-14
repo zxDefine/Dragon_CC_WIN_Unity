@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: ecc416da56e7c4a38a9c73d40a20357b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9215048138289335289
+    second: sleep_gaoguang_biyan_0
+  - first:
+      213: 2154167046013285291
+    second: sleep_gaoguang_biyan_1
+  - first:
+      213: 219687050873368969
+    second: sleep_gaoguang_biyan_2
+  - first:
+      213: 2123687213144578765
+    second: sleep_gaoguang_biyan_3
+  - first:
+      213: -3947807084251271095
+    second: sleep_gaoguang_biyan_4
+  - first:
+      213: -4385499651813728610
+    second: sleep_gaoguang_biyan_5
+  - first:
+      213: -6747799949077347070
+    second: sleep_gaoguang_biyan_6
+  - first:
+      213: 1482365882020097945
+    second: sleep_gaoguang_biyan_7
+  - first:
+      213: -6195881923492250362
+    second: sleep_gaoguang_biyan_8
+  - first:
+      213: -3061207030840662235
+    second: sleep_gaoguang_biyan_9
+  - first:
+      213: 7076114679452515148
+    second: sleep_gaoguang_biyan_10
+  - first:
+      213: -4701649478045215036
+    second: sleep_gaoguang_biyan_11
+  - first:
+      213: -5795560662360350754
+    second: sleep_gaoguang_biyan_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_0
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1088
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704b329aa829d1080800000000000000
+      internalID: -9215048138289335289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_1
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1111
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3797cd38325ed10800000000000000
+      internalID: 2154167046013285291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1102
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9817f05753c7c0300800000000000000
+      internalID: 219687050873368969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1060
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca9581c44ad87d10800000000000000
+      internalID: 2123687213144578765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1089
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940be6d8f529639c0800000000000000
+      internalID: -3947807084251271095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1098
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1b035d439323c0800000000000000
+      internalID: -4385499651813728610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 919
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20588db92bffa52a0800000000000000
+      internalID: -6747799949077347070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_7
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 896
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f67f07aeb629410800000000000000
+      internalID: 1482365882020097945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_8
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfaffb73ec30aa0800000000000000
+      internalID: -6195881923492250362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_9
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 892
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52760d6ac686485d0800000000000000
+      internalID: -3061207030840662235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_10
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 856
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb1b26fc8633260800000000000000
+      internalID: 7076114679452515148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 365
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6d6bac5b260ceb0800000000000000
+      internalID: -4701649478045215036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sleep_gaoguang_biyan_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 288
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf98c5a848029fa0800000000000000
+      internalID: -5795560662360350754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sleep_gaoguang_biyan_0: -9215048138289335289
+      sleep_gaoguang_biyan_1: 2154167046013285291
+      sleep_gaoguang_biyan_10: 7076114679452515148
+      sleep_gaoguang_biyan_11: -4701649478045215036
+      sleep_gaoguang_biyan_12: -5795560662360350754
+      sleep_gaoguang_biyan_2: 219687050873368969
+      sleep_gaoguang_biyan_3: 2123687213144578765
+      sleep_gaoguang_biyan_4: -3947807084251271095
+      sleep_gaoguang_biyan_5: -4385499651813728610
+      sleep_gaoguang_biyan_6: -6747799949077347070
+      sleep_gaoguang_biyan_7: 1482365882020097945
+      sleep_gaoguang_biyan_8: -6195881923492250362
+      sleep_gaoguang_biyan_9: -3061207030840662235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

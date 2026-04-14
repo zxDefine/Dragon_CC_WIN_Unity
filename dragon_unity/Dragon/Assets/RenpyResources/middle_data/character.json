@@ -1,0 +1,1222 @@
+{
+  "nv": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nv1": {
+    "name": "persistent.povname",
+    "voice_tag": "",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nv1_qian": {
+    "name": "persistent.povname",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nv2": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "nv2_qian": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "nv_pangbai_nvl": {
+    "name": "",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "kind": "nvl"
+  },
+  "nv_pangbai1": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "nv_pangbai": {
+    "name": "",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nv_w": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone4",
+      "rect": [320, 50, 1280, 950 ],
+      "zoom": 0.45,
+      "yoffset": -70
+    }
+  },
+  "he": {
+    "name": "赫泽尔",
+    "voice_tag": "he_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "he"
+    }
+  },
+  "he_pangbai": {
+    "name": "",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+
+  "nv_pangbai11": {
+    "name": "",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "he_qian": {
+    "name": "赫泽尔",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "he_nv": {
+    "name": "赫泽尔",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "he_nv_qian": {
+    "name": "赫泽尔",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "he_weizhi_nv": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "he_weizhi": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "he_weizhi_nv_qian": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "he_heilong": {
+    "name": "黑龙",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "he_heilong_nv": {
+    "name": "黑龙",
+    "image": "",
+    "voice_tag": "he_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_2": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "nuo1",
+      "rect": [1490, 50, 1280, 800 ],
+      "zoom": 0.42,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_2_qian": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "nuo1",
+      "rect": [1490, 50, 1280, 800 ],
+      "zoom": 0.42,
+      "yoffset": 0.0
+    }
+  },
+  "nuo": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "nuo_qian": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "nuo_nv": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_nv_qian": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_weizhi": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "nuo_nv_weizhi": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_weizhi_qian": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "nuo_weizhi_nv": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_weizhi_nv_qian": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin_qian": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "window_background": "textbox_xin_yoffset",
+    "screen": "say1",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "window_background": "textbox_xin_yoffset",
+    "screen": "say1",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin_wu": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "window_background": "textbox_xin_yoffset",
+    "screen": "say1",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin_pangbai": {
+    "name": "",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "window_background": "textbox_xin0_yoffset",
+    "screen": "say1",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin_pangbai1": {
+    "name": "",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "window_background": "textbox_xin0_yoffset",
+    "screen": "say1"
+  },
+  "nuo_1_xin_nuo_qian": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "window_background": "textbox_xin1_yoffset",
+    "screen": "say2",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin_nuo": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "window_background": "textbox_xin1_yoffset",
+    "screen": "say2",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "nuo_1_xin_nuo1": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "window_background": "textbox_xin1_yoffset",
+    "screen": "say2"
+  },
+  "nuo_1_xin_nuo1_qian": {
+    "name": "诺伯拉",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "window_background": "textbox_xin1_yoffset",
+    "screen": "say2"
+  },
+  "nuo_1_xin_nuo_wen": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "nuo_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "window_background": "textbox_xin1_yoffset",
+    "screen": "say2",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "an": {
+    "name": "安德鲁",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "an_qian": {
+    "name": "安德鲁",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "an_weizhi": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "an_nv": {
+    "name": "安德鲁",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "an_nv_qian": {
+    "name": "安德鲁",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "an_luo": {
+    "name": "安德鲁·洛恩",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "an_luo_qian": {
+    "name": "安德鲁·洛恩",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "an_luo_nv": {
+    "name": "安德鲁·洛恩",
+    "image": "",
+    "voice_tag": "an_test",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "luo": {
+    "name": "洛恩",
+    "image": "",
+    "voice_tag": "luo",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "luo_qian": {
+    "name": "洛恩",
+    "image": "",
+    "voice_tag": "luo",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "luo_weizhi": {
+    "name": "？？",
+    "image": "",
+    "voice_tag": "luo",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "luo_nv_weizhi": {
+    "name": "？？",
+    "image": "",
+    "voice_tag": "luo",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "luo_nv": {
+    "name": "洛恩",
+    "image": "",
+    "voice_tag": "luo",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "luo_nv_qian": {
+    "name": "洛恩",
+    "image": "",
+    "voice_tag": "luo",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "yao": {
+    "name": "妖精商人",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "yao_nv": {
+    "name": "妖精商人",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "yao_nv_qian": {
+    "name": "妖精商人",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "yao_qian": {
+    "name": "妖精商人",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "yao_weizhi": {
+    "name": "？？？？",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "yao_nv_weizhi": {
+    "name": "？？？？",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "a": {
+    "name": "国王",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "a_nv": {
+    "name": "国王",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "b": {
+    "name": "王后",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "b_nv": {
+    "name": "王后",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "c": {
+    "name": "公主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "c_qian": {
+    "name": "公主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "c_weizhi": {
+    "name": "? ?",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "c_nv": {
+    "name": "公主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "d": {
+    "name": "母亲",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "d_nv": {
+    "name": "母亲",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "e": {
+    "name": "医师",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "e_nv": {
+    "name": "医师",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "e_weizhi": {
+    "name": "？？",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "f": {
+    "name": "小女孩",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "g": {
+    "name": "神父",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "h": {
+    "name": "水果摊摊主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "h_nv": {
+    "name": "水果摊摊主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "i": {
+    "name": "中年男人店主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "i_nv": {
+    "name": "中年男人店主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "j": {
+    "name": "女性店主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "j_nv": {
+    "name": "女性店主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "qigai_weizhi": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "k": {
+    "name": "法师塔贤者",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "l": {
+    "name": "高个子骑士",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "npc_qishi1_layered",
+      "rect": [100, 0, 1280, 750 ],
+      "zoom": 0.4,
+      "yoffset": 0.0
+    }
+  },
+  "m": {
+    "name": "中等骑士",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "npc_qishi1_layered",
+      "rect": [100, 0, 1280, 750 ],
+      "zoom": 0.4,
+      "yoffset": 0.0
+    }
+  },
+  "n": {
+    "name": "骑士",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "npc_qishi1_layered",
+      "rect": [100, 0, 1280, 750 ],
+      "zoom": 0.4,
+      "yoffset": 0.0
+    }
+  },
+  "o": {
+    "name": "骑士团团长",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "p": {
+    "name": "男性骑士",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "p_qian": {
+    "name": "男性骑士",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "q": {
+    "name": "女骑士",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "q1": {
+    "name": "席亚",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "r": {
+    "name": "卫兵",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "s": {
+    "name": "菲珀斯",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "s_qian": {
+    "name": "菲珀斯",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "s_wen": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "t": {
+    "name": "教皇",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "u": {
+    "name": "孩子",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "v": {
+    "name": "平民",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "w": {
+    "name": "民众",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "x": {
+    "name": "年轻摊主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "x_qian": {
+    "name": "年轻摊主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "x_nv": {
+    "name": "年轻摊主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone3",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750 ],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "y": {
+    "name": "小男孩",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "y_qian": {
+    "name": "小男孩",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "z": {
+    "name": "温和的男声",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "z_qian": {
+    "name": "温和的男声",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "bb": {
+    "name": "银发少年",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "bb_qian": {
+    "name": "银发少年",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "bb_1": {
+    "name": "？？？",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "bb_2": {
+    "name": "微服私访的王子",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "bb_2_qian": {
+    "name": "微服私访的王子",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "bb_3": {
+    "name": "王子",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」"
+  },
+  "bb_3_qian": {
+    "name": "王子",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "",
+    "what_suffix": ""
+  },
+  "wu_nv": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone1",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "wu_nv1": {
+    "name": "persistent.povname",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone1",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "wu_nv_pangbai": {
+    "name": "",
+    "image": "",
+    "voice_tag": "",
+    "what_prefix": "",
+    "what_suffix": "",
+    "image_info": {
+      "image": "someone1",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "wu_a_nv": {
+    "name": "国王",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone1",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "wu_b_nv": {
+    "name": "王后",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone1",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  },
+  "wu_c_nv": {
+    "name": "公主",
+    "image": "",
+    "voice_tag": "others",
+    "what_prefix": "「",
+    "what_suffix": "」",
+    "image_info": {
+      "image": "someone1",
+      "side_pos": [-350, -190],
+      "rect": [320, 50, 1280, 750],
+      "zoom": 0.45,
+      "yoffset": 0.0
+    }
+  }
+}

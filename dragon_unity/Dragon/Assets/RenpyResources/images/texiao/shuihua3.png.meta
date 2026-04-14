@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 338a29aedf8a342b396370004df48f7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7314447735420274447
+    second: shuihua3_0
+  - first:
+      213: -7814100579329507244
+    second: shuihua3_1
+  - first:
+      213: 9100864376584031794
+    second: shuihua3_2
+  - first:
+      213: -7860156448543432543
+    second: shuihua3_3
+  - first:
+      213: 3139142543074985785
+    second: shuihua3_4
+  - first:
+      213: -238308808250416095
+    second: shuihua3_5
+  - first:
+      213: 6277590276604673160
+    second: shuihua3_6
+  - first:
+      213: -2249614009749865421
+    second: shuihua3_7
+  - first:
+      213: -8845700138006118271
+    second: shuihua3_8
+  - first:
+      213: -6190192153917805697
+    second: shuihua3_9
+  - first:
+      213: -6312246264860376122
+    second: shuihua3_10
+  - first:
+      213: 7139911854777965210
+    second: shuihua3_11
+  - first:
+      213: 2147018351317311835
+    second: shuihua3_12
+  - first:
+      213: 9069107997104828919
+    second: shuihua3_13
+  - first:
+      213: -7443036660937294823
+    second: shuihua3_14
+  - first:
+      213: 716511383432047512
+    second: shuihua3_15
+  - first:
+      213: -3524826350789563024
+    second: shuihua3_16
+  - first:
+      213: 6402380651862259825
+    second: shuihua3_17
+  - first:
+      213: -1616194305691986585
+    second: shuihua3_18
+  - first:
+      213: 9012890762776150454
+    second: shuihua3_19
+  - first:
+      213: 2255629172029045067
+    second: shuihua3_20
+  - first:
+      213: -7636623344042487736
+    second: shuihua3_21
+  - first:
+      213: 2478461072584843891
+    second: shuihua3_22
+  - first:
+      213: 3525091887446666138
+    second: shuihua3_23
+  - first:
+      213: 7743605753212970837
+    second: shuihua3_24
+  - first:
+      213: -2713115193828902655
+    second: shuihua3_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shuihua3_0
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 657
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f83d1ac98cdd7a90800000000000000
+      internalID: -7314447735420274447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 581
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45004e98cecbe8390800000000000000
+      internalID: -7814100579329507244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 616
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4c4b9ee3cc4e70800000000000000
+      internalID: 9100864376584031794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 603
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0a29dda5d1be290800000000000000
+      internalID: -7860156448543432543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 608
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9370d43d289709b20800000000000000
+      internalID: 3139142543074985785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 613
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1242369c66b51bcf0800000000000000
+      internalID: -238308808250416095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 588
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cb772b81b7e1750800000000000000
+      internalID: 6277590276604673160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 599
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cfd132af3c7c0e0800000000000000
+      internalID: -2249614009749865421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 577
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180858c4792cd3580800000000000000
+      internalID: -8845700138006118271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 581
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ba1567805081aa0800000000000000
+      internalID: -6190192153917805697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 576
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3063047756668a0800000000000000
+      internalID: -6312246264860376122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 580
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a14a7c000161360800000000000000
+      internalID: 7139911854777965210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_12
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 557
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51638ca0ddbbcd10800000000000000
+      internalID: 2147018351317311835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 583
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f176155ca1fbdd70800000000000000
+      internalID: 9069107997104828919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 580
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c7f9e779505b890800000000000000
+      internalID: -7443036660937294823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 580
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89badf69e4f81f900800000000000000
+      internalID: 716511383432047512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 564
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d604afb1d451fc0800000000000000
+      internalID: -3524826350789563024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 574
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17875171843d9d850800000000000000
+      internalID: 6402380651862259825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 115
+        width: 727
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765583987df1299e0800000000000000
+      internalID: -1616194305691986585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 530
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10caa7568341d70800000000000000
+      internalID: 9012890762776150454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_20
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 283
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49bcc7f7ca9d4f10800000000000000
+      internalID: 2255629172029045067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 108
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84054e67783450690800000000000000
+      internalID: -7636623344042487736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 110
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ad0dc633456220800000000000000
+      internalID: 2478461072584843891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 101
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9baed71564abe030800000000000000
+      internalID: 3525091887446666138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_24
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 110
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5572ee8b760d67b60800000000000000
+      internalID: 7743605753212970837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuihua3_25
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109fc1d1b14195ad0800000000000000
+      internalID: -2713115193828902655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shuihua3_0: -7314447735420274447
+      shuihua3_1: -7814100579329507244
+      shuihua3_10: -6312246264860376122
+      shuihua3_11: 7139911854777965210
+      shuihua3_12: 2147018351317311835
+      shuihua3_13: 9069107997104828919
+      shuihua3_14: -7443036660937294823
+      shuihua3_15: 716511383432047512
+      shuihua3_16: -3524826350789563024
+      shuihua3_17: 6402380651862259825
+      shuihua3_18: -1616194305691986585
+      shuihua3_19: 9012890762776150454
+      shuihua3_2: 9100864376584031794
+      shuihua3_20: 2255629172029045067
+      shuihua3_21: -7636623344042487736
+      shuihua3_22: 2478461072584843891
+      shuihua3_23: 3525091887446666138
+      shuihua3_24: 7743605753212970837
+      shuihua3_25: -2713115193828902655
+      shuihua3_3: -7860156448543432543
+      shuihua3_4: 3139142543074985785
+      shuihua3_5: -238308808250416095
+      shuihua3_6: 6277590276604673160
+      shuihua3_7: -2249614009749865421
+      shuihua3_8: -8845700138006118271
+      shuihua3_9: -6190192153917805697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

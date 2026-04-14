@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 177aeaedda52348798d4ed35e7246dd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4736887220335508229
+    second: k_an_emoji3_0
+  - first:
+      213: -8603628001345470277
+    second: k_an_emoji3_1
+  - first:
+      213: 6778901800946127029
+    second: k_an_emoji3_2
+  - first:
+      213: 343259419546471285
+    second: k_an_emoji3_3
+  - first:
+      213: -343427309056851629
+    second: k_an_emoji3_4
+  - first:
+      213: -2604292844791287035
+    second: k_an_emoji3_5
+  - first:
+      213: -5918520551182252342
+    second: k_an_emoji3_6
+  - first:
+      213: 7083767863680860201
+    second: k_an_emoji3_7
+  - first:
+      213: -3089173573092679008
+    second: k_an_emoji3_8
+  - first:
+      213: 367446714037152297
+    second: k_an_emoji3_9
+  - first:
+      213: -3142715875554021754
+    second: k_an_emoji3_10
+  - first:
+      213: 7454125355157675449
+    second: k_an_emoji3_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: k_an_emoji3_0
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 998
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b7f2d64ddccb140800000000000000
+      internalID: 4736887220335508229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 957
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb00330bae5c99880800000000000000
+      internalID: -8603628001345470277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 955
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b056a4954f731e50800000000000000
+      internalID: 6778901800946127029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 940
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bcfd79f9083c400800000000000000
+      internalID: 343259419546471285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 931
+        width: 111
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3518f759ea6eb3bf0800000000000000
+      internalID: -343427309056851629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 912
+        width: 109
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bf1fa471bbdbd0800000000000000
+      internalID: -2604292844791287035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 905
+        width: 113
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6cee69ae03ddda0800000000000000
+      internalID: -5918520551182252342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 904
+        width: 112
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920860237599e4260800000000000000
+      internalID: 7083767863680860201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 897
+        width: 106
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2694e900d0125d0800000000000000
+      internalID: -3089173573092679008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 890
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aa110f6de691500800000000000000
+      internalID: 367446714037152297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 884
+        width: 103
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2f9fdf84d264d0800000000000000
+      internalID: -3142715875554021754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k_an_emoji3_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 853
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd761548f527760800000000000000
+      internalID: 7454125355157675449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      k_an_emoji3_0: 4736887220335508229
+      k_an_emoji3_1: -8603628001345470277
+      k_an_emoji3_10: -3142715875554021754
+      k_an_emoji3_11: 7454125355157675449
+      k_an_emoji3_2: 6778901800946127029
+      k_an_emoji3_3: 343259419546471285
+      k_an_emoji3_4: -343427309056851629
+      k_an_emoji3_5: -2604292844791287035
+      k_an_emoji3_6: -5918520551182252342
+      k_an_emoji3_7: 7083767863680860201
+      k_an_emoji3_8: -3089173573092679008
+      k_an_emoji3_9: 367446714037152297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

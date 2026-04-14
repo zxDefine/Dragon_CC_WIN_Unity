@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GUI
+  m_EditorClassIdentifier: 
+  m_GroupName: GUI
+  m_GUID: 5686fc039cb1141ee8eb0be91a542775
+  m_SerializeEntries:
+  - m_GUID: 016a2a06e443d4b3685bdd3635ebefb6
+    m_Address: Assets/RenpyResources/gui/notify.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f0c117e23b9f41d098ef6ec172be9b2
+    m_Address: Assets/RenpyResources/gui
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d607ab4d39243adb48d98d7c571069
+    m_Address: Assets/RenpyResources/gui/textbox_xin1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cc24703fca074af088fd61885124a8e
+    m_Address: Assets/RenpyResources/gui/demo_bai/demo_bai_ditu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2412aa6eca8b743688909bb43e6218a7
+    m_Address: Assets/RenpyResources/gui/textbox_xin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bcccbdef78954082bcab5915050f858
+    m_Address: Assets/RenpyResources/gui/button/check_selected_foreground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2df8251c434144144b22335882899e45
+    m_Address: Assets/RenpyResources/gui/mouse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 313a0f72efa9b4f19a2f53a2c48290cb
+    m_Address: Assets/RenpyResources/gui/skip.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a2a9ba3b8a245f6ab0fa7b86a58b69
+    m_Address: Assets/RenpyResources/gui/window_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bee94c7d5f23417da82469e52d3d5b9
+    m_Address: Assets/RenpyResources/gui/button/hover_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 411da520145084e3b9f27f2d4ce4e419
+    m_Address: Assets/RenpyResources/gui/demo_bai/demo_bai_button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 460a43922224e442c9767fd8a83d6c0f
+    m_Address: Assets/RenpyResources/gui/bar/left.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49c5569e8cb4f40e8a89100f2d8038ad
+    m_Address: Assets/RenpyResources/gui/bar/top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49cb8c9a01cfd45599f6c2aa1dbeb834
+    m_Address: Assets/RenpyResources/gui/main_menu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4de0bc418b48a4f1d9394f499e64719b
+    m_Address: Assets/RenpyResources/gui/button/slot_idle_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 509cb6d0ef15d42218a7e77a6299e618
+    m_Address: Assets/RenpyResources/gui/textbox_xin0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53cfde152da914092979c2ccbccec41b
+    m_Address: Assets/RenpyResources/gui/bar/bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57f8773ab820948af81ab896103521b1
+    m_Address: Assets/RenpyResources/gui/textbox.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5889b2a639da5494db482e5e8590302e
+    m_Address: Assets/RenpyResources/gui/button/radio_selected_foreground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 596b8ed4b9fbf4716b66cb28c74b05fb
+    m_Address: Assets/RenpyResources/gui/textbox0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d6c201e6225f48f396b6812fa6a34bb
+    m_Address: Assets/RenpyResources/gui/ui_ditu.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 614bab7af7f6944579d5726bbc5db087
+    m_Address: Assets/RenpyResources/gui/button/slot_hover_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 625e5daad018e44a881a75d64ed521d5
+    m_Address: Assets/RenpyResources/gui/button/radio_foreground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 647fe239b5dc64c20a67ada096150841
+    m_Address: Assets/RenpyResources/gui/textbox1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 686b6888ae7204cceb1ad438b5961c33
+    m_Address: Assets/RenpyResources/gui/button/quick_idle_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68c727a3990274341bb0355761907b92
+    m_Address: Assets/RenpyResources/gui/button/choice_hover_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 729523e71ab3c41569374647daa02dab
+    m_Address: Assets/RenpyResources/gui/namebox.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 733457baf1a074fd689d618d1443f290
+    m_Address: Assets/RenpyResources/gui/button/idle_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73d242562fb6d4db6a298db4f9cde78a
+    m_Address: Assets/RenpyResources/gui/choose/choose_ditu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7796613a1567c4d3da65c93246785796
+    m_Address: Assets/RenpyResources/gui/frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8035583c9efc748548f1c022d1917051
+    m_Address: Assets/RenpyResources/gui/game_menu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80d0e33014120421598e6aeeed220e51
+    m_Address: Assets/RenpyResources/gui/textboxaaa.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88e8e2915bf5e448192856dfb8a49d92
+    m_Address: Assets/RenpyResources/gui/thoughtbubble.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91b19af858ce04fc2a2c18ba5b7972e3
+    m_Address: Assets/RenpyResources/gui/bar/right.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9216ca6864ba241bfafcfa64a523f6dd
+    m_Address: Assets/RenpyResources/gui/nvl.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae43740ecb850473fa8aa62fa47de64e
+    m_Address: Assets/RenpyResources/gui/button/quick_hover_background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc7b60138ac2a4833995cf6ddfc26b93
+    m_Address: Assets/RenpyResources/gui/bubble.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e680e6c48848a40929b8f75cff073556
+    m_Address: Assets/RenpyResources/gui/textbox_test_test.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd5bf76d9deda403c89e1dd997b0e0ea
+    m_Address: Assets/RenpyResources/gui/button/check_foreground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8fae7f479247e48f1a358b6886dedfc4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 85517a9dfa1534ad8ab499acf7eb9a3c, type: 2}
+    - {fileID: 11400000, guid: 82e54992bcbf843b9aadcf1a8de5f154, type: 2}

@@ -1,0 +1,5213 @@
+fileFormatVersion: 2
+guid: b7a5f8aaa774a487589e7570e451f802
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3141835489336521642
+    second: guangjie_nv_zui3_0
+  - first:
+      213: -5236687582619662414
+    second: guangjie_nv_zui3_1
+  - first:
+      213: -8456548600714270804
+    second: guangjie_nv_zui3_2
+  - first:
+      213: -3015707213442743077
+    second: guangjie_nv_zui3_3
+  - first:
+      213: -1699275983454293446
+    second: guangjie_nv_zui3_4
+  - first:
+      213: -8730245716858516395
+    second: guangjie_nv_zui3_5
+  - first:
+      213: 8476368609713031541
+    second: guangjie_nv_zui3_6
+  - first:
+      213: 2518506771364045423
+    second: guangjie_nv_zui3_7
+  - first:
+      213: 5515973228953132337
+    second: guangjie_nv_zui3_8
+  - first:
+      213: 1997505446907692754
+    second: guangjie_nv_zui3_9
+  - first:
+      213: 640847924333869527
+    second: guangjie_nv_zui3_10
+  - first:
+      213: -1357238213935206107
+    second: guangjie_nv_zui3_11
+  - first:
+      213: 7316995123989030537
+    second: guangjie_nv_zui3_12
+  - first:
+      213: 2121775959516165044
+    second: guangjie_nv_zui3_13
+  - first:
+      213: 4888423544500966212
+    second: guangjie_nv_zui3_14
+  - first:
+      213: 5749904272997161779
+    second: guangjie_nv_zui3_15
+  - first:
+      213: 5511584661406361963
+    second: guangjie_nv_zui3_16
+  - first:
+      213: -5763332395224349301
+    second: guangjie_nv_zui3_17
+  - first:
+      213: 6002519970484471479
+    second: guangjie_nv_zui3_18
+  - first:
+      213: 4051136689558354459
+    second: guangjie_nv_zui3_19
+  - first:
+      213: 7239120959674069825
+    second: guangjie_nv_zui3_20
+  - first:
+      213: 7865178501307214677
+    second: guangjie_nv_zui3_21
+  - first:
+      213: -2801828147756122301
+    second: guangjie_nv_zui3_22
+  - first:
+      213: -8531274269095290
+    second: guangjie_nv_zui3_23
+  - first:
+      213: -6310797601369278588
+    second: guangjie_nv_zui3_24
+  - first:
+      213: -5638324489693490360
+    second: guangjie_nv_zui3_25
+  - first:
+      213: -4018390306346406864
+    second: guangjie_nv_zui3_26
+  - first:
+      213: -3573784052327008676
+    second: guangjie_nv_zui3_27
+  - first:
+      213: 5851067367359635333
+    second: guangjie_nv_zui3_28
+  - first:
+      213: -6832336454453579916
+    second: guangjie_nv_zui3_29
+  - first:
+      213: 4124770015855898254
+    second: guangjie_nv_zui3_30
+  - first:
+      213: 2163270800466548740
+    second: guangjie_nv_zui3_31
+  - first:
+      213: -6618932755886701174
+    second: guangjie_nv_zui3_32
+  - first:
+      213: 809666223513801375
+    second: guangjie_nv_zui3_33
+  - first:
+      213: -5516331789007037298
+    second: guangjie_nv_zui3_34
+  - first:
+      213: -4686583884452417846
+    second: guangjie_nv_zui3_35
+  - first:
+      213: 2936622593791594779
+    second: guangjie_nv_zui3_36
+  - first:
+      213: 7914483493262724014
+    second: guangjie_nv_zui3_37
+  - first:
+      213: 4538924493095533611
+    second: guangjie_nv_zui3_38
+  - first:
+      213: 6771871201059237332
+    second: guangjie_nv_zui3_39
+  - first:
+      213: 4354369487275574811
+    second: guangjie_nv_zui3_40
+  - first:
+      213: -5594973373381297980
+    second: guangjie_nv_zui3_41
+  - first:
+      213: -182723897783849425
+    second: guangjie_nv_zui3_42
+  - first:
+      213: 1467330874525957531
+    second: guangjie_nv_zui3_43
+  - first:
+      213: -6081815864982709482
+    second: guangjie_nv_zui3_44
+  - first:
+      213: 198515022977532197
+    second: guangjie_nv_zui3_45
+  - first:
+      213: 2554362356445138605
+    second: guangjie_nv_zui3_46
+  - first:
+      213: 7906358810397107514
+    second: guangjie_nv_zui3_47
+  - first:
+      213: 5667354412604323485
+    second: guangjie_nv_zui3_48
+  - first:
+      213: 5724091599923567020
+    second: guangjie_nv_zui3_49
+  - first:
+      213: -7508910947379442671
+    second: guangjie_nv_zui3_50
+  - first:
+      213: 4277902711513433273
+    second: guangjie_nv_zui3_51
+  - first:
+      213: -2010440717828525351
+    second: guangjie_nv_zui3_52
+  - first:
+      213: -3476959847809841485
+    second: guangjie_nv_zui3_53
+  - first:
+      213: -2715965616148416494
+    second: guangjie_nv_zui3_54
+  - first:
+      213: 1460319391025842272
+    second: guangjie_nv_zui3_55
+  - first:
+      213: 7224365433974365393
+    second: guangjie_nv_zui3_56
+  - first:
+      213: -900471064779109349
+    second: guangjie_nv_zui3_57
+  - first:
+      213: 5324159382585040936
+    second: guangjie_nv_zui3_58
+  - first:
+      213: 4822264228389185640
+    second: guangjie_nv_zui3_59
+  - first:
+      213: 8770526210630387010
+    second: guangjie_nv_zui3_60
+  - first:
+      213: -7073133354124396439
+    second: guangjie_nv_zui3_61
+  - first:
+      213: 1996679060368608663
+    second: guangjie_nv_zui3_62
+  - first:
+      213: 8739391645816481456
+    second: guangjie_nv_zui3_63
+  - first:
+      213: -7951365106693093087
+    second: guangjie_nv_zui3_64
+  - first:
+      213: 6599955393212028627
+    second: guangjie_nv_zui3_65
+  - first:
+      213: 7199850691666523389
+    second: guangjie_nv_zui3_66
+  - first:
+      213: 5578438822946179587
+    second: guangjie_nv_zui3_67
+  - first:
+      213: -8171381970743235154
+    second: guangjie_nv_zui3_68
+  - first:
+      213: 6762763723778719880
+    second: guangjie_nv_zui3_69
+  - first:
+      213: 3194403331418766297
+    second: guangjie_nv_zui3_70
+  - first:
+      213: 7710678182497212826
+    second: guangjie_nv_zui3_71
+  - first:
+      213: 8174729787830881565
+    second: guangjie_nv_zui3_72
+  - first:
+      213: -5718006147889347672
+    second: guangjie_nv_zui3_73
+  - first:
+      213: -879193546757866787
+    second: guangjie_nv_zui3_74
+  - first:
+      213: 3510283406460996903
+    second: guangjie_nv_zui3_75
+  - first:
+      213: -7831955755594257273
+    second: guangjie_nv_zui3_76
+  - first:
+      213: 7928027197425170528
+    second: guangjie_nv_zui3_77
+  - first:
+      213: 6614601251984537544
+    second: guangjie_nv_zui3_78
+  - first:
+      213: -8064969475582733153
+    second: guangjie_nv_zui3_79
+  - first:
+      213: 5615666736314261898
+    second: guangjie_nv_zui3_80
+  - first:
+      213: -958425914608640869
+    second: guangjie_nv_zui3_81
+  - first:
+      213: 1275834990171701092
+    second: guangjie_nv_zui3_82
+  - first:
+      213: 471198584082230178
+    second: guangjie_nv_zui3_83
+  - first:
+      213: 8096592088167767541
+    second: guangjie_nv_zui3_84
+  - first:
+      213: -6225485476792439092
+    second: guangjie_nv_zui3_85
+  - first:
+      213: -3829141369996896263
+    second: guangjie_nv_zui3_86
+  - first:
+      213: -4327610997257381238
+    second: guangjie_nv_zui3_87
+  - first:
+      213: -4313413058806978908
+    second: guangjie_nv_zui3_88
+  - first:
+      213: 4063000359027050676
+    second: guangjie_nv_zui3_89
+  - first:
+      213: 8823374023187855107
+    second: guangjie_nv_zui3_90
+  - first:
+      213: 2274769035204085527
+    second: guangjie_nv_zui3_91
+  - first:
+      213: 254768783774018694
+    second: guangjie_nv_zui3_92
+  - first:
+      213: -4959885500165787257
+    second: guangjie_nv_zui3_93
+  - first:
+      213: -8384717335221223562
+    second: guangjie_nv_zui3_94
+  - first:
+      213: -5463014092088716864
+    second: guangjie_nv_zui3_95
+  - first:
+      213: 3544536679722211402
+    second: guangjie_nv_zui3_96
+  - first:
+      213: -8856055308808314695
+    second: guangjie_nv_zui3_97
+  - first:
+      213: -2377518570727570869
+    second: guangjie_nv_zui3_98
+  - first:
+      213: 8070971095659942747
+    second: guangjie_nv_zui3_99
+  - first:
+      213: -8728710966112971814
+    second: guangjie_nv_zui3_100
+  - first:
+      213: 3060810091905277861
+    second: guangjie_nv_zui3_101
+  - first:
+      213: -1897903849959786602
+    second: guangjie_nv_zui3_102
+  - first:
+      213: 7164323992200898887
+    second: guangjie_nv_zui3_103
+  - first:
+      213: -5854147481902979591
+    second: guangjie_nv_zui3_104
+  - first:
+      213: -6106730722869152496
+    second: guangjie_nv_zui3_105
+  - first:
+      213: 7609611307942489610
+    second: guangjie_nv_zui3_106
+  - first:
+      213: 742506656082823075
+    second: guangjie_nv_zui3_107
+  - first:
+      213: -5399909872813589900
+    second: guangjie_nv_zui3_108
+  - first:
+      213: 8538708991811320320
+    second: guangjie_nv_zui3_109
+  - first:
+      213: -5593218342565070652
+    second: guangjie_nv_zui3_110
+  - first:
+      213: -8206139183254015122
+    second: guangjie_nv_zui3_111
+  - first:
+      213: -7162956668262969601
+    second: guangjie_nv_zui3_112
+  - first:
+      213: 8450603675348608260
+    second: guangjie_nv_zui3_113
+  - first:
+      213: -4891512991140824089
+    second: guangjie_nv_zui3_114
+  - first:
+      213: -8866009165531288088
+    second: guangjie_nv_zui3_115
+  - first:
+      213: 2639093344308362845
+    second: guangjie_nv_zui3_116
+  - first:
+      213: -3055881325148832263
+    second: guangjie_nv_zui3_117
+  - first:
+      213: -5448708481886688051
+    second: guangjie_nv_zui3_118
+  - first:
+      213: 748722738957416577
+    second: guangjie_nv_zui3_119
+  - first:
+      213: -1257720948975750727
+    second: guangjie_nv_zui3_120
+  - first:
+      213: -91180865380520958
+    second: guangjie_nv_zui3_121
+  - first:
+      213: -5881045106104207398
+    second: guangjie_nv_zui3_122
+  - first:
+      213: -5665238248552829503
+    second: guangjie_nv_zui3_123
+  - first:
+      213: -368070367397095773
+    second: guangjie_nv_zui3_124
+  - first:
+      213: -7117122663294683190
+    second: guangjie_nv_zui3_125
+  - first:
+      213: -3137036481982332120
+    second: guangjie_nv_zui3_126
+  - first:
+      213: 6283902476883699242
+    second: guangjie_nv_zui3_127
+  - first:
+      213: -6230574094611837104
+    second: guangjie_nv_zui3_128
+  - first:
+      213: -5891958889091852979
+    second: guangjie_nv_zui3_129
+  - first:
+      213: -2468467126626953278
+    second: guangjie_nv_zui3_130
+  - first:
+      213: 8603150611014750410
+    second: guangjie_nv_zui3_131
+  - first:
+      213: 8747161228750403053
+    second: guangjie_nv_zui3_132
+  - first:
+      213: -7571528765408148063
+    second: guangjie_nv_zui3_133
+  - first:
+      213: -5547037244935058035
+    second: guangjie_nv_zui3_134
+  - first:
+      213: 9013560483752755404
+    second: guangjie_nv_zui3_135
+  - first:
+      213: -3385100159263564960
+    second: guangjie_nv_zui3_136
+  - first:
+      213: -5924976488168284793
+    second: guangjie_nv_zui3_137
+  - first:
+      213: 6777680726949201209
+    second: guangjie_nv_zui3_138
+  - first:
+      213: 6380650026411507963
+    second: guangjie_nv_zui3_139
+  - first:
+      213: -8502153875551434080
+    second: guangjie_nv_zui3_140
+  - first:
+      213: -5686659771861211506
+    second: guangjie_nv_zui3_141
+  - first:
+      213: 7694768101047431784
+    second: guangjie_nv_zui3_142
+  - first:
+      213: -68520518521324632
+    second: guangjie_nv_zui3_143
+  - first:
+      213: -1113240650166317085
+    second: guangjie_nv_zui3_144
+  - first:
+      213: 8157824388978230930
+    second: guangjie_nv_zui3_145
+  - first:
+      213: 7896968012029135781
+    second: guangjie_nv_zui3_146
+  - first:
+      213: -6696515442868869540
+    second: guangjie_nv_zui3_147
+  - first:
+      213: 5585584763648326592
+    second: guangjie_nv_zui3_148
+  - first:
+      213: -1812795138988539198
+    second: guangjie_nv_zui3_149
+  - first:
+      213: -2535159255724590535
+    second: guangjie_nv_zui3_150
+  - first:
+      213: -911806530794148688
+    second: guangjie_nv_zui3_151
+  - first:
+      213: 3982182693709814100
+    second: guangjie_nv_zui3_152
+  - first:
+      213: 3595131715074371678
+    second: guangjie_nv_zui3_153
+  - first:
+      213: -3250012684818531402
+    second: guangjie_nv_zui3_154
+  - first:
+      213: -2813516870529295730
+    second: guangjie_nv_zui3_155
+  - first:
+      213: -2920761913374187670
+    second: guangjie_nv_zui3_156
+  - first:
+      213: -4945880490665362912
+    second: guangjie_nv_zui3_157
+  - first:
+      213: 9053703241411185475
+    second: guangjie_nv_zui3_158
+  - first:
+      213: 1988338253681922503
+    second: guangjie_nv_zui3_159
+  - first:
+      213: -5510636825321680189
+    second: guangjie_nv_zui3_160
+  - first:
+      213: 5851472461941569738
+    second: guangjie_nv_zui3_161
+  - first:
+      213: -4012742889398644480
+    second: guangjie_nv_zui3_162
+  - first:
+      213: -3388974112824939504
+    second: guangjie_nv_zui3_163
+  - first:
+      213: -6105177121899392289
+    second: guangjie_nv_zui3_164
+  - first:
+      213: 6483370839312059886
+    second: guangjie_nv_zui3_165
+  - first:
+      213: -53450048178468980
+    second: guangjie_nv_zui3_166
+  - first:
+      213: -7311665554593024871
+    second: guangjie_nv_zui3_167
+  - first:
+      213: -2250862886757060577
+    second: guangjie_nv_zui3_168
+  - first:
+      213: -6633728247737037182
+    second: guangjie_nv_zui3_169
+  - first:
+      213: 7484197760927906837
+    second: guangjie_nv_zui3_170
+  - first:
+      213: 503747714078944986
+    second: guangjie_nv_zui3_171
+  - first:
+      213: -1709892805093740169
+    second: guangjie_nv_zui3_172
+  - first:
+      213: 6275468238796148721
+    second: guangjie_nv_zui3_173
+  - first:
+      213: 864869404248377025
+    second: guangjie_nv_zui3_174
+  - first:
+      213: 6928156563210628092
+    second: guangjie_nv_zui3_175
+  - first:
+      213: 3323654471425946202
+    second: guangjie_nv_zui3_176
+  - first:
+      213: -1300881509662250653
+    second: guangjie_nv_zui3_177
+  - first:
+      213: -8966293732302869828
+    second: guangjie_nv_zui3_178
+  - first:
+      213: -5995646624928353229
+    second: guangjie_nv_zui3_179
+  - first:
+      213: -4493000960283059921
+    second: guangjie_nv_zui3_180
+  - first:
+      213: 5660137571395915862
+    second: guangjie_nv_zui3_181
+  - first:
+      213: 3915264976936236882
+    second: guangjie_nv_zui3_182
+  - first:
+      213: 6162310389455100192
+    second: guangjie_nv_zui3_183
+  - first:
+      213: 3909843183020660246
+    second: guangjie_nv_zui3_184
+  - first:
+      213: 7361937696213546464
+    second: guangjie_nv_zui3_185
+  - first:
+      213: 5094429343965736714
+    second: guangjie_nv_zui3_186
+  - first:
+      213: -7018110226859921868
+    second: guangjie_nv_zui3_187
+  - first:
+      213: 3293625577273162285
+    second: guangjie_nv_zui3_188
+  - first:
+      213: -8539929125394258344
+    second: guangjie_nv_zui3_189
+  - first:
+      213: 275397431777795017
+    second: guangjie_nv_zui3_190
+  - first:
+      213: -7162113798775625383
+    second: guangjie_nv_zui3_191
+  - first:
+      213: -7437330982140321570
+    second: guangjie_nv_zui3_192
+  - first:
+      213: 3469379715482254227
+    second: guangjie_nv_zui3_193
+  - first:
+      213: 6838924582843309481
+    second: guangjie_nv_zui3_194
+  - first:
+      213: -8139644559446381185
+    second: guangjie_nv_zui3_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 118
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8163c445f564d0800000000000000
+      internalID: -3141835489336521642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_1
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1381
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b78146836c8357b0800000000000000
+      internalID: -5236687582619662414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_2
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1043
+        width: 217
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca769943add44aa80800000000000000
+      internalID: -8456548600714270804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_3
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1340
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4892c644e0626d0800000000000000
+      internalID: -3015707213442743077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_4
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1279
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32bad60f75fa68e0800000000000000
+      internalID: -1699275983454293446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1227
+        width: 109
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc5cc76cfe7d680800000000000000
+      internalID: -8730245716858516395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579873f375c12a570800000000000000
+      internalID: 8476368609713031541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_7
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1278
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e19f909883f220800000000000000
+      internalID: 2518506771364045423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_8
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1247
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dd0564d6cac8c40800000000000000
+      internalID: 5515973228953132337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_9
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1270
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d647d7ee9098bb10800000000000000
+      internalID: 1997505446907692754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d977f4bacfb4e800800000000000000
+      internalID: 640847924333869527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1238
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5217ece090f1a2de0800000000000000
+      internalID: -1357238213935206107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1231
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986a1a45c403b8560800000000000000
+      internalID: 7316995123989030537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bce75eff027d10800000000000000
+      internalID: 2121775959516165044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1227
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d2a1505b27d340800000000000000
+      internalID: 4888423544500966212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_15
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1f74d873cbcf40800000000000000
+      internalID: 5749904272997161779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1219
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b692e944c051d7c40800000000000000
+      internalID: 5511584661406361963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_17
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1186
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c624d8b78400b0800000000000000
+      internalID: -5763332395224349301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b64ae54c1c3d4350800000000000000
+      internalID: 6002519970484471479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a7da5fa57883830800000000000000
+      internalID: 4051136689558354459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1190
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14335778826867460800000000000000
+      internalID: 7239120959674069825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1197
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ba479ec2ab62d60800000000000000
+      internalID: 7865178501307214677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1166
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3e43f428ed19d0800000000000000
+      internalID: -2801828147756122301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1180
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a85bbe9d0b1eff0800000000000000
+      internalID: -8531274269095290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_24
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1161
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4873ff0840b8b68a0800000000000000
+      internalID: -6310797601369278588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_25
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1110
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8431f6fefb5a0c1b0800000000000000
+      internalID: -5638324489693490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_26
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1122
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c69558e4fcb38c0800000000000000
+      internalID: -4018390306346406864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_27
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1148
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b711d65e576ec0800000000000000
+      internalID: -3573784052327008676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_28
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1107
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fd95435ca233150800000000000000
+      internalID: 5851067367359635333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_29
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1097
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa756a13aae21a0800000000000000
+      internalID: -6832336454453579916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_30
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1066
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee547b9702e3930800000000000000
+      internalID: 4124770015855898254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1026
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40898ced45b750e10800000000000000
+      internalID: 2163270800466548740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1048
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a850d252ab3d424a0800000000000000
+      internalID: -6618932755886701174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1031
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f921c27f3238c3b00800000000000000
+      internalID: 809666223513801375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_34
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1022
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c5a05f67d0273b0800000000000000
+      internalID: -5516331789007037298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_35
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1028
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acea425a9c8e5feb0800000000000000
+      internalID: -4686583884452417846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_36
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1033
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11955ea0baf0c820800000000000000
+      internalID: 2936622593791594779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_37
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1014
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab0e9cedc4e5dd60800000000000000
+      internalID: 7914483493262724014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1009
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c774937cf7dfe30800000000000000
+      internalID: 4538924493095533611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_39
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1013
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd65db7af48afd50800000000000000
+      internalID: 6771871201059237332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_40
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 998
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164cdd6af3dd6c30800000000000000
+      internalID: 4354369487275574811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_41
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 996
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b6df3c59aa52b0800000000000000
+      internalID: -5594973373381297980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 984
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e6e944595d67df0800000000000000
+      internalID: -182723897783849425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_43
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 982
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d3518f7a10d5410800000000000000
+      internalID: 1467330874525957531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_44
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 936
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bde5291bc099ba0800000000000000
+      internalID: -6081815864982709482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_45
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 980
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52187239c5441c200800000000000000
+      internalID: 198515022977532197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_46
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 940
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeca83970be27320800000000000000
+      internalID: 2554362356445138605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ef78c27709bd60800000000000000
+      internalID: 7906358810397107514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 954
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96f583bfcc76ae40800000000000000
+      internalID: 5667354412604323485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 958
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9dd3b8bfe007f40800000000000000
+      internalID: 5724091599923567020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 942
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c086bf64dfac790800000000000000
+      internalID: -7508910947379442671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 953
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4407fc9d92e5b30800000000000000
+      internalID: 4277902711513433273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_52
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 953
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d279d3a1da7914e0800000000000000
+      internalID: -2010440717828525351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_53
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 940
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b68ffca07b5fbfc0800000000000000
+      internalID: -3476959847809841485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_54
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 944
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187c4379a3fe4ad0800000000000000
+      internalID: -2715965616148416494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_55
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 934
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c5b0cfb8144410800000000000000
+      internalID: 1460319391025842272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 930
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc17abf51a124460800000000000000
+      internalID: 7224365433974365393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 933
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cc2556652e083f0800000000000000
+      internalID: -900471064779109349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_58
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 935
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8206b86ffb633e940800000000000000
+      internalID: 5324159382585040936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_59
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 924
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e53a24cf1ce240800000000000000
+      internalID: 4822264228389185640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_60
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 921
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24580edce1b27b970800000000000000
+      internalID: 8770526210630387010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_61
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 922
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b27280be27dd90800000000000000
+      internalID: -7073133354124396439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 897
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d4bbbc601a5bb10800000000000000
+      internalID: 1996679060368608663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 899
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b668e9066e884970800000000000000
+      internalID: 8739391645816481456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 888
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1294f18409317a190800000000000000
+      internalID: -7951365106693093087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_65
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 857
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d693d94670c79b50800000000000000
+      internalID: 6599955393212028627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_66
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 848
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df432a0ce020be360800000000000000
+      internalID: 7199850691666523389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_67
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 848
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a84fabd889a6d40800000000000000
+      internalID: 5578438822946179587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_68
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 834
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead61d5346b699e80800000000000000
+      internalID: -8171381970743235154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_69
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 798
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8808abfa6c92add50800000000000000
+      internalID: 6762763723778719880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_70
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 758
+        width: 104
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3a8eb7ecc45c20800000000000000
+      internalID: 3194403331418766297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_71
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 761
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d91d34f4d10b60800000000000000
+      internalID: 7710678182497212826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_72
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 716
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc6723e69727170800000000000000
+      internalID: 8174729787830881565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_73
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 706
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34e8b24bf85a0b0800000000000000
+      internalID: -5718006147889347672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_74
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 718
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda7eac902a7cc3f0800000000000000
+      internalID: -879193546757866787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_75
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 676
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d4e0fe82807b030800000000000000
+      internalID: 3510283406460996903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_76
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 677
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c6a3b5cbd4f4390800000000000000
+      internalID: -7831955755594257273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_77
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 666
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b9284bb2060e60800000000000000
+      internalID: 7928027197425170528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 669
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c774630bc8cbcb50800000000000000
+      internalID: 6614601251984537544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_79
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 654
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94d583fdf8731090800000000000000
+      internalID: -8064969475582733153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_80
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 656
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a812df2c42bdeed40800000000000000
+      internalID: 5615666736314261898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c193865bcf2b2f0800000000000000
+      internalID: -958425914608640869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_82
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 636
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fb235f92da4b110800000000000000
+      internalID: 1275834990171701092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_83
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 584
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab63ee9d980a8600800000000000000
+      internalID: 471198584082230178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_84
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 594
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5a7a4b9fdc5070800000000000000
+      internalID: 8096592088167767541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_85
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 581
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceee6161f1aa99a0800000000000000
+      internalID: -6225485476792439092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_86
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 595
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7159e26382cdac0800000000000000
+      internalID: -3829141369996896263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_87
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 575
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a56660abc31f3c0800000000000000
+      internalID: -4327610997257381238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_88
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 580
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6674c2dada324c0800000000000000
+      internalID: -4313413058806978908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_89
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 580
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b88712cc4da26830800000000000000
+      internalID: 4063000359027050676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_90
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 562
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30775840debe27a70800000000000000
+      internalID: 8823374023187855107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_91
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 564
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717c561a26a919f10800000000000000
+      internalID: 2274769035204085527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_92
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 565
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c65b8ebde198300800000000000000
+      internalID: 254768783774018694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_93
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 566
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781f10c8a62fa2bb0800000000000000
+      internalID: -4959885500165787257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_94
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 553
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f341cf10083ab80800000000000000
+      internalID: -8384717335221223562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_95
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 565
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15916a0a97f24b0800000000000000
+      internalID: -5463014092088716864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_96
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 515
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a485f289459b03130800000000000000
+      internalID: 3544536679722211402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_97
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 547
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0a4473e98f81580800000000000000
+      internalID: -8856055308808314695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_98
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 556
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4283e0e47b510fd0800000000000000
+      internalID: -2377518570727570869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_99
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 526
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53914d1379d10070800000000000000
+      internalID: 8070971095659942747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_100
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 536
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad397cd7f936dd680800000000000000
+      internalID: -8728710966112971814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_101
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 533
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afd1fccf8e2a7a20800000000000000
+      internalID: 3060810091905277861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_102
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 516
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697fc45018a49a5e0800000000000000
+      internalID: -1897903849959786602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_103
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 529
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74961f276bacc6360800000000000000
+      internalID: 7164323992200898887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_104
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 536
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5ec6eb1e3e1cea0800000000000000
+      internalID: -5854147481902979591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 512
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157b6c23c8804ba0800000000000000
+      internalID: -6106730722869152496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_106
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 503
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e25b8ca25ca9960800000000000000
+      internalID: 7609611307942489610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_107
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 500
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a70e27aed9ed4a00800000000000000
+      internalID: 742506656082823075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_108
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 493
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a32d3a49aaf05b0800000000000000
+      internalID: -5399909872813589900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_109
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 471
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00af85986969f7670800000000000000
+      internalID: 8538708991811320320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_110
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 493
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b5343d85e062b0800000000000000
+      internalID: -5593218342565070652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_111
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 495
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63fabc04efed1e80800000000000000
+      internalID: -8206139183254015122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_112
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 447
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8ba67cd0189c90800000000000000
+      internalID: -7162956668262969601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_113
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a3cef443964570800000000000000
+      internalID: 8450603675348608260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_114
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb7d4d9dadd1cb0800000000000000
+      internalID: -4891512991140824089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_115
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 450
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed662953ab95f480800000000000000
+      internalID: -8866009165531288088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 463
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef8940a61ff9420800000000000000
+      internalID: 2639093344308362845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_117
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 458
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf0c220245795d0800000000000000
+      internalID: -3055881325148832263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_118
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 473
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc6c74118c4264b0800000000000000
+      internalID: -5448708481886688051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_119
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18870da3d5ff36a00800000000000000
+      internalID: 748722738957416577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_120
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 460
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1bbb9e57dab8ee0800000000000000
+      internalID: -1257720948975750727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_121
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 391
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c6eac6c7f0cbef0800000000000000
+      internalID: -91180865380520958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_122
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 417
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7fb9692a4526ea0800000000000000
+      internalID: -5881045106104207398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_123
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 418
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd6d0324d70161b0800000000000000
+      internalID: -5665238248552829503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_124
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 391
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d2f273f954eaf0800000000000000
+      internalID: -368070367397095773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_125
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 382
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7307755a6ea3d90800000000000000
+      internalID: -7117122663294683190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_126
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 398
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823800cb0f10774d0800000000000000
+      internalID: -3137036481982332120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_127
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 354
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a9d95208e43750800000000000000
+      internalID: 6283902476883699242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_128
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 351
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f09e73fdd8889a0800000000000000
+      internalID: -6230574094611837104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_129
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4599787b9e8b3ea0800000000000000
+      internalID: -5891958889091852979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_130
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 353
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7dba11a3e3ebdd0800000000000000
+      internalID: -2468467126626953278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_131
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 349
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac018b636e7846770800000000000000
+      internalID: 8603150611014750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_132
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5bcb80bc8246970800000000000000
+      internalID: 8747161228750403053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_133
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 350
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5023b14b68ce690800000000000000
+      internalID: -7571528765408148063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_134
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 379
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc8c3e307f403b0800000000000000
+      internalID: -5547037244935058035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_135
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 334
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c49b0189961d70800000000000000
+      internalID: 9013560483752755404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_136
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 258
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1af51755b501d0800000000000000
+      internalID: -3385100159263564960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_137
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d1030a64146cda0800000000000000
+      internalID: -5924976488168284793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_138
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 326
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93581d226b82f0e50800000000000000
+      internalID: 6777680726949201209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_139
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 330
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04854946f9c8850800000000000000
+      internalID: 6380650026411507963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_140
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 315
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aacb06b818420a80800000000000000
+      internalID: -8502153875551434080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_141
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 332
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8665b3111de411b0800000000000000
+      internalID: -5686659771861211506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_142
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 317
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86270fbb1de49ca60800000000000000
+      internalID: 7694768101047431784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_143
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 293
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf5b193f09c0ff0800000000000000
+      internalID: -68520518521324632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_144
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 268
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efcf41e689fc80f0800000000000000
+      internalID: -1113240650166317085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_145
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 262
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c01d4f0a663170800000000000000
+      internalID: 8157824388978230930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_146
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 270
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab8e97219aa79d60800000000000000
+      internalID: 7896968012029135781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_147
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5622e23fa23113a0800000000000000
+      internalID: -6696515442868869540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_148
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 238
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb714bfbbf38d40800000000000000
+      internalID: 5585584763648326592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_149
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2880afc68a7d6e0800000000000000
+      internalID: -1812795138988539198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_150
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 240
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93afd79b61e41dcd0800000000000000
+      internalID: -2535159255724590535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_151
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 236
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc222c8acc9853f0800000000000000
+      internalID: -911806530794148688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_152
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 230
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4591849bf0e834730800000000000000
+      internalID: 3982182693709814100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_153
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 231
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50bfbd3f3974e130800000000000000
+      internalID: 3595131715074371678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_154
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 36
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb0e5bea2a5e2d0800000000000000
+      internalID: -3250012684818531402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_155
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 146
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a588a105164f8d0800000000000000
+      internalID: -2813516870529295730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_156
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f57dfb38e5777d0800000000000000
+      internalID: -2920761913374187670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_157
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 150
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3b5ce5e3bc5bb0800000000000000
+      internalID: -4945880490665362912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_158
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcd16212735ad70800000000000000
+      internalID: 9053703241411185475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_159
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c118086b1ff79b10800000000000000
+      internalID: 1988338253681922503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_160
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 192
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2d38401094683b0800000000000000
+      internalID: -5510636825321680189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_161
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8f103a33b943150800000000000000
+      internalID: 5851472461941569738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_162
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 103
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015b6e3a9fdf48c0800000000000000
+      internalID: -4012742889398644480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_163
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 152
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c231cfff1f7f0d0800000000000000
+      internalID: -3388974112824939504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_164
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 147
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2585611cd064ba0800000000000000
+      internalID: -6105177121899392289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_165
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 178
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed42509d6f89f950800000000000000
+      internalID: 6483370839312059886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_166
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 167
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c874811e67b124ff0800000000000000
+      internalID: -53450048178468980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_167
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f50ebaeeb78a90800000000000000
+      internalID: -7311665554593024871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_168
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 179
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103cbc412453c0e0800000000000000
+      internalID: -2250862886757060577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_169
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 122
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec8214e4340f3a0800000000000000
+      internalID: -6633728247737037182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_170
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cb1e8e5363dd760800000000000000
+      internalID: 7484197760927906837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_171
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade271280ebadf600800000000000000
+      internalID: 503747714078944986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_172
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771346c9d8d3548e0800000000000000
+      internalID: -1709892805093740169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_173
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 128
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc0b44d11f61750800000000000000
+      internalID: 6275468238796148721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_174
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c604511422a00c00800000000000000
+      internalID: 864869404248377025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_175
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 12
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbe572ffa1c52060800000000000000
+      internalID: 6928156563210628092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_176
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 81
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a527b7dd12eff1e20800000000000000
+      internalID: 3323654471425946202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_177
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 28
+        width: 135
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36925b9c82752fde0800000000000000
+      internalID: -1300881509662250653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_178
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaa64e1b53519380800000000000000
+      internalID: -8966293732302869828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_179
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3343062392f2bcca0800000000000000
+      internalID: -5995646624928353229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_180
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 44
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29d6da7e67a5a1c0800000000000000
+      internalID: -4493000960283059921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_181
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 81
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65055eae129dc8e40800000000000000
+      internalID: 5660137571395915862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_182
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ffc7a0c0d55630800000000000000
+      internalID: 3915264976936236882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_183
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 109
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299b2f56ace48550800000000000000
+      internalID: 6162310389455100192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_184
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 53
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616dd63e8ad824630800000000000000
+      internalID: 3909843183020660246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_185
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5bd59545bda2660800000000000000
+      internalID: 7361937696213546464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_186
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 56
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f67643f7c03b640800000000000000
+      internalID: 5094429343965736714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_187
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 58
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6a75aee9aa9e90800000000000000
+      internalID: -7018110226859921868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_188
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af18c130f45bd20800000000000000
+      internalID: 3293625577273162285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_189
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 44
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ecd9f4b31c7980800000000000000
+      internalID: -8539929125394258344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_190
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 34
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9b2d418862d300800000000000000
+      internalID: 275397431777795017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_191
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 45
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592e0f427f0b9c90800000000000000
+      internalID: -7162113798775625383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_192
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e48c50ea49c890800000000000000
+      internalID: -7437330982140321570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_193
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf34c3876b52030800000000000000
+      internalID: 3469379715482254227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_194
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9addf068cadb8ee50800000000000000
+      internalID: 6838924582843309481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangjie_nv_zui3_195
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de14c166c2a0f80800000000000000
+      internalID: -8139644559446381185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guangjie_nv_zui3_0: -3141835489336521642
+      guangjie_nv_zui3_1: -5236687582619662414
+      guangjie_nv_zui3_10: 640847924333869527
+      guangjie_nv_zui3_100: -8728710966112971814
+      guangjie_nv_zui3_101: 3060810091905277861
+      guangjie_nv_zui3_102: -1897903849959786602
+      guangjie_nv_zui3_103: 7164323992200898887
+      guangjie_nv_zui3_104: -5854147481902979591
+      guangjie_nv_zui3_105: -6106730722869152496
+      guangjie_nv_zui3_106: 7609611307942489610
+      guangjie_nv_zui3_107: 742506656082823075
+      guangjie_nv_zui3_108: -5399909872813589900
+      guangjie_nv_zui3_109: 8538708991811320320
+      guangjie_nv_zui3_11: -1357238213935206107
+      guangjie_nv_zui3_110: -5593218342565070652
+      guangjie_nv_zui3_111: -8206139183254015122
+      guangjie_nv_zui3_112: -7162956668262969601
+      guangjie_nv_zui3_113: 8450603675348608260
+      guangjie_nv_zui3_114: -4891512991140824089
+      guangjie_nv_zui3_115: -8866009165531288088
+      guangjie_nv_zui3_116: 2639093344308362845
+      guangjie_nv_zui3_117: -3055881325148832263
+      guangjie_nv_zui3_118: -5448708481886688051
+      guangjie_nv_zui3_119: 748722738957416577
+      guangjie_nv_zui3_12: 7316995123989030537
+      guangjie_nv_zui3_120: -1257720948975750727
+      guangjie_nv_zui3_121: -91180865380520958
+      guangjie_nv_zui3_122: -5881045106104207398
+      guangjie_nv_zui3_123: -5665238248552829503
+      guangjie_nv_zui3_124: -368070367397095773
+      guangjie_nv_zui3_125: -7117122663294683190
+      guangjie_nv_zui3_126: -3137036481982332120
+      guangjie_nv_zui3_127: 6283902476883699242
+      guangjie_nv_zui3_128: -6230574094611837104
+      guangjie_nv_zui3_129: -5891958889091852979
+      guangjie_nv_zui3_13: 2121775959516165044
+      guangjie_nv_zui3_130: -2468467126626953278
+      guangjie_nv_zui3_131: 8603150611014750410
+      guangjie_nv_zui3_132: 8747161228750403053
+      guangjie_nv_zui3_133: -7571528765408148063
+      guangjie_nv_zui3_134: -5547037244935058035
+      guangjie_nv_zui3_135: 9013560483752755404
+      guangjie_nv_zui3_136: -3385100159263564960
+      guangjie_nv_zui3_137: -5924976488168284793
+      guangjie_nv_zui3_138: 6777680726949201209
+      guangjie_nv_zui3_139: 6380650026411507963
+      guangjie_nv_zui3_14: 4888423544500966212
+      guangjie_nv_zui3_140: -8502153875551434080
+      guangjie_nv_zui3_141: -5686659771861211506
+      guangjie_nv_zui3_142: 7694768101047431784
+      guangjie_nv_zui3_143: -68520518521324632
+      guangjie_nv_zui3_144: -1113240650166317085
+      guangjie_nv_zui3_145: 8157824388978230930
+      guangjie_nv_zui3_146: 7896968012029135781
+      guangjie_nv_zui3_147: -6696515442868869540
+      guangjie_nv_zui3_148: 5585584763648326592
+      guangjie_nv_zui3_149: -1812795138988539198
+      guangjie_nv_zui3_15: 5749904272997161779
+      guangjie_nv_zui3_150: -2535159255724590535
+      guangjie_nv_zui3_151: -911806530794148688
+      guangjie_nv_zui3_152: 3982182693709814100
+      guangjie_nv_zui3_153: 3595131715074371678
+      guangjie_nv_zui3_154: -3250012684818531402
+      guangjie_nv_zui3_155: -2813516870529295730
+      guangjie_nv_zui3_156: -2920761913374187670
+      guangjie_nv_zui3_157: -4945880490665362912
+      guangjie_nv_zui3_158: 9053703241411185475
+      guangjie_nv_zui3_159: 1988338253681922503
+      guangjie_nv_zui3_16: 5511584661406361963
+      guangjie_nv_zui3_160: -5510636825321680189
+      guangjie_nv_zui3_161: 5851472461941569738
+      guangjie_nv_zui3_162: -4012742889398644480
+      guangjie_nv_zui3_163: -3388974112824939504
+      guangjie_nv_zui3_164: -6105177121899392289
+      guangjie_nv_zui3_165: 6483370839312059886
+      guangjie_nv_zui3_166: -53450048178468980
+      guangjie_nv_zui3_167: -7311665554593024871
+      guangjie_nv_zui3_168: -2250862886757060577
+      guangjie_nv_zui3_169: -6633728247737037182
+      guangjie_nv_zui3_17: -5763332395224349301
+      guangjie_nv_zui3_170: 7484197760927906837
+      guangjie_nv_zui3_171: 503747714078944986
+      guangjie_nv_zui3_172: -1709892805093740169
+      guangjie_nv_zui3_173: 6275468238796148721
+      guangjie_nv_zui3_174: 864869404248377025
+      guangjie_nv_zui3_175: 6928156563210628092
+      guangjie_nv_zui3_176: 3323654471425946202
+      guangjie_nv_zui3_177: -1300881509662250653
+      guangjie_nv_zui3_178: -8966293732302869828
+      guangjie_nv_zui3_179: -5995646624928353229
+      guangjie_nv_zui3_18: 6002519970484471479
+      guangjie_nv_zui3_180: -4493000960283059921
+      guangjie_nv_zui3_181: 5660137571395915862
+      guangjie_nv_zui3_182: 3915264976936236882
+      guangjie_nv_zui3_183: 6162310389455100192
+      guangjie_nv_zui3_184: 3909843183020660246
+      guangjie_nv_zui3_185: 7361937696213546464
+      guangjie_nv_zui3_186: 5094429343965736714
+      guangjie_nv_zui3_187: -7018110226859921868
+      guangjie_nv_zui3_188: 3293625577273162285
+      guangjie_nv_zui3_189: -8539929125394258344
+      guangjie_nv_zui3_19: 4051136689558354459
+      guangjie_nv_zui3_190: 275397431777795017
+      guangjie_nv_zui3_191: -7162113798775625383
+      guangjie_nv_zui3_192: -7437330982140321570
+      guangjie_nv_zui3_193: 3469379715482254227
+      guangjie_nv_zui3_194: 6838924582843309481
+      guangjie_nv_zui3_195: -8139644559446381185
+      guangjie_nv_zui3_2: -8456548600714270804
+      guangjie_nv_zui3_20: 7239120959674069825
+      guangjie_nv_zui3_21: 7865178501307214677
+      guangjie_nv_zui3_22: -2801828147756122301
+      guangjie_nv_zui3_23: -8531274269095290
+      guangjie_nv_zui3_24: -6310797601369278588
+      guangjie_nv_zui3_25: -5638324489693490360
+      guangjie_nv_zui3_26: -4018390306346406864
+      guangjie_nv_zui3_27: -3573784052327008676
+      guangjie_nv_zui3_28: 5851067367359635333
+      guangjie_nv_zui3_29: -6832336454453579916
+      guangjie_nv_zui3_3: -3015707213442743077
+      guangjie_nv_zui3_30: 4124770015855898254
+      guangjie_nv_zui3_31: 2163270800466548740
+      guangjie_nv_zui3_32: -6618932755886701174
+      guangjie_nv_zui3_33: 809666223513801375
+      guangjie_nv_zui3_34: -5516331789007037298
+      guangjie_nv_zui3_35: -4686583884452417846
+      guangjie_nv_zui3_36: 2936622593791594779
+      guangjie_nv_zui3_37: 7914483493262724014
+      guangjie_nv_zui3_38: 4538924493095533611
+      guangjie_nv_zui3_39: 6771871201059237332
+      guangjie_nv_zui3_4: -1699275983454293446
+      guangjie_nv_zui3_40: 4354369487275574811
+      guangjie_nv_zui3_41: -5594973373381297980
+      guangjie_nv_zui3_42: -182723897783849425
+      guangjie_nv_zui3_43: 1467330874525957531
+      guangjie_nv_zui3_44: -6081815864982709482
+      guangjie_nv_zui3_45: 198515022977532197
+      guangjie_nv_zui3_46: 2554362356445138605
+      guangjie_nv_zui3_47: 7906358810397107514
+      guangjie_nv_zui3_48: 5667354412604323485
+      guangjie_nv_zui3_49: 5724091599923567020
+      guangjie_nv_zui3_5: -8730245716858516395
+      guangjie_nv_zui3_50: -7508910947379442671
+      guangjie_nv_zui3_51: 4277902711513433273
+      guangjie_nv_zui3_52: -2010440717828525351
+      guangjie_nv_zui3_53: -3476959847809841485
+      guangjie_nv_zui3_54: -2715965616148416494
+      guangjie_nv_zui3_55: 1460319391025842272
+      guangjie_nv_zui3_56: 7224365433974365393
+      guangjie_nv_zui3_57: -900471064779109349
+      guangjie_nv_zui3_58: 5324159382585040936
+      guangjie_nv_zui3_59: 4822264228389185640
+      guangjie_nv_zui3_6: 8476368609713031541
+      guangjie_nv_zui3_60: 8770526210630387010
+      guangjie_nv_zui3_61: -7073133354124396439
+      guangjie_nv_zui3_62: 1996679060368608663
+      guangjie_nv_zui3_63: 8739391645816481456
+      guangjie_nv_zui3_64: -7951365106693093087
+      guangjie_nv_zui3_65: 6599955393212028627
+      guangjie_nv_zui3_66: 7199850691666523389
+      guangjie_nv_zui3_67: 5578438822946179587
+      guangjie_nv_zui3_68: -8171381970743235154
+      guangjie_nv_zui3_69: 6762763723778719880
+      guangjie_nv_zui3_7: 2518506771364045423
+      guangjie_nv_zui3_70: 3194403331418766297
+      guangjie_nv_zui3_71: 7710678182497212826
+      guangjie_nv_zui3_72: 8174729787830881565
+      guangjie_nv_zui3_73: -5718006147889347672
+      guangjie_nv_zui3_74: -879193546757866787
+      guangjie_nv_zui3_75: 3510283406460996903
+      guangjie_nv_zui3_76: -7831955755594257273
+      guangjie_nv_zui3_77: 7928027197425170528
+      guangjie_nv_zui3_78: 6614601251984537544
+      guangjie_nv_zui3_79: -8064969475582733153
+      guangjie_nv_zui3_8: 5515973228953132337
+      guangjie_nv_zui3_80: 5615666736314261898
+      guangjie_nv_zui3_81: -958425914608640869
+      guangjie_nv_zui3_82: 1275834990171701092
+      guangjie_nv_zui3_83: 471198584082230178
+      guangjie_nv_zui3_84: 8096592088167767541
+      guangjie_nv_zui3_85: -6225485476792439092
+      guangjie_nv_zui3_86: -3829141369996896263
+      guangjie_nv_zui3_87: -4327610997257381238
+      guangjie_nv_zui3_88: -4313413058806978908
+      guangjie_nv_zui3_89: 4063000359027050676
+      guangjie_nv_zui3_9: 1997505446907692754
+      guangjie_nv_zui3_90: 8823374023187855107
+      guangjie_nv_zui3_91: 2274769035204085527
+      guangjie_nv_zui3_92: 254768783774018694
+      guangjie_nv_zui3_93: -4959885500165787257
+      guangjie_nv_zui3_94: -8384717335221223562
+      guangjie_nv_zui3_95: -5463014092088716864
+      guangjie_nv_zui3_96: 3544536679722211402
+      guangjie_nv_zui3_97: -8856055308808314695
+      guangjie_nv_zui3_98: -2377518570727570869
+      guangjie_nv_zui3_99: 8070971095659942747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

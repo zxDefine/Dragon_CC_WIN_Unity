@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 2f5122081fa294c37a2f824f5906513c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6721566159063947546
+    second: cg_bai_yao_dingtu_0
+  - first:
+      213: 8574241061319369703
+    second: cg_bai_yao_dingtu_1
+  - first:
+      213: -4455098041505921799
+    second: cg_bai_yao_dingtu_2
+  - first:
+      213: -7089913741065314498
+    second: cg_bai_yao_dingtu_3
+  - first:
+      213: 7048561837348468977
+    second: cg_bai_yao_dingtu_4
+  - first:
+      213: 7860503070721553352
+    second: cg_bai_yao_dingtu_5
+  - first:
+      213: 8216371998436681853
+    second: cg_bai_yao_dingtu_6
+  - first:
+      213: -5136243582584300138
+    second: cg_bai_yao_dingtu_7
+  - first:
+      213: -9002919252708120167
+    second: cg_bai_yao_dingtu_8
+  - first:
+      213: 9068772337747516556
+    second: cg_bai_yao_dingtu_9
+  - first:
+      213: -4851240413530093339
+    second: cg_bai_yao_dingtu_10
+  - first:
+      213: -2991378703427239343
+    second: cg_bai_yao_dingtu_11
+  - first:
+      213: -2512964784897366225
+    second: cg_bai_yao_dingtu_12
+  - first:
+      213: 5678550046177206094
+    second: cg_bai_yao_dingtu_13
+  - first:
+      213: -5717622621508856811
+    second: cg_bai_yao_dingtu_14
+  - first:
+      213: 1721530008288046197
+    second: cg_bai_yao_dingtu_15
+  - first:
+      213: 5962580154772785232
+    second: cg_bai_yao_dingtu_16
+  - first:
+      213: -5796160152844309584
+    second: cg_bai_yao_dingtu_17
+  - first:
+      213: -1789812275935280975
+    second: cg_bai_yao_dingtu_18
+  - first:
+      213: 2672803143608672362
+    second: cg_bai_yao_dingtu_19
+  - first:
+      213: 3516248919480548282
+    second: cg_bai_yao_dingtu_20
+  - first:
+      213: 8694419648329220227
+    second: cg_bai_yao_dingtu_21
+  - first:
+      213: 2482969661053651770
+    second: cg_bai_yao_dingtu_22
+  - first:
+      213: 7220664373552344208
+    second: cg_bai_yao_dingtu_23
+  - first:
+      213: 5710704803131349406
+    second: cg_bai_yao_dingtu_24
+  - first:
+      213: 622060373232877183
+    second: cg_bai_yao_dingtu_25
+  - first:
+      213: -2229087959958379760
+    second: cg_bai_yao_dingtu_26
+  - first:
+      213: -1088114944354106891
+    second: cg_bai_yao_dingtu_27
+  - first:
+      213: 4355650347332317544
+    second: cg_bai_yao_dingtu_28
+  - first:
+      213: 4226268569742273073
+    second: cg_bai_yao_dingtu_29
+  - first:
+      213: -3196312132752980429
+    second: cg_bai_yao_dingtu_30
+  - first:
+      213: -2443181462732491191
+    second: cg_bai_yao_dingtu_31
+  - first:
+      213: -447445137862913854
+    second: cg_bai_yao_dingtu_32
+  - first:
+      213: -8760123574966821176
+    second: cg_bai_yao_dingtu_33
+  - first:
+      213: -2643626925006025759
+    second: cg_bai_yao_dingtu_34
+  - first:
+      213: -8727463048311662669
+    second: cg_bai_yao_dingtu_35
+  - first:
+      213: -8005498080005271532
+    second: cg_bai_yao_dingtu_36
+  - first:
+      213: 7595272622699230061
+    second: cg_bai_yao_dingtu_37
+  - first:
+      213: 6198458921594447888
+    second: cg_bai_yao_dingtu_38
+  - first:
+      213: -7404313963573342679
+    second: cg_bai_yao_dingtu_39
+  - first:
+      213: 639599472512376676
+    second: cg_bai_yao_dingtu_40
+  - first:
+      213: 5197788099466391049
+    second: cg_bai_yao_dingtu_41
+  - first:
+      213: -4186953483904419357
+    second: cg_bai_yao_dingtu_42
+  - first:
+      213: 874737622635034052
+    second: cg_bai_yao_dingtu_43
+  - first:
+      213: -5571903139391057416
+    second: cg_bai_yao_dingtu_44
+  - first:
+      213: -7712520609776075243
+    second: cg_bai_yao_dingtu_45
+  - first:
+      213: 6506118110385667961
+    second: cg_bai_yao_dingtu_46
+  - first:
+      213: 1424273083104547586
+    second: cg_bai_yao_dingtu_47
+  - first:
+      213: -8055249759473257074
+    second: cg_bai_yao_dingtu_48
+  - first:
+      213: 5280673365652842491
+    second: cg_bai_yao_dingtu_49
+  - first:
+      213: 1529883978616670670
+    second: cg_bai_yao_dingtu_50
+  - first:
+      213: 8838447248345021802
+    second: cg_bai_yao_dingtu_51
+  - first:
+      213: -7978874300762124098
+    second: cg_bai_yao_dingtu_52
+  - first:
+      213: -6736088234935706362
+    second: cg_bai_yao_dingtu_53
+  - first:
+      213: 6403648761299213180
+    second: cg_bai_yao_dingtu_54
+  - first:
+      213: 6526980527875872888
+    second: cg_bai_yao_dingtu_55
+  - first:
+      213: -5911310931366682232
+    second: cg_bai_yao_dingtu_56
+  - first:
+      213: 3305346607005983695
+    second: cg_bai_yao_dingtu_57
+  - first:
+      213: -5028641992431146301
+    second: cg_bai_yao_dingtu_58
+  - first:
+      213: 18025161661862364
+    second: cg_bai_yao_dingtu_59
+  - first:
+      213: 5730338775085352967
+    second: cg_bai_yao_dingtu_60
+  - first:
+      213: -720162789201070174
+    second: cg_bai_yao_dingtu_61
+  - first:
+      213: -1435421715328845846
+    second: cg_bai_yao_dingtu_62
+  - first:
+      213: -6987323970261368435
+    second: cg_bai_yao_dingtu_63
+  - first:
+      213: -5025111867020258969
+    second: cg_bai_yao_dingtu_64
+  - first:
+      213: -3752062577174691854
+    second: cg_bai_yao_dingtu_65
+  - first:
+      213: 5388810794354208827
+    second: cg_bai_yao_dingtu_66
+  - first:
+      213: -2814490411024561901
+    second: cg_bai_yao_dingtu_67
+  - first:
+      213: -2553894183781556848
+    second: cg_bai_yao_dingtu_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1596
+        width: 189
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191b4d2fccc74d50800000000000000
+      internalID: 6721566159063947546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1906
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3628621d2ddf670800000000000000
+      internalID: 8574241061319369703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_2
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1899
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f440847fef4c22c0800000000000000
+      internalID: -4455098041505921799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1482
+        width: 62
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f14a734019b9d90800000000000000
+      internalID: -7089913741065314498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1760
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8b78c65a581d160800000000000000
+      internalID: 7048561837348468977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1746
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b93665ed161d60800000000000000
+      internalID: 7860503070721553352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_6
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1723
+        width: 41
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e845ecca660270800000000000000
+      internalID: 8216371998436681853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1696
+        width: 70
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dde24bca568b8b0800000000000000
+      internalID: -5136243582584300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1669
+        width: 84
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999aec0a3a43f0380800000000000000
+      internalID: -9002919252708120167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1669
+        width: 105
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c545c8460cadd70800000000000000
+      internalID: 9068772337747516556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1690
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8058ffb8eecacb0800000000000000
+      internalID: -4851240413530093339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_11
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1734
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1520d811bec7c76d0800000000000000
+      internalID: -2991378703427239343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1658
+        width: 101
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276027a7d7202dd0800000000000000
+      internalID: -2512964784897366225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_13
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1360
+        width: 245
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f9ba54e234ece40800000000000000
+      internalID: 5678550046177206094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1321
+        width: 155
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141a3dd48ce6a0b0800000000000000
+      internalID: -5717622621508856811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1336
+        width: 108
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c2f26eb6a14e710800000000000000
+      internalID: 1721530008288046197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_16
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1534
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05886064f075fb250800000000000000
+      internalID: 5962580154772785232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_17
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1441
+        width: 102
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbe074ec07ef8fa0800000000000000
+      internalID: -5796160152844309584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1472
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08e36c73f4927e0800000000000000
+      internalID: -1789812275935280975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1238
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a7594c44b71520800000000000000
+      internalID: 2672803143608672362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1321
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb3d7b23c93cc030800000000000000
+      internalID: 3516248919480548282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1307
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38007daea98c8a870800000000000000
+      internalID: 8694419648329220227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 279
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bcc2b50c7457220800000000000000
+      internalID: 2482969661053651770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 383
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce7e3bdf3f43460800000000000000
+      internalID: 7220664373552344208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1217
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99d2c703cf704f40800000000000000
+      internalID: 5710704803131349406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1133
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e74671d9002a800800000000000000
+      internalID: 622060373232877183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013a4958f40b011e0800000000000000
+      internalID: -2229087959958379760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1126
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1caf2293d36e0f0800000000000000
+      internalID: -1088114944354106891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861bc86e9e0627c30800000000000000
+      internalID: 4355650347332317544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1101
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae2e85fd8b6aa30800000000000000
+      internalID: 4226268569742273073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1052
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336ccffcc0b64a3d0800000000000000
+      internalID: -3196312132752980429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1118
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946b2087763181ed0800000000000000
+      internalID: -2443181462732491191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0943d840b5ac9f0800000000000000
+      internalID: -447445137862913854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1075
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced39d850acd6680800000000000000
+      internalID: -8760123574966821176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1082
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8b587153ff4bd0800000000000000
+      internalID: -2643626925006025759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_35
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1114
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7190ff892d1e680800000000000000
+      internalID: -8727463048311662669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 362
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d63349e1c6e090800000000000000
+      internalID: -8005498080005271532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1004
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bc387534d76960800000000000000
+      internalID: 7595272622699230061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_38
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1009
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018ec706c89550650800000000000000
+      internalID: 6198458921594447888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1093
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0fbb0ea79e3990800000000000000
+      internalID: -7404313963573342679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_40
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1011
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f90add45050e800800000000000000
+      internalID: 639599472512376676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_41
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1062
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e6276ccb0422840800000000000000
+      internalID: 5197788099466391049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_42
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1050
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9fac46df3f4e5c0800000000000000
+      internalID: -4186953483904419357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1039
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5b4d4bb31b32c00800000000000000
+      internalID: 874737622635034052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_44
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1023
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f156bdad9f9ca2b0800000000000000
+      internalID: -5571903139391057416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_45
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1007
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51efa6b3e5f97f490800000000000000
+      internalID: -7712520609776075243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 978
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ff54453ff5a4a50800000000000000
+      internalID: 6506118110385667961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 378
+        width: 588
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d89da2d804c310800000000000000
+      internalID: 1424273083104547586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 943
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85bb85b501063090800000000000000
+      internalID: -8055249759473257074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 928
+        width: 116
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7aa96a278b84940800000000000000
+      internalID: 5280673365652842491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 877
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec902057f5d3b3510800000000000000
+      internalID: 1529883978616670670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_51
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 783
+        width: 56
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d32abb1f878aa70800000000000000
+      internalID: 8838447248345021802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 774
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0949be818554190800000000000000
+      internalID: -7978874300762124098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 550
+        width: 97
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d18fc807b9482a0800000000000000
+      internalID: -6736088234935706362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 634
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b1c93de945ed850800000000000000
+      internalID: 6403648761299213180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_55
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 698
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878deeb653e749a50800000000000000
+      internalID: 6526980527875872888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_56
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 654
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8816103070ec6fda0800000000000000
+      internalID: -5911310931366682232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 399
+        width: 317
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc362220a33fedd20800000000000000
+      internalID: 3305346607005983695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 577
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca678230cca63ab0800000000000000
+      internalID: -5028641992431146301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 591
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1dfddf9c9004000800000000000000
+      internalID: 18025161661862364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 538
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080c9b51c0468f40800000000000000
+      internalID: 5730338775085352967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 153
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7373142c77106f0800000000000000
+      internalID: -720162789201070174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae731fa1e8b541ce0800000000000000
+      internalID: -1435421715328845846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_63
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 8
+        width: 243
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81cff59ed9080f90800000000000000
+      internalID: -6987323970261368435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 186
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76158a19167334ab0800000000000000
+      internalID: -5025111867020258969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff377027fefdebc0800000000000000
+      internalID: -3752062577174691854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f547cdd6e8ca40800000000000000
+      internalID: 5388810794354208827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 6
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319432b02ebe0f8d0800000000000000
+      internalID: -2814490411024561901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_bai_yao_dingtu_68
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 9
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d93cd55cebe8cd0800000000000000
+      internalID: -2553894183781556848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cg_bai_yao_dingtu_0: 6721566159063947546
+      cg_bai_yao_dingtu_1: 8574241061319369703
+      cg_bai_yao_dingtu_10: -4851240413530093339
+      cg_bai_yao_dingtu_11: -2991378703427239343
+      cg_bai_yao_dingtu_12: -2512964784897366225
+      cg_bai_yao_dingtu_13: 5678550046177206094
+      cg_bai_yao_dingtu_14: -5717622621508856811
+      cg_bai_yao_dingtu_15: 1721530008288046197
+      cg_bai_yao_dingtu_16: 5962580154772785232
+      cg_bai_yao_dingtu_17: -5796160152844309584
+      cg_bai_yao_dingtu_18: -1789812275935280975
+      cg_bai_yao_dingtu_19: 2672803143608672362
+      cg_bai_yao_dingtu_2: -4455098041505921799
+      cg_bai_yao_dingtu_20: 3516248919480548282
+      cg_bai_yao_dingtu_21: 8694419648329220227
+      cg_bai_yao_dingtu_22: 2482969661053651770
+      cg_bai_yao_dingtu_23: 7220664373552344208
+      cg_bai_yao_dingtu_24: 5710704803131349406
+      cg_bai_yao_dingtu_25: 622060373232877183
+      cg_bai_yao_dingtu_26: -2229087959958379760
+      cg_bai_yao_dingtu_27: -1088114944354106891
+      cg_bai_yao_dingtu_28: 4355650347332317544
+      cg_bai_yao_dingtu_29: 4226268569742273073
+      cg_bai_yao_dingtu_3: -7089913741065314498
+      cg_bai_yao_dingtu_30: -3196312132752980429
+      cg_bai_yao_dingtu_31: -2443181462732491191
+      cg_bai_yao_dingtu_32: -447445137862913854
+      cg_bai_yao_dingtu_33: -8760123574966821176
+      cg_bai_yao_dingtu_34: -2643626925006025759
+      cg_bai_yao_dingtu_35: -8727463048311662669
+      cg_bai_yao_dingtu_36: -8005498080005271532
+      cg_bai_yao_dingtu_37: 7595272622699230061
+      cg_bai_yao_dingtu_38: 6198458921594447888
+      cg_bai_yao_dingtu_39: -7404313963573342679
+      cg_bai_yao_dingtu_4: 7048561837348468977
+      cg_bai_yao_dingtu_40: 639599472512376676
+      cg_bai_yao_dingtu_41: 5197788099466391049
+      cg_bai_yao_dingtu_42: -4186953483904419357
+      cg_bai_yao_dingtu_43: 874737622635034052
+      cg_bai_yao_dingtu_44: -5571903139391057416
+      cg_bai_yao_dingtu_45: -7712520609776075243
+      cg_bai_yao_dingtu_46: 6506118110385667961
+      cg_bai_yao_dingtu_47: 1424273083104547586
+      cg_bai_yao_dingtu_48: -8055249759473257074
+      cg_bai_yao_dingtu_49: 5280673365652842491
+      cg_bai_yao_dingtu_5: 7860503070721553352
+      cg_bai_yao_dingtu_50: 1529883978616670670
+      cg_bai_yao_dingtu_51: 8838447248345021802
+      cg_bai_yao_dingtu_52: -7978874300762124098
+      cg_bai_yao_dingtu_53: -6736088234935706362
+      cg_bai_yao_dingtu_54: 6403648761299213180
+      cg_bai_yao_dingtu_55: 6526980527875872888
+      cg_bai_yao_dingtu_56: -5911310931366682232
+      cg_bai_yao_dingtu_57: 3305346607005983695
+      cg_bai_yao_dingtu_58: -5028641992431146301
+      cg_bai_yao_dingtu_59: 18025161661862364
+      cg_bai_yao_dingtu_6: 8216371998436681853
+      cg_bai_yao_dingtu_60: 5730338775085352967
+      cg_bai_yao_dingtu_61: -720162789201070174
+      cg_bai_yao_dingtu_62: -1435421715328845846
+      cg_bai_yao_dingtu_63: -6987323970261368435
+      cg_bai_yao_dingtu_64: -5025111867020258969
+      cg_bai_yao_dingtu_65: -3752062577174691854
+      cg_bai_yao_dingtu_66: 5388810794354208827
+      cg_bai_yao_dingtu_67: -2814490411024561901
+      cg_bai_yao_dingtu_68: -2553894183781556848
+      cg_bai_yao_dingtu_7: -5136243582584300138
+      cg_bai_yao_dingtu_8: -9002919252708120167
+      cg_bai_yao_dingtu_9: 9068772337747516556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

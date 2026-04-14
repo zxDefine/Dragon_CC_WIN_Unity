@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 09d4af3505fff4d6084c0e5e457fa43e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5168593354806479983
+    second: juezhan2_cg2_xue1_0
+  - first:
+      213: -2375846012573876967
+    second: juezhan2_cg2_xue1_1
+  - first:
+      213: -5201163035043519002
+    second: juezhan2_cg2_xue1_2
+  - first:
+      213: 7026076737003778321
+    second: juezhan2_cg2_xue1_3
+  - first:
+      213: 2499766139749130769
+    second: juezhan2_cg2_xue1_4
+  - first:
+      213: 6260546266998346839
+    second: juezhan2_cg2_xue1_5
+  - first:
+      213: -3832956083211298622
+    second: juezhan2_cg2_xue1_6
+  - first:
+      213: 8555535383816521981
+    second: juezhan2_cg2_xue1_7
+  - first:
+      213: -1664172215480407869
+    second: juezhan2_cg2_xue1_8
+  - first:
+      213: -6854050224923050607
+    second: juezhan2_cg2_xue1_9
+  - first:
+      213: -8211988756119935897
+    second: juezhan2_cg2_xue1_10
+  - first:
+      213: 6414317360295399872
+    second: juezhan2_cg2_xue1_11
+  - first:
+      213: 4598689603316637679
+    second: juezhan2_cg2_xue1_12
+  - first:
+      213: -4946915549453396235
+    second: juezhan2_cg2_xue1_13
+  - first:
+      213: -2332278376741068061
+    second: juezhan2_cg2_xue1_14
+  - first:
+      213: 5739071033855650315
+    second: juezhan2_cg2_xue1_15
+  - first:
+      213: 5186358463473775556
+    second: juezhan2_cg2_xue1_16
+  - first:
+      213: 7695209206128694237
+    second: juezhan2_cg2_xue1_17
+  - first:
+      213: 6287669489606766327
+    second: juezhan2_cg2_xue1_18
+  - first:
+      213: 8779235526557080232
+    second: juezhan2_cg2_xue1_19
+  - first:
+      213: 4729894582776892865
+    second: juezhan2_cg2_xue1_20
+  - first:
+      213: -2898491951833864562
+    second: juezhan2_cg2_xue1_21
+  - first:
+      213: -4169158119578320228
+    second: juezhan2_cg2_xue1_22
+  - first:
+      213: -4724861664801985247
+    second: juezhan2_cg2_xue1_23
+  - first:
+      213: -1865768166709832955
+    second: juezhan2_cg2_xue1_24
+  - first:
+      213: 3570732693523519190
+    second: juezhan2_cg2_xue1_25
+  - first:
+      213: 6476914896025426944
+    second: juezhan2_cg2_xue1_26
+  - first:
+      213: 8437412882483137400
+    second: juezhan2_cg2_xue1_27
+  - first:
+      213: -8793253450813090394
+    second: juezhan2_cg2_xue1_28
+  - first:
+      213: 5813930600042618273
+    second: juezhan2_cg2_xue1_29
+  - first:
+      213: -4810186544412589277
+    second: juezhan2_cg2_xue1_30
+  - first:
+      213: -8921637057144028869
+    second: juezhan2_cg2_xue1_31
+  - first:
+      213: 14972354733849189
+    second: juezhan2_cg2_xue1_32
+  - first:
+      213: 7018050042302708208
+    second: juezhan2_cg2_xue1_33
+  - first:
+      213: 9066605010049220107
+    second: juezhan2_cg2_xue1_34
+  - first:
+      213: 5478710985727886459
+    second: juezhan2_cg2_xue1_35
+  - first:
+      213: -2890909394816940903
+    second: juezhan2_cg2_xue1_36
+  - first:
+      213: -1384335991212436981
+    second: juezhan2_cg2_xue1_37
+  - first:
+      213: -7511797222436225778
+    second: juezhan2_cg2_xue1_38
+  - first:
+      213: 1814886842657749620
+    second: juezhan2_cg2_xue1_39
+  - first:
+      213: -7067371957974093467
+    second: juezhan2_cg2_xue1_40
+  - first:
+      213: -6011828896664998386
+    second: juezhan2_cg2_xue1_41
+  - first:
+      213: -4165414940952020248
+    second: juezhan2_cg2_xue1_42
+  - first:
+      213: -8793102288985462062
+    second: juezhan2_cg2_xue1_43
+  - first:
+      213: -2687529844865456992
+    second: juezhan2_cg2_xue1_44
+  - first:
+      213: -2186686861621666156
+    second: juezhan2_cg2_xue1_45
+  - first:
+      213: -2426661314966832883
+    second: juezhan2_cg2_xue1_46
+  - first:
+      213: -5087863953200738361
+    second: juezhan2_cg2_xue1_47
+  - first:
+      213: -1811572049407793039
+    second: juezhan2_cg2_xue1_48
+  - first:
+      213: -3594866915846857569
+    second: juezhan2_cg2_xue1_49
+  - first:
+      213: -6885375578590433515
+    second: juezhan2_cg2_xue1_50
+  - first:
+      213: 918146338673379578
+    second: juezhan2_cg2_xue1_51
+  - first:
+      213: -5894529430943279725
+    second: juezhan2_cg2_xue1_52
+  - first:
+      213: 742114658405488331
+    second: juezhan2_cg2_xue1_53
+  - first:
+      213: -1320484964422068703
+    second: juezhan2_cg2_xue1_54
+  - first:
+      213: -2615097880024146457
+    second: juezhan2_cg2_xue1_55
+  - first:
+      213: -4648708167951475135
+    second: juezhan2_cg2_xue1_56
+  - first:
+      213: 4732957975514377020
+    second: juezhan2_cg2_xue1_57
+  - first:
+      213: 8978263063160924784
+    second: juezhan2_cg2_xue1_58
+  - first:
+      213: 7446539852510490818
+    second: juezhan2_cg2_xue1_59
+  - first:
+      213: 8712206910703264098
+    second: juezhan2_cg2_xue1_60
+  - first:
+      213: -8866562885458576142
+    second: juezhan2_cg2_xue1_61
+  - first:
+      213: -2286091263771038685
+    second: juezhan2_cg2_xue1_62
+  - first:
+      213: 3866979970028793939
+    second: juezhan2_cg2_xue1_63
+  - first:
+      213: 6838316129115944400
+    second: juezhan2_cg2_xue1_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1059
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193b05a6ab77548b0800000000000000
+      internalID: -5168593354806479983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1052
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d718ba3ac470fd0800000000000000
+      internalID: -2375846012573876967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1071
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a65dc6c1c1d7b0800000000000000
+      internalID: -5201163035043519002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_3
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1067
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111feb90193a18160800000000000000
+      internalID: 7026076737003778321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_4
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1074
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112eb4d4f04f0b220800000000000000
+      internalID: 2499766139749130769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_5
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1039
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549558f8ade1e650800000000000000
+      internalID: 6260546266998346839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_6
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1047
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8948c00ca9ecac0800000000000000
+      internalID: -3832956083211298622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_7
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1058
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df84ba73a1e5bb670800000000000000
+      internalID: 8555535383816521981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_8
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1060
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8273bef2ca7e8e0800000000000000
+      internalID: -1664172215480407869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_9
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1036
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d76ce72a581e0a0800000000000000
+      internalID: -6854050224923050607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_10
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1022
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76428fb3cb7290e80800000000000000
+      internalID: -8211988756119935897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_11
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1020
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1570997ab340950800000000000000
+      internalID: 6414317360295399872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_12
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1023
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef58fd44d3d1df30800000000000000
+      internalID: 4598689603316637679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_13
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1026
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f659f48486095bb0800000000000000
+      internalID: -4946915549453396235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1015
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2260d5c2512afd0800000000000000
+      internalID: -2332278376741068061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1017
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a23b9c2b645af40800000000000000
+      internalID: 5739071033855650315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_16
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 949
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3f1354b85a9f740800000000000000
+      internalID: 5186358463473775556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_17
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1008
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3dd938000eaca60800000000000000
+      internalID: 7695209206128694237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_18
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 987
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea219561a424750800000000000000
+      internalID: 6287669489606766327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_19
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 991
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9cef623c16d970800000000000000
+      internalID: 8779235526557080232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_20
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 970
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd067f1016f3a140800000000000000
+      internalID: 4729894582776892865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_21
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 963
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862d9a3dec76c7d0800000000000000
+      internalID: -2898491951833864562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_22
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 940
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92491687cc2426c0800000000000000
+      internalID: -4169158119578320228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_23
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 939
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ded98695bed6eb0800000000000000
+      internalID: -4724861664801985247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 920
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5035706dcb57b16e0800000000000000
+      internalID: -1865768166709832955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_25
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 911
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6d759577acd8130800000000000000
+      internalID: 3570732693523519190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_26
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 849
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c180228cf92e950800000000000000
+      internalID: 6476914896025426944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_27
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 848
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b46b33056b71570800000000000000
+      internalID: 8437412882483137400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_28
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 849
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5de4c339618f580800000000000000
+      internalID: -8793253450813090394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_29
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 836
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad5054c31b3fa050800000000000000
+      internalID: 5813930600042618273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 796
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3238ce4c2d8ce3db0800000000000000
+      internalID: -4810186544412589277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 835
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3108f98d5aff2480800000000000000
+      internalID: -8921637057144028869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 210
+        width: 184
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56abc5df641353000800000000000000
+      internalID: 14972354733849189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 795
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f93e5b845f156160800000000000000
+      internalID: 7018050042302708208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_34
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 796
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb2ce383d03dd70800000000000000
+      internalID: 9066605010049220107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 761
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7447533d9a480c40800000000000000
+      internalID: 5478710985727886459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_36
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 755
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994c81cd83d61e7d0800000000000000
+      internalID: -2890909394816940903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_37
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 771
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029ef120c9d9cce0800000000000000
+      internalID: -1384335991212436981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_38
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 748
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3ce3b93cb0c790800000000000000
+      internalID: -7511797222436225778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_39
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 669
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a352cb7f5cf2910800000000000000
+      internalID: 1814886842657749620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_40
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 724
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561b56516a6abed90800000000000000
+      internalID: -7067371957974093467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_41
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 672
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eaad37871b19ca0800000000000000
+      internalID: -6011828896664998386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 613
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea33763e297136c0800000000000000
+      internalID: -4165414940952020248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_43
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 599
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae8575e00a8f580800000000000000
+      internalID: -8793102288985462062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_44
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 629
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a88168d9f3bad0800000000000000
+      internalID: -2687529844865456992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_45
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 577
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ed60a82e357a1e0800000000000000
+      internalID: -2186686861621666156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_46
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 442
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09383b1464c25ed0800000000000000
+      internalID: -2426661314966832883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_47
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 292
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf84f3f0b64469b0800000000000000
+      internalID: -5087863953200738361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_48
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 293
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a506b1d00cd6e0800000000000000
+      internalID: -1811572049407793039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 240
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cd42226977c1ec0800000000000000
+      internalID: -3594866915846857569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_50
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 195
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa7fc346b3270a0800000000000000
+      internalID: -6885375578590433515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_51
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 197
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c3700b39edbc00800000000000000
+      internalID: 918146338673379578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_52
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 185
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3955a8e86bc623ea0800000000000000
+      internalID: -5894529430943279725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_53
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc69ed499558c4a00800000000000000
+      internalID: 742114658405488331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_54
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 426
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126d06ccbe1bcade0800000000000000
+      internalID: -1320484964422068703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_55
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 154
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9840655e45bbd0800000000000000
+      internalID: -2615097880024146457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 87
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e9bc81d887c7fb0800000000000000
+      internalID: -4648708167951475135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_57
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be263d338dea140800000000000000
+      internalID: 4732957975514377020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_58
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aa7b3efa2399c70800000000000000
+      internalID: 8978263063160924784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_59
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 29
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c07daada8c675760800000000000000
+      internalID: 7446539852510490818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_60
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 113
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261eb2aa60af7e870800000000000000
+      internalID: 8712206910703264098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_61
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc34916804a3f480800000000000000
+      internalID: -8866562885458576142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_62
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 60
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cadca9b1c2640e0800000000000000
+      internalID: -2286091263771038685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_63
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350fd1b6bc54aa530800000000000000
+      internalID: 3866979970028793939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan2_cg2_xue1_64
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 10
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b7c9d94496ee50800000000000000
+      internalID: 6838316129115944400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      juezhan2_cg2_xue1_0: -5168593354806479983
+      juezhan2_cg2_xue1_1: -2375846012573876967
+      juezhan2_cg2_xue1_10: -8211988756119935897
+      juezhan2_cg2_xue1_11: 6414317360295399872
+      juezhan2_cg2_xue1_12: 4598689603316637679
+      juezhan2_cg2_xue1_13: -4946915549453396235
+      juezhan2_cg2_xue1_14: -2332278376741068061
+      juezhan2_cg2_xue1_15: 5739071033855650315
+      juezhan2_cg2_xue1_16: 5186358463473775556
+      juezhan2_cg2_xue1_17: 7695209206128694237
+      juezhan2_cg2_xue1_18: 6287669489606766327
+      juezhan2_cg2_xue1_19: 8779235526557080232
+      juezhan2_cg2_xue1_2: -5201163035043519002
+      juezhan2_cg2_xue1_20: 4729894582776892865
+      juezhan2_cg2_xue1_21: -2898491951833864562
+      juezhan2_cg2_xue1_22: -4169158119578320228
+      juezhan2_cg2_xue1_23: -4724861664801985247
+      juezhan2_cg2_xue1_24: -1865768166709832955
+      juezhan2_cg2_xue1_25: 3570732693523519190
+      juezhan2_cg2_xue1_26: 6476914896025426944
+      juezhan2_cg2_xue1_27: 8437412882483137400
+      juezhan2_cg2_xue1_28: -8793253450813090394
+      juezhan2_cg2_xue1_29: 5813930600042618273
+      juezhan2_cg2_xue1_3: 7026076737003778321
+      juezhan2_cg2_xue1_30: -4810186544412589277
+      juezhan2_cg2_xue1_31: -8921637057144028869
+      juezhan2_cg2_xue1_32: 14972354733849189
+      juezhan2_cg2_xue1_33: 7018050042302708208
+      juezhan2_cg2_xue1_34: 9066605010049220107
+      juezhan2_cg2_xue1_35: 5478710985727886459
+      juezhan2_cg2_xue1_36: -2890909394816940903
+      juezhan2_cg2_xue1_37: -1384335991212436981
+      juezhan2_cg2_xue1_38: -7511797222436225778
+      juezhan2_cg2_xue1_39: 1814886842657749620
+      juezhan2_cg2_xue1_4: 2499766139749130769
+      juezhan2_cg2_xue1_40: -7067371957974093467
+      juezhan2_cg2_xue1_41: -6011828896664998386
+      juezhan2_cg2_xue1_42: -4165414940952020248
+      juezhan2_cg2_xue1_43: -8793102288985462062
+      juezhan2_cg2_xue1_44: -2687529844865456992
+      juezhan2_cg2_xue1_45: -2186686861621666156
+      juezhan2_cg2_xue1_46: -2426661314966832883
+      juezhan2_cg2_xue1_47: -5087863953200738361
+      juezhan2_cg2_xue1_48: -1811572049407793039
+      juezhan2_cg2_xue1_49: -3594866915846857569
+      juezhan2_cg2_xue1_5: 6260546266998346839
+      juezhan2_cg2_xue1_50: -6885375578590433515
+      juezhan2_cg2_xue1_51: 918146338673379578
+      juezhan2_cg2_xue1_52: -5894529430943279725
+      juezhan2_cg2_xue1_53: 742114658405488331
+      juezhan2_cg2_xue1_54: -1320484964422068703
+      juezhan2_cg2_xue1_55: -2615097880024146457
+      juezhan2_cg2_xue1_56: -4648708167951475135
+      juezhan2_cg2_xue1_57: 4732957975514377020
+      juezhan2_cg2_xue1_58: 8978263063160924784
+      juezhan2_cg2_xue1_59: 7446539852510490818
+      juezhan2_cg2_xue1_6: -3832956083211298622
+      juezhan2_cg2_xue1_60: 8712206910703264098
+      juezhan2_cg2_xue1_61: -8866562885458576142
+      juezhan2_cg2_xue1_62: -2286091263771038685
+      juezhan2_cg2_xue1_63: 3866979970028793939
+      juezhan2_cg2_xue1_64: 6838316129115944400
+      juezhan2_cg2_xue1_7: 8555535383816521981
+      juezhan2_cg2_xue1_8: -1664172215480407869
+      juezhan2_cg2_xue1_9: -6854050224923050607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

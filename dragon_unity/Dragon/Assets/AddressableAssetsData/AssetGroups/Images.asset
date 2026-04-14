@@ -1,0 +1,2173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Images
+  m_EditorClassIdentifier: 
+  m_GroupName: Images
+  m_GUID: 71f23c0d5b62b41a9af59e2984aa8f03
+  m_SerializeEntries:
+  - m_GUID: 0068779ca2d2e4c03a8fd5c5ebfdd584
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00b8d5cec4c71415489c1cfaf588de62
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_mofa_jin_liang.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 025375a9503a24e9f98bcf81d11b4628
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_shufang_baitian_quanjing1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02fe73bb3ed40440ebc4e7c51398e7b0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 038d8ca659c9742cfb94eb3453164a8d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 041a9f8641586460db2dcc53b2a37e51
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 042f8a4c95745437e96c7caa597e21db
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_shou.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0441592f8a6f2409b8e3d3c9599bff11
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 044f3fcfe8c374e8b9c01121b18e82c1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 046f04c0e51b548f8b80a8702684ec9f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0508362d5c9e543a9a06ee407877ac63
+    m_Address: Assets/RenpyResources/images/cg/yongzhe2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05fd0d9743ccc4e4a8b6f4c9975af8c7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/tiankong_yewan1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 060fd9766a93a45a8b16f5e0f81429b1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0723eb0aa6fa5495d96e77dd14262111
+    m_Address: "Assets/RenpyResources/images/demo_images/demo_portrait/nv/\u6D4B\u8BD5.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07b576deb398b42b6bc5f304dbcc1210
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0978bb84d07034227b1b3c86b04837ba
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_ditu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bda60cb93b2f410c9caf31421c0394e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg16_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bf5d927ab502412d94cde9b37b390ca
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c0e63b355f114c289af1af3a964852c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg11_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d63ca40fa5274932aaef2c5446c8bc2
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e1b619861703483eada18fe9ea25981
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg28_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fa1f49e336794abba5a222f74971f72
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10e9d6a8ab8034028bc62de4441aedba
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_yan4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11cfc4e543ff747d49c89cb16ee8e7a9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11fdbea3115f74a06b3b1decb77e3159
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_zui3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12288a812f65444ccab82cadff2d73d1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg46_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12adf6b5f97374f628e85320f52b3b71
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 146ff9399bb2d4a588be5b4ed08b8f27
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_transition/eye.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1539602d0bd77491a9eb0fa557dedbba
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1592203e50ccc45bd9a93093bfd99a16
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_zui2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15bcde428adb745b898ac7c76ff2d064
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17186d603ed404ce78f40edf52acefeb
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1870d6baa698c4a5a8883d02134344f3
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18bbccffc3d3644b1ba3496724604fad
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_emoji1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f8dbc73834a4c6eb3159f19933ad3e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg19_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19418523e7e624280a8d0af7111abd2c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a0e06edfaf5c4c209e8558a08075778
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/2-40.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a9e9a8a0d4aa4e839b3ae6ff8d119c1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ad1bf8adb9d24374bfa758abbbd5bc3
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b006a472775244e99b79f3687d99bfc
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun_ban_miyanxia.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b3f65ecc35e547fbb21e7029730404d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg4_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b40fee69c0344f6295bcf26dad317b1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bc31e5eee1454c0ea1fb2155cef2944
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c3d17dbc95ef48b08666a5e042d43c4
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7d807dae4394675a7eb9956e080a5c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cb7ac0a48f5e42e4816904dd503779e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cbe7a1f60c2b41bf88eda3c1eef4d25
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_zui2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d484b6dff8ab46a9b8674ba7d3c0c83
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d954649680e54c93b0be907de607e5a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he1_rain1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dcf0ca948df44ec3a86b728dad12931
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e0231750845748eabbdfe41ec4dafd6
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_xiaoyan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eb8c6b3acd424e9ea858d254bc95847
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20afabda059bb4465ac77478dd81bb19
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20db1cdd9c000479885241b0a19047c7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20e11635951cd4bfbbc5924bc56dd7f0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 224fc15e492c54abeb7bcc35b032f1fa
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 238583aceab2c428eaed48029c57edb2
+    m_Address: Assets/RenpyResources/images/lihui
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23f560f98666e46d188d8410039fe7b9
+    m_Address: Assets/RenpyResources/images/cg/sleep3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2488c04a783804a5ba16596278f531f1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan30.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24cbcd9dab7ea4f4bbf5e5458ba6a1bd
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg13_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 259c45d8542854c1f8a62244ec229af0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26208aa35fd78460d902b5bd497eb0e0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 262a42376226c4302a976cdc39ca856c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2667b42137ddc4bc8b4bff63e02a71e5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26f7cc6f776574930ac9e01462b7e81a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 276b99e74c80c4771a301f404ed751b2
+    m_Address: Assets/RenpyResources/images/cg/moerhuan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27a6f43570d394017872439631ef124d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg3_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b32baad6e3c4ac8909586ed493590b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27e6101ec3c744088bebdf86e49d7b44
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_dating_wan_kaideng_louti.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 285d58b4b32644f6a8a618c035f5b446
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/senlin1_wan.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a0fb1b3281344e0f881755b1b7df1ac
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_ditu1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a1d60dcd5ad9413a9491cd660d9793f
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/guangdian_quanpin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a2b335c6bc5249848729dd5d73d390a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a537a60185584c9da24f9dcdae1922b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b983464f5dd14ad1a549414d5e5fa1d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b9fd89f8c2b7479da39ccc77e92010f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d0622711fc0141829b95276a70f5c02
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d230641c2cfa4ecbbf7e6141867de95
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg6_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d6860b12e688456d9b56a21f6f93f53
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_ditu.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ee35515de228465eba3690774062f3d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f6dfd40dd61042f0b677d9b7875d616
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3052b0faaebb742e8aba9b9e3aecf49a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 310774b5493824ee3935b97128c42aee
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/wanggong_zoulang.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3136269d60d534e63ae3ee46599722ab
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_dating_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 320240d204aac43ee813b775aae3a542
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 328c8cff5c9294b8582398eb8920ab12
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35b287c790a14416990f4e082471b49a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg43_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e1c52f3a9b74c618863d3a231614de
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_emoji3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 368937dcb4a884d61a51eb0d92c68ca5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg29_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3823681e3b42a4e888b8b78270bb8d0b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 387b1ebc8e37747f2986ca8f68b9e803
+    m_Address: Assets/RenpyResources/images/cg/gualinpian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39d10bcf087774696b2a4126343be8af
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_yan5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a0e2f3677a41485281698d628350e26
+    m_Address: Assets/RenpyResources/images/cg/nvwang
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a2541f3b6a7546219f4f78bc162657f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_rain3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a8220b0a90014a03b6cf2967554178f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg27_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b03da612667d4ff7a518ac43df109f9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c1d8db7ad468412db5f0c9668ada5d8
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c481db2ec49c4fff8833ccc7a2eacf3
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg10_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d0a29b831c734c53bdd9be78193f447
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d528141608bb4ec980a2a1758480914
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui20.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dc06ac24de254dccb2f1ae5b9f717a7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f2d532fab7304068b6234d489c4eabe
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ff8cd38d3c6a47c79f7df11743cfa4d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he1_sky.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 402f0534396324643834bff3aee7c6b9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d162a4c3a4a466789fd54a5949b1d8
+    m_Address: Assets/RenpyResources/images/cg/chihua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 414de98d2b78c48d88096194208735e5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/npc/npc_wanghou.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41b3a5393614445808a0a8265d2fda11
+    m_Address: Assets/RenpyResources/images/cg/yongzhe3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4327910251c954847a7acc308431e05d
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_yan1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4426064cebbd5450e8286c59aad26e59
+    m_Address: Assets/RenpyResources/images/cg/memory_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 444c24c41e1cb4d4e90b83eeb9557f85
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_mei2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44619af184eed424790edc7d00b0b5c4
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44c5b3ae637ad4c15bf48f76b59dfb45
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_guangxiao1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 468bb6bf23aad4cd68f25b1680eb47a1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_mei4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46acccfe50dfc4b05aa1434efbe1596e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4732a3a4e2e1c47db8318bd8449e030e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4757838c1c3d0486990f8d50b4073117
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 476cbd6af12e34d1ab8bca9894932569
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47f05365234be4234aa58e981758c304
+    m_Address: Assets/RenpyResources/images/cg/qigai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48b593de03eff4a3b93161dfb672e52c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48d0a790f389a4b0a94e63e2a63f60f5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48e36b247fa4940759177d7b46ce2da2
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48fb44319235545a0bf7a08660ec372e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a17c09af21b0483a9a2d54d16c54b59
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a4feef0185ae455c9ddb0dbcd199193
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_men1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c14d0cabc04c4974b4a7be26b5f6392
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg41_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d2c6ae87f47a4062915356bc3eb3d49
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/senlin1_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e5074775ceeb4802ab53c7669b5e407
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e6b452b8bd084272bb216f9bd202430
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_mei3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f2a74aac47f14ae49a131fe579f01db
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f41e6131bd094100a8f6848fdee5791
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/jingzi1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fe03c5d2a0c6435d899ddbed64b0b0a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ff8d029ed4cd4e4b9e6f48157353555
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/baiyuandian.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5037881d0a16a42b68cdce2e4dede402
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_shufang_baitian_shugui.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50550eb292f7a4382a56e1b55245e121
+    m_Address: Assets/RenpyResources/images/cg/sleep2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 521a07e8313854c08a81f1aad4c06ce0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5293a7a7e56994483bd519dd32fc2fff
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg15_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52bcea67f6e3942acbbdeebcdf262b1c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53315d6683b7549fd994f845f805ba9e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53e0e35f9b2964d8cbff47fabb678518
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5402a3cc72a6441a9bfc25a9e418265c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 541065b728d64435da784904dd552d15
+    m_Address: Assets/RenpyResources/images/daoju
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54210251f661e430eb34923c88fed713
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5456278e313844ec8a386a80ed7dc992
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/wanggong_cantin2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 549d87e4ce94942b78b8ec37413cb2a3
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg32_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5524e0abb0dd042979df41d567ba1f10
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_mofa_jin_an.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55f5a12c63d094b868b2d6f7497e0dd7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56297708d53dd4995be5abcaaa5125b5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56c6ebbc603154ecc98ca166048dd469
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56e17c48afd08464e9821315061ba0a7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_mofa_yuan_liang.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5710cc7dc5fb24caa8d52bf0e913618e
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_beijing.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 571b38f8f72394c389072f6a0b0dd156
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_shufang_bangwan_shafa1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 595db79b09bde45bd9232e978b8f6d15
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun_ban_ditu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a899211a44b34326a2c45e7f8054b3b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg37_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a97764ed03334e6fbdb268a769b29b1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b91110fc3cb4477cbe5fc46cb7d4fa4
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb7e20f4f8904407907ec91941e36a3
+    m_Address: Assets/RenpyResources/images/cg/bai_kiss_secret
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d1c3fe2a798b43a385f573f581c1084
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d66e893fb28e42fdb74c3771d021885
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5efbdee5ce16a41b99cd900a62d8a97e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f2c65238fa0f4146adb914ed9922761
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fc9e77792a2f46f48b934c975e6fb06
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg31_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 609e9e9a99c54458eade56fac163295e
+    m_Address: Assets/RenpyResources/images/cg/yongzhe1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61ef3283825c64cd4b98d0fec1a1fa4b
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61fe819265819400fa178451af781c47
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 625f9754fc5de48f885fd486979e4e19
+    m_Address: Assets/RenpyResources/images/bg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62904d8627ff94d4e97ba95c0ed07820
+    m_Address: Assets/RenpyResources/images/cg/tianshou
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62967ba5173e841509fb0efa6c945ee0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6383a5abac6a74e12a623271cd296f39
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg39_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63ecf8e1191dd407f99da6f81d49242a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he1_rain2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64143b371d1c34789903a9198e9634a9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65980b0ec4e8d46188bcb096fa203908
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_gezi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65b989888fee6448882fc896ca9d6c09
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/npc/npc_guowang.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6670d7e3b3e4548c6bb185631fb383fa
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a2f3494d104b4e02979dabed55fc90a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_dating_wan_kaideng.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a9386c9576854013bd5c3934edcd8ae
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aba91290cea74402ad7d828fff3a3cd
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bb2d6517aab445ed9f6a5c4787ad997
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c867747d3c704cf8aa3daa98bb9cfca
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_zui1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ca639b12be84440c964be96f49dd06e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg48_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6caec479b2bb24eca90322e8f1a52b4a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg9_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e19592eea3ca44dd8bd593000b12167
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_shufang_baitian_shafa.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e7875fc5ad944a088b6e554c9a97bb6
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/tiankong_yewan.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ebafc9091f5347189de3a4147bd9b19
+    m_Address: Assets/RenpyResources/images/demo_images
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ec1b1d17865d46788e936b07a2a302a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/zoulang_guodao1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f298c800397f4058a5ff40b9a38a8d0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg23_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f4fe689391e6438b8ba94f68ac382c8
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fd644ef885d84bf7994ffb4bf9a480a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7078285503f754785af4ff3cf376b7cb
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71de633f609dc4e8a8e44d822e54c247
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7247b824857d84b6bb38d56543e400dd
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bbaf8f0c85848489ab063ec537fc22
+    m_Address: Assets/RenpyResources/images/cg/juezhan1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bbf203a36b9402ab5c8f97846ef5cd
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/wanggong_cantin1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 733b339bb0ba446eca9b2e9b2df1686a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 736594cd7dd8f4373a7b2282a04186ce
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg18_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7387131a11f4c49e9b72d8ed6e4f3022
+    m_Address: Assets/RenpyResources/images/cg/fenjin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73be5da90ee3940e390b248394f6c0cc
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73e513c6f1731435d83f0012a1bff3b1
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7684e588faa7744059530e9d5b4283c6
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_mei3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 768abf41d41864bbba200a09110dbf0d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76ae9f03aac0d44a39bed5138425d724
+    m_Address: Assets/RenpyResources/images/cg/zhuajiaohuai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76fac3476b2e545a399abaf20f5165f7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 772643ba3c78048e2b1579269e301e39
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg35_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f0558bcf3b846f182ce923c9d3a8ce
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 795d0e358b0fd4152940cbf5dfb72081
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg22_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c55fcb71b05547a6b68694745b80c43
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he1_lightning.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d4b20d70f9db493fb330ec0cc12a2fe
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv4_tian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d6f20d6a3fb9453281fea0af6fe7946
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg44_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dfb827bf73984d21a8460840f0fcc99
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e5924c8e24f74bc29bed7cf5dd6876b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_emoji4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f2e661f5b4574867856cb2614fe779d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f704541f1e54476c914a2450beac6b0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_lightning.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f8918dac53d240f68ee216fa1b52736
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan29.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fc802ef2bee44d2bb1230b521595280
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg34_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8030fbe6b4d7243ecb0735ef16d70b5d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 805afefb6c6f24b5eadbf6182a9d8b26
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80cb7e3ae2ea74a80b1b9be4a4a4b459
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_emoji2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8153661a1b3d8446eb1421fdcbbc23e4
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c150879ce90478a8bb156abfe18314
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82db9027fc6204d3c8a22a9d08919ffb
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 835ff5c6095e44c75994504be03f8605
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 840c14a99390f4c6c984d1e3a2b688d5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/yangtai_yuanchujianzhu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84d5d861cf26b46b2ae5a5bc4335008f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8571ee17dae2849f3bd57ff17990e6a2
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86f8146c1c7db45d19adc639931f2aa5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 873358f94babc403995b82b8433791e8
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg1_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87342ffe956d04a3982acdea07b0e8b6
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8755e7bcb20ec4b00af6882493f05eb8
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87873405974d445d5835a13acbc2735c
+    m_Address: Assets/RenpyResources/images/cg/juezhan2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 880921d52ce4c4618a61baa5d021d814
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_emoji1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8888462193aa7444b903d96dd6fdc6e6
+    m_Address: Assets/RenpyResources/images/pianwei.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89a1c20ee67474775a63aaa01602e618
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_toufa.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89a6ec3d650d447768ab0879b9a832af
+    m_Address: Assets/RenpyResources/images/cg/birthday
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a9fe6093d6594e76abdb98e2c221d6b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8af7b87f6c7a54b74a703e7b81892b40
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_er2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c47d8bd4ae064b81bf0ee982812a875
+    m_Address: Assets/RenpyResources/images/cg/bai_yao
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c962dc58fc4a48c1910fe1a9bffc922
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_men2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cb7813f54fb64c26ae103747f2289f3
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ce903d06202643c7801c9223c67a746
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d4092d00a8d9484ab725d26ffa1c871
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e31a22aa961545b4841061100d58c06
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_men3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f7c537a22e4740b3bf699429ad2b389
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90714df19ae89432887d2880070b84c6
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg12_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 912f8e860db0048bbb6d88b081a89021
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_shufang_bangwan_quanjing.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 914f0d28ba05f4ff2818598a340b07de
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he1_rain3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 915bbb2d5dc4749889226c7ca2b39dc0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91fadd5cd48d04cc3b8866b7cb6ec8f3
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 925c4fa34771c4ba9b11bf599463f758
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv2_tian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92f067f14e1a6441aa6fa6309334889c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 933c2a2e58c084d1a8528b5390da0355
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg49_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9343a24b8059c48a78295d1a5337cd92
+    m_Address: Assets/RenpyResources/images/cg/tongdaozi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 937295f841a244082bc5c9308c64c28c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 937b594d1d1624ede8de1c3501ec0419
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun_ban_xia.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f38eeb9438b4ed7be4418b76f50d19
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 953a5e97500054ed4b4a74a8cf5b24a0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg36_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95421df4f579c4eb7bb010da78f1e45a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg21_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95a51fe22c5d54643bcdf68a198b79ce
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg33_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 966bf4412b68140d1842090a49fb466a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg17_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97420fe0b630c4969b7f8e2a10500222
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_ditu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97b1903e366ec42d0bc0a9b542530b97
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_rain2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 982021cf5fc4847529f1d1c9f74b6cb9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9858b6892df0241cb93fe57d7c4e2ac0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun_ban_zhenyanxia.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98647fe05137a4f289b086bf25abf823
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_sky.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98c0ea43b6e354767b8cff7d18b5501c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 991db30d97ba24128a3d3889a268a29d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_chufang_shuicao_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a0cdd33af79442d5bf2bd3d77177f09
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a6a8c66343da443d80ba41fe152860c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg50_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a9bf1a362686452eafa72fb08d03ec0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv3_tian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b16e9362d6654bdb95935d40ec6b361
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b6895357ef434e4f8995a0d5194e06d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bcd3f6b9bfee4ffea6da11b3d05d8b6
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c845f18120dd49f7bc8a9aed1e6a689
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_dating_men_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e958423f4e2c44fdadfac87e163eec1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_chufang_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e9abf4cd363947b4a5f26949151a68a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ec2a04b8e4654942b53174c694f7a07
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_er1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fc5dfe020de54483a3b5543d0ba195c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a02fb06a40bf34835a058ddd1689c79f
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_mei1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0c5f44d44b074a898f24a7dba1fafd2
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d07c99cb4b0479aaee86f7e1758ecc
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a133360b3a10d41d6998447198a73b76
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_zui3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1a9496e8b795464eb6552c17bca9db9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_lightning2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2f78c7f32ea24b60b7681e0f5b8709b
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a305e568eb96e41dea49f2fa16e078e0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a366238155821464585c4bb2539d7e57
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_mei1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a397a0d4ef0b84b8780fc0f10a3574a7
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_yun2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3b01525dacbb499699f0674ed281c7e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3d9200c49ec4424a8e150df15640b4b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg47_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a466ee895f8a74931975666fc3b53ff9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_shufang_baitian_quanjing.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4fb2ee9431d0466d9fbb1fc62509e55
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a58a67fc6e0464c1dac2662fbb6f6a35
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a59a797254199484fb07278cd3128951
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5ff28aa4d8ed4df6b34a55a222fd9d1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei20.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a627a826d47ec41d68f429feb556047d
+    m_Address: Assets/RenpyResources/images/cg/qq_jieju
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6a3c30fe7dd74b6ba1444af0911820a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/wanggongwoshi_huanghun.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a70b11596dacc4fceb354aa392913138
+    m_Address: Assets/RenpyResources/images/cg/emeng
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a817b0d681fd74b00a766d3bf7fabf6d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8c094d693b9a4283b4b0878ba620008
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9cee335eb7cd48e9a1b5272fe623981
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9ed70d1c135b4effb23ee9d43ef5223
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aada2b32d84a84820a9005823312bd3b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaf5ea701715c4c339f7c1a4f9c4aee0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab8e7d1f68fb74642802c00f6b88d333
+    m_Address: Assets/RenpyResources/images/texiao
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac14ca24d97434b05a971baef81c5c93
+    m_Address: Assets/RenpyResources/images/cg/bai_kissing
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad66fb4eae9ba4d9091102b9ba5a2292
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad91283d33df1401488a4fc8bf9820d1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_waichengqiang.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adb6365cf41ee4a78acd86326b4d060e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg7_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae4c8ee21d09b494babe04c2b069a7a2
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae7c37e4c66d7471db5eba1642c0beed
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan31.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aed3e6384a26c4b109bf67968aa96722
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0e418c4fd0047c08185e3483a57c8f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b02b80c526c474e8aa2c889a02438863
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0b5c081fdd134e2491e0b963897e05a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b19056a8c104449d095d7a4a7d597f23
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_zui4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b33ccfa4944d9406d94a18dcd7a59e95
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4457b1811ffd4e2daf2f053ad0303cf
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4cd8576455b5417da05a62db833e6cc
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_mei5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b51b9717174de4a14ba462a0a6f2944d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b543cd0195163441d8b95ee8eb12f8b1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan33.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5941fe4358aa45e9b7c0320d199bca5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b712697f7bdd64981ba88592d0a7c674
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/tiankong_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7cab66c813ad4131807674cf2384e17
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7cc4ee9536f045608f172fd346d2b9f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/tiankong_bangwan.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7fa1cd3a57704fe3aef83428e5c9f61
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_he1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b90b33939b73046b098f6df78fbef669
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_yun3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b91cb646407bb4f2090de66549691406
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9bf926faf6d74386a87a545affd654a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_lightning1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba4da839356d942d4a38507b7ea0b3db
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg20_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb661f48fdd404c278a2163036a325a8
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun_ban_zhenyanshang.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbc33a7c26d0b4225be48dd6344992f5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/senlin1_bangwan.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcca0b55d2d854a9bb35e8aaaf3618ff
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_yun1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdfcb2ea5d5cd43dab85a66bc2e16583
+    m_Address: Assets/RenpyResources/images/cg/bai_shengliqi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf37aaf2e02254741af06e88bc6b9d07
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf56f060c69a542fbb63640b8db707e2
+    m_Address: Assets/RenpyResources/images/cg/memory_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfb0807c9099c4dbe9de4423fb72dcbf
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/wanggongwoshi_huanghun_2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c059bdc9ff2b0461bbe8d16a83f91e4a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg2_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c209e25b7d3074d9ea582271df1532e9
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_zui1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c36eef405677f4020bdde728e92faeff
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c371ab63d58514fcd80629419c90fdba
+    m_Address: Assets/RenpyResources/images/cg/kongzhongmanbu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4ed9b18755d342b2a2bbe163045cc80
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg24_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4fa271f232724b77bc1b2c4781ffa1a
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_yan2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5539684e5d3f4730bd01fabbceb0dc0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7a1d37479158430e8283f1124d7150d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8054a6ad57af4890ba28363d73c9bb0
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_mei5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8140a02a60ea4c52b75dc91c76c0bd0
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg40_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c86767cdd53724e4f9205cabb89a9f54
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8c2021a1a524441aa174cfde27678f5
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca2f2afad45914bc4919aee57501a503
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb13d7c8bef404974a1f5387967e2dde
+    m_Address: Assets/RenpyResources/images/cg/he_jianjin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd27036da8889479d8fc73548c8e70a1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji20.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce358a469f2334b4a99d82123c51ea1a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_mofa_jin_guang.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d06f86ee55ae240608c9f87d9e23db0f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d147b757184854cdf82a626dd552ddaf
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_zui8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1650f87778f74ccfa9c99e35974d25d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1d1fdfb89d174e4d883f1c31ebd5057
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2471c468b4b64ebb9ad6ce6eaacdf1f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d38a7990b28b347c3939a932265e551a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3d2e881ea6c94153b51fd6b524a0491
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_mei1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d511b1b62675d43298a509a71588e811
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/gongzhu/gongzhu_yan4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d548bde4f2d334ed78ff47ea5d35062c
+    m_Address: Assets/RenpyResources/images/cg/wenxue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6181d044d1fc4e90b0f1c2bc353fffa
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_zui5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d69d46ea54cc24b3388f65a37ebd5973
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6a791b59347643b4b265d88787f03da
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7646e99f3f6448c79397dcc85ed362f
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/shiziguangyun1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d849f330a951b45de9ed6623ecc47a6e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8de29635a013427ab820589fa702653
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg14_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d93af8622fb544b398a72d83076c1e11
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d94dc71f56ac64372bb61d53947efda9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_rain1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9e3a9e10d15a44caa9a809029822c7b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg5_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da019a9ce9a1f4bc9beb73c6ccc7c619
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd183a7540be84aa7bb86cbc26298cac
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de694dbbcbff940ea8e48a62f7bf051d
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_zui4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df5f43a481bce45d896ae9c4b551d0d8
+    m_Address: Assets/RenpyResources/images/cg/sihuai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfa1156eb2b7d47a6bb50102f840e99a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_cg/nienie/nienie_ditu.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfd5d0c3b951049cc9d5f40bd27234c1
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg25_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0a34797e6c6e4643a0a5c484b80f560
+    m_Address: Assets/RenpyResources/images/cg/tiantian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1d0dfd053fce447fb335b2701a7a60c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2914a26d88864242bfa1dd5ddefe1eb
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg30_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e35b6ba6c271b4733a4378b7f76a827e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg26_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3a084d37dc9b4ea5a58a85f32162e95
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_mei4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3d3627164eb94c36bd8c29cabc5517b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4036351d1d654ab2944d462093306b9
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_yan20.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e440052f6676d45efb064f0b3792d593
+    m_Address: Assets/RenpyResources/images/pianwei_m.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e46171d5f7ae94a18a54a0b9be14da63
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_emoji3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e523ebdcd51a949dabeba0b0b80bae2b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/yangtai_jinchulangan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e529977b9c1ca45e09daa3f2c516ebfa
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_chufang_jiazi_baitian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e543b10fd39b14ef4aa1491ec710a6ac
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg45_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6d8c15d0e5b84279b618a08f982a779
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_ying1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7adf0488be4e4314bf545d47a0608c7
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/heilong_huanghun_ban_baiyan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e917a2e1dadb240139d87201dac9fc5a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea5163e8d124544f9abfd35c98d0b5a6
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_mei2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea5bcbb79f52a43b69167ff313a34ece
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaee50b12b9ff4925b493286019c2051
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_tian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec4e1d7b2b84e4d7e9defd8fd17cab61
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/yuanxingguangyun1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecfa1dd4951754d95ae4a279a63531b8
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed3a7f6a5e1a440b8b756738fe93046b
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edc0203746c2e4302976304266564b5e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_transition/waves.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edd61b97c3de74a449fa539df1102c0d
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/huacao/huacao.2048/texture_00.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eea0ecf7fd9ae4813842eb5c40506c03
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_mei7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eedb4f100ce1642fc9abcee42e8d741c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv1_chuang.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eefa3bd5478114537b1a7f1eb51e303c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef0efeeaa19dd462ca54265f60885ed4
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg51_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef88a429cbaac492a97449698b0c62c4
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efbdc967edd824f7699af3d2d7850f9c
+    m_Address: Assets/RenpyResources/images/cg/wenroudao/wenroudao_renwu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f031e9fc1c69d4d73ba8ab60efe7b867
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/heilong_mofa_yuan_an.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f083b513925004862a2403f3832e371a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0fd9e90ae2ff4d3eb331ddf15133f4e
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg38_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1128af9e3812411aa1072e608d90715
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg42_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34dbfd0067024a24ad760df1050ea9a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/zoulang_zhuanjiao2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3714efa1eb004fff995fd905d404868
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_yan1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f453887bdd498404482d072b1829ed7f
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f502afbc5a6ed401caa0d1cf28d8c589
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f503ace55d58d422c83f024b51f965fe
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_he_mei2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f642b2d1a62134ade9f31d493d71f719
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_mei4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6541d75aecdf4b4fb59b7d789e5b253
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f776e974fad1e44d9acae065460c1259
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_yan3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7cd6913539ce41ed940ba777e68aa5d
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/woshi_nv5_tian.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f812c165e011b40d996510ff86d2eb9a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/tiankong_baitian1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f841f82e22082417e81192eda8b2cf57
+    m_Address: Assets/RenpyResources/images/cg/q_nie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9004bb7257514015bdaabd0f09bca5c
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_ditu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9529537911aa443b83b6efcdf02f91a
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f96920229916c435e8258935822f0a84
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_er0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f98109488b5f94e1c9a2a1131cccbec6
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_yan6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f98337768d0c5455c9f99b38669ffe39
+    m_Address: Assets/RenpyResources/images/demo_images/demo_images_bg/memory/anniu_bg8_memory.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9acef8a886bc4d749dc0782aacdc703
+    m_Address: Assets/RenpyResources/images/cg/guangjie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9ce4c81ad2064ecb88f0fe665061c08
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/he/he_zui20.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa51458556d124fb7a85ad43fd4ef158
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_emoji3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb962a482b2bd4b25b09c7db93e0fe62
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_zui10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc7748894c6244fc694c9f0820e4e415
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd51f1cd8b5e7452b97d6bafc22b56eb
+    m_Address: Assets/RenpyResources/images/cg/wenroudao2/wenroudao2_nv_mei3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff076c976e8914dada4bc49e8d565826
+    m_Address: Assets/RenpyResources/images/demo_images/demo_portrait/nv/nv_yan7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffe3f4db31b43499683bf6413f60e244
+    m_Address: Assets/RenpyResources/images/cg/bai_kiss
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8fae7f479247e48f1a358b6886dedfc4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b370dbc8a44f34f159d46859448b99fb, type: 2}
+    - {fileID: 11400000, guid: 6adffc63081aa4d2b90d9f6750b27a4c, type: 2}

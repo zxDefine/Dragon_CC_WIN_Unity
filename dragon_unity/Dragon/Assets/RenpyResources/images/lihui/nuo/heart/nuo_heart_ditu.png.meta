@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: ebf19c582141e4c6c80567ab2bfb1438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4821045184088046687
+    second: nuo_heart_ditu_0
+  - first:
+      213: 8303620885607407076
+    second: nuo_heart_ditu_1
+  - first:
+      213: 2230715312197369384
+    second: nuo_heart_ditu_2
+  - first:
+      213: 5693416823996172353
+    second: nuo_heart_ditu_3
+  - first:
+      213: -5020911729798205448
+    second: nuo_heart_ditu_4
+  - first:
+      213: -939396748265432940
+    second: nuo_heart_ditu_5
+  - first:
+      213: 5994221470260639913
+    second: nuo_heart_ditu_6
+  - first:
+      213: 5370620050819933876
+    second: nuo_heart_ditu_7
+  - first:
+      213: 432557650089828959
+    second: nuo_heart_ditu_8
+  - first:
+      213: -8660113779950117319
+    second: nuo_heart_ditu_9
+  - first:
+      213: -7639622130626320131
+    second: nuo_heart_ditu_10
+  - first:
+      213: -6118725208748044229
+    second: nuo_heart_ditu_11
+  - first:
+      213: 8653957582816401579
+    second: nuo_heart_ditu_12
+  - first:
+      213: 2323468755769190711
+    second: nuo_heart_ditu_13
+  - first:
+      213: 8974855332796901409
+    second: nuo_heart_ditu_14
+  - first:
+      213: -8935309307176225496
+    second: nuo_heart_ditu_15
+  - first:
+      213: 6729033480755760540
+    second: nuo_heart_ditu_16
+  - first:
+      213: -4742987351112619993
+    second: nuo_heart_ditu_17
+  - first:
+      213: -1087965985509971182
+    second: nuo_heart_ditu_18
+  - first:
+      213: 8368508353027785928
+    second: nuo_heart_ditu_19
+  - first:
+      213: -2862246553412632025
+    second: nuo_heart_ditu_20
+  - first:
+      213: 8352122509498501691
+    second: nuo_heart_ditu_21
+  - first:
+      213: 7180724419488279278
+    second: nuo_heart_ditu_22
+  - first:
+      213: -2688470642780963995
+    second: nuo_heart_ditu_23
+  - first:
+      213: -5969475975473918029
+    second: nuo_heart_ditu_24
+  - first:
+      213: -4186966726157080981
+    second: nuo_heart_ditu_25
+  - first:
+      213: -6393669675490137214
+    second: nuo_heart_ditu_26
+  - first:
+      213: 4247192944771079102
+    second: nuo_heart_ditu_27
+  - first:
+      213: -2208647153836201951
+    second: nuo_heart_ditu_28
+  - first:
+      213: 5528144699850592177
+    second: nuo_heart_ditu_29
+  - first:
+      213: 678560889811824025
+    second: nuo_heart_ditu_30
+  - first:
+      213: -7454382991649087406
+    second: nuo_heart_ditu_31
+  - first:
+      213: -3085056977117690746
+    second: nuo_heart_ditu_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuo_heart_ditu_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 61
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a30354b2f4381db0800000000000000
+      internalID: -4821045184088046687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 59
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edd42473336c3370800000000000000
+      internalID: 8303620885607407076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7c82f1c715fe10800000000000000
+      internalID: 2230715312197369384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 55
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1484688bf64130f40800000000000000
+      internalID: 5693416823996172353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 1232
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff29c83263225ab0800000000000000
+      internalID: -5020911729798205448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 46
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4985b7472a796f2f0800000000000000
+      internalID: -939396748265432940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 42
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b7ef1ba0cf2350800000000000000
+      internalID: 5994221470260639913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 38
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b666b04b76488a40800000000000000
+      internalID: 5370620050819933876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f526b7614e0c00600800000000000000
+      internalID: 432557650089828959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 40
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9b9f766811d780800000000000000
+      internalID: -8660113779950117319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 44
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df82ecd062c9af590800000000000000
+      internalID: -7639622130626320131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30585e47dbe51ba0800000000000000
+      internalID: -6118725208748044229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 26
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8d1192298091870800000000000000
+      internalID: 8653957582816401579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 23
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739675ae58e9e3020800000000000000
+      internalID: 2323468755769190711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 22
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12821e5df571d8c70800000000000000
+      internalID: 8974855332796901409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f483c6876ff380800000000000000
+      internalID: -8935309307176225496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 20
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d482e7c44526d50800000000000000
+      internalID: 6729033480755760540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 29
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728e2c232268d2eb0800000000000000
+      internalID: -4742987351112619993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b68f153b4c6e0f0800000000000000
+      internalID: -1087965985509971182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_19
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44c12420ae22470800000000000000
+      internalID: 8368508353027785928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_20
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722014cace14748d0800000000000000
+      internalID: -2862246553412632025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ac333cb23b8e370800000000000000
+      internalID: 8352122509498501691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea629d70de07a360800000000000000
+      internalID: 7180724419488279278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 6
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b79fbc132a0bad0800000000000000
+      internalID: -2688470642780963995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf06aa5a39282da0800000000000000
+      internalID: -5969475975473918029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66e60132f7e4e5c0800000000000000
+      internalID: -4186966726157080981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b29352e4f1547a0800000000000000
+      internalID: -6393669675490137214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb10ad0b7f01fa30800000000000000
+      internalID: 4247192944771079102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286a619d1f4951e0800000000000000
+      internalID: -2208647153836201951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8d8da05ae7bc40800000000000000
+      internalID: 5528144699850592177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_30
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99de4bbb88bba6900800000000000000
+      internalID: 678560889811824025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_31
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ea030a26bc8890800000000000000
+      internalID: -7454382991649087406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuo_heart_ditu_32
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6844f0f460daf25d0800000000000000
+      internalID: -3085056977117690746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuo_heart_ditu_0: -4821045184088046687
+      nuo_heart_ditu_1: 8303620885607407076
+      nuo_heart_ditu_10: -7639622130626320131
+      nuo_heart_ditu_11: -6118725208748044229
+      nuo_heart_ditu_12: 8653957582816401579
+      nuo_heart_ditu_13: 2323468755769190711
+      nuo_heart_ditu_14: 8974855332796901409
+      nuo_heart_ditu_15: -8935309307176225496
+      nuo_heart_ditu_16: 6729033480755760540
+      nuo_heart_ditu_17: -4742987351112619993
+      nuo_heart_ditu_18: -1087965985509971182
+      nuo_heart_ditu_19: 8368508353027785928
+      nuo_heart_ditu_2: 2230715312197369384
+      nuo_heart_ditu_20: -2862246553412632025
+      nuo_heart_ditu_21: 8352122509498501691
+      nuo_heart_ditu_22: 7180724419488279278
+      nuo_heart_ditu_23: -2688470642780963995
+      nuo_heart_ditu_24: -5969475975473918029
+      nuo_heart_ditu_25: -4186966726157080981
+      nuo_heart_ditu_26: -6393669675490137214
+      nuo_heart_ditu_27: 4247192944771079102
+      nuo_heart_ditu_28: -2208647153836201951
+      nuo_heart_ditu_29: 5528144699850592177
+      nuo_heart_ditu_3: 5693416823996172353
+      nuo_heart_ditu_30: 678560889811824025
+      nuo_heart_ditu_31: -7454382991649087406
+      nuo_heart_ditu_32: -3085056977117690746
+      nuo_heart_ditu_4: -5020911729798205448
+      nuo_heart_ditu_5: -939396748265432940
+      nuo_heart_ditu_6: 5994221470260639913
+      nuo_heart_ditu_7: 5370620050819933876
+      nuo_heart_ditu_8: 432557650089828959
+      nuo_heart_ditu_9: -8660113779950117319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

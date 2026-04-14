@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e27efef405b364298a440c69e8c4201f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5075605718341199124
+    second: tiantian_hua_0
+  - first:
+      213: -5068043043008948230
+    second: tiantian_hua_1
+  - first:
+      213: -2650869957414925174
+    second: tiantian_hua_2
+  - first:
+      213: 2308184575070208417
+    second: tiantian_hua_3
+  - first:
+      213: 8657860753769177425
+    second: tiantian_hua_4
+  - first:
+      213: -2578559262928705262
+    second: tiantian_hua_5
+  - first:
+      213: 2999212222431750218
+    second: tiantian_hua_6
+  - first:
+      213: 5605705161136232168
+    second: tiantian_hua_7
+  - first:
+      213: -8820262132317398366
+    second: tiantian_hua_8
+  - first:
+      213: 5534535961421210988
+    second: tiantian_hua_9
+  - first:
+      213: 2454672477950242512
+    second: tiantian_hua_10
+  - first:
+      213: -5308348059074422547
+    second: tiantian_hua_11
+  - first:
+      213: 2668454364907565715
+    second: tiantian_hua_12
+  - first:
+      213: 6067325347486309441
+    second: tiantian_hua_13
+  - first:
+      213: -6939311800940800978
+    second: tiantian_hua_14
+  - first:
+      213: 2720383488645409789
+    second: tiantian_hua_15
+  - first:
+      213: 5946037088166122047
+    second: tiantian_hua_16
+  - first:
+      213: 6998450174005283275
+    second: tiantian_hua_17
+  - first:
+      213: 3727792251786843821
+    second: tiantian_hua_18
+  - first:
+      213: 465172455503751506
+    second: tiantian_hua_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiantian_hua_0
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1067
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4152ba5528c207640800000000000000
+      internalID: 5075605718341199124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_1
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1057
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7df0b34b1baa9b0800000000000000
+      internalID: -5068043043008948230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 998
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c478291d7363bd0800000000000000
+      internalID: -2650869957414925174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_3
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1052
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1881944a1580020800000000000000
+      internalID: 2308184575070208417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1026
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1512537fb76e62870800000000000000
+      internalID: 8657860753769177425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21967dc130e173cd0800000000000000
+      internalID: -2578559262928705262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_6
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 910
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ed0430a75f9920800000000000000
+      internalID: 2999212222431750218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_7
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1015
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6591dc4277bcd40800000000000000
+      internalID: 5605705161136232168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_8
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1001
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa54698252289580800000000000000
+      internalID: -8820262132317398366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_9
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 962
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e229322f9ecc40800000000000000
+      internalID: 5534535961421210988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_10
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 958
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dee6200d9fb01220800000000000000
+      internalID: 2454672477950242512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_11
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 961
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de81cbaa095f456b0800000000000000
+      internalID: -5308348059074422547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_12
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 653
+        width: 270
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f7a75b11480520800000000000000
+      internalID: 2668454364907565715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 936
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c15a9e148733450800000000000000
+      internalID: 6067325347486309441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_14
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 939
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245f3fdeac92bf90800000000000000
+      internalID: -6939311800940800978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_15
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 932
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2c85ae5eb0c520800000000000000
+      internalID: 2720383488645409789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 927
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32907d6a31948250800000000000000
+      internalID: 5946037088166122047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc90bd79a5d7f1160800000000000000
+      internalID: 6998450174005283275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_18
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 772
+        width: 66
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da655346d47cbb330800000000000000
+      internalID: 3727792251786843821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiantian_hua_19
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 907
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e89932ef947600800000000000000
+      internalID: 465172455503751506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiantian_hua_0: 5075605718341199124
+      tiantian_hua_1: -5068043043008948230
+      tiantian_hua_10: 2454672477950242512
+      tiantian_hua_11: -5308348059074422547
+      tiantian_hua_12: 2668454364907565715
+      tiantian_hua_13: 6067325347486309441
+      tiantian_hua_14: -6939311800940800978
+      tiantian_hua_15: 2720383488645409789
+      tiantian_hua_16: 5946037088166122047
+      tiantian_hua_17: 6998450174005283275
+      tiantian_hua_18: 3727792251786843821
+      tiantian_hua_19: 465172455503751506
+      tiantian_hua_2: -2650869957414925174
+      tiantian_hua_3: 2308184575070208417
+      tiantian_hua_4: 8657860753769177425
+      tiantian_hua_5: -2578559262928705262
+      tiantian_hua_6: 2999212222431750218
+      tiantian_hua_7: 5605705161136232168
+      tiantian_hua_8: -8820262132317398366
+      tiantian_hua_9: 5534535961421210988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

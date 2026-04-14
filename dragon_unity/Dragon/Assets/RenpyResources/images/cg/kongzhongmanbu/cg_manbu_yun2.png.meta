@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 55b8f316438534d34a9f338a33200004
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 818811314990587867
+    second: cg_manbu_yun2_0
+  - first:
+      213: -4535333669507964555
+    second: cg_manbu_yun2_1
+  - first:
+      213: -3017606693752313816
+    second: cg_manbu_yun2_2
+  - first:
+      213: 4522617216734754760
+    second: cg_manbu_yun2_3
+  - first:
+      213: 5080720039286378922
+    second: cg_manbu_yun2_4
+  - first:
+      213: 3061926955434010059
+    second: cg_manbu_yun2_5
+  - first:
+      213: 1198681753694546592
+    second: cg_manbu_yun2_6
+  - first:
+      213: -2728722231437665859
+    second: cg_manbu_yun2_7
+  - first:
+      213: 3341987263715465198
+    second: cg_manbu_yun2_8
+  - first:
+      213: 4428569392396221618
+    second: cg_manbu_yun2_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cg_manbu_yun2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 1486
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf95108d800d5b00800000000000000
+      internalID: 818811314990587867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1442
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571eb1b8e024f01c0800000000000000
+      internalID: -4535333669507964555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1391
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8286d0333be4f16d0800000000000000
+      internalID: -3017606693752313816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1373
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c77a82956093ce30800000000000000
+      internalID: 4522617216734754760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_4
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1037
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19fd8f4f7528640800000000000000
+      internalID: 5080720039286378922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 904
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc566dad7562e7a20800000000000000
+      internalID: 3061926955434010059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaa4bf34b292a010800000000000000
+      internalID: 1198681753694546592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_7
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 856
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db952708691a12ad0800000000000000
+      internalID: -2728722231437665859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_8
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 565
+        width: 308
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d3a1b5bf116e20800000000000000
+      internalID: 3341987263715465198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cg_manbu_yun2_9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 462
+        width: 275
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcb1f81660757d30800000000000000
+      internalID: 4428569392396221618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cg_manbu_yun2_0: 818811314990587867
+      cg_manbu_yun2_1: -4535333669507964555
+      cg_manbu_yun2_2: -3017606693752313816
+      cg_manbu_yun2_3: 4522617216734754760
+      cg_manbu_yun2_4: 5080720039286378922
+      cg_manbu_yun2_5: 3061926955434010059
+      cg_manbu_yun2_6: 1198681753694546592
+      cg_manbu_yun2_7: -2728722231437665859
+      cg_manbu_yun2_8: 3341987263715465198
+      cg_manbu_yun2_9: 4428569392396221618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 3ba345ad6a5ba4153b97dac8c60cf9dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4851527762073467214
+    second: bread_xing_0
+  - first:
+      213: -1113820005241715382
+    second: bread_xing_1
+  - first:
+      213: 1932879342036225808
+    second: bread_xing_2
+  - first:
+      213: -5536674253539253638
+    second: bread_xing_3
+  - first:
+      213: -2021543018202138825
+    second: bread_xing_4
+  - first:
+      213: -4463168057347702131
+    second: bread_xing_5
+  - first:
+      213: 8333494018331197679
+    second: bread_xing_6
+  - first:
+      213: 6075052514657895068
+    second: bread_xing_7
+  - first:
+      213: -6532050799060688297
+    second: bread_xing_8
+  - first:
+      213: 2067646941415550139
+    second: bread_xing_9
+  - first:
+      213: -8846974661200885214
+    second: bread_xing_10
+  - first:
+      213: 7931059846578413964
+    second: bread_xing_11
+  - first:
+      213: 278819401368261912
+    second: bread_xing_12
+  - first:
+      213: -3089747845178168331
+    second: bread_xing_13
+  - first:
+      213: -6539017376011966839
+    second: bread_xing_14
+  - first:
+      213: 1507150307576238766
+    second: bread_xing_15
+  - first:
+      213: 5580333746119747297
+    second: bread_xing_16
+  - first:
+      213: 1851860798475626894
+    second: bread_xing_17
+  - first:
+      213: -3825442997844890052
+    second: bread_xing_18
+  - first:
+      213: 2328578443163091867
+    second: bread_xing_19
+  - first:
+      213: 5222152476003303470
+    second: bread_xing_20
+  - first:
+      213: 3490255677294973948
+    second: bread_xing_21
+  - first:
+      213: -7991563850722490157
+    second: bread_xing_22
+  - first:
+      213: -7140858262732234514
+    second: bread_xing_23
+  - first:
+      213: -3267834016651267131
+    second: bread_xing_24
+  - first:
+      213: 401553885895286857
+    second: bread_xing_25
+  - first:
+      213: 2692974349739385681
+    second: bread_xing_26
+  - first:
+      213: 7487443323776984988
+    second: bread_xing_27
+  - first:
+      213: -2387006836594236891
+    second: bread_xing_28
+  - first:
+      213: 8840801607900350381
+    second: bread_xing_29
+  - first:
+      213: -5573138042598471069
+    second: bread_xing_30
+  - first:
+      213: 9216607031675378766
+    second: bread_xing_31
+  - first:
+      213: 3596909762246312578
+    second: bread_xing_32
+  - first:
+      213: -1117849570293470278
+    second: bread_xing_33
+  - first:
+      213: -842177858825367273
+    second: bread_xing_34
+  - first:
+      213: 6403411058015022620
+    second: bread_xing_35
+  - first:
+      213: -977547519702497504
+    second: bread_xing_36
+  - first:
+      213: -9056130977608213130
+    second: bread_xing_37
+  - first:
+      213: -2243488857885578878
+    second: bread_xing_38
+  - first:
+      213: 8369160386370364219
+    second: bread_xing_39
+  - first:
+      213: -670194297557292851
+    second: bread_xing_40
+  - first:
+      213: -4861552693854275232
+    second: bread_xing_41
+  - first:
+      213: -6900126664940465758
+    second: bread_xing_42
+  - first:
+      213: 8138359553767546371
+    second: bread_xing_43
+  - first:
+      213: 6345190711335519076
+    second: bread_xing_44
+  - first:
+      213: -4283838246564410238
+    second: bread_xing_45
+  - first:
+      213: 8973433499437082195
+    second: bread_xing_46
+  - first:
+      213: -5035583913881593187
+    second: bread_xing_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bread_xing_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 682
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b55c8bc6145340800000000000000
+      internalID: 4851527762073467214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 691
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4508d34b9aea80f0800000000000000
+      internalID: -1113820005241715382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_2
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 659
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f82cf4587f2da10800000000000000
+      internalID: 1932879342036225808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 663
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72edb8d918c923b0800000000000000
+      internalID: -5536674253539253638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 660
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737f3e5e55902f3e0800000000000000
+      internalID: -2021543018202138825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 566
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828be87c44af02c0800000000000000
+      internalID: -4463168057347702131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 648
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0497c28a486a370800000000000000
+      internalID: 8333494018331197679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 630
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c920708331cee4450800000000000000
+      internalID: 6075052514657895068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 624
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7526e23186e7955a0800000000000000
+      internalID: -6532050799060688297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 608
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc2ff730f1c1bc10800000000000000
+      internalID: 2067646941415550139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 478
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a4d3e3b6b393580800000000000000
+      internalID: -8846974661200885214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 596
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81abafe8e8c01e60800000000000000
+      internalID: 7931059846578413964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 572
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815da0fa4c09ed300800000000000000
+      internalID: 278819401368261912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 513
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb60aa74b20f15d0800000000000000
+      internalID: -3089747845178168331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 530
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98623ba775eb045a0800000000000000
+      internalID: -6539017376011966839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 553
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2d33238397ae410800000000000000
+      internalID: 1507150307576238766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 544
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6a799e9f3517d40800000000000000
+      internalID: 5580333746119747297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 553
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e896c9aa59123b910800000000000000
+      internalID: 1851860798475626894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_18
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 548
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e23fc8cdb49eac0800000000000000
+      internalID: -3825442997844890052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_19
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 543
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b934e58b1c5c05020800000000000000
+      internalID: 2328578443163091867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 528
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e208a1f3200d87840800000000000000
+      internalID: 5222152476003303470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 510
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3157cdb01ef6030800000000000000
+      internalID: 3490255677294973948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_22
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 492
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d845d5d403481190800000000000000
+      internalID: -7991563850722490157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 472
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0ae627e3396ec90800000000000000
+      internalID: -7140858262732234514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_24
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 255
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3309c864256a2d0800000000000000
+      internalID: -3267834016651267131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_25
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 291
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94067f6b12b929500800000000000000
+      internalID: 401553885895286857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_26
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 233
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153647137ed5f5520800000000000000
+      internalID: 2692974349739385681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 184
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97e895680eb8e760800000000000000
+      internalID: 7487443323776984988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_28
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 151
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222f54dde5afded0800000000000000
+      internalID: -2387006836594236891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 184
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74a98c836d0ba70800000000000000
+      internalID: 8840801607900350381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_30
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 171
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac3be5a7c38a2b0800000000000000
+      internalID: -5573138042598471069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 149
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cd06d7347f7ef70800000000000000
+      internalID: 9216607031675378766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28283db1f5acae130800000000000000
+      internalID: 3596909762246312578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_33
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 150
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abba55a0db99c70f0800000000000000
+      internalID: -1117849570293470278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d30f03bbff44f0800000000000000
+      internalID: -842177858825367273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 45
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e2bc73e6c7dd850800000000000000
+      internalID: 6403411058015022620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278119c5bd0f62f0800000000000000
+      internalID: -977547519702497504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_37
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d50487bd8225280800000000000000
+      internalID: -9056130977608213130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ee2035c68dd0e0800000000000000
+      internalID: -2243488857885578878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3360e9970b352470800000000000000
+      internalID: 8369160386370364219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 91
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ea9356ddf2b6f0800000000000000
+      internalID: -670194297557292851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 91
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f8f1259b488cb0800000000000000
+      internalID: -4861552693854275232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_42
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 64
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d50f4b53dd30a0800000000000000
+      internalID: -6900126664940465758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 55
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e98b035e241f070800000000000000
+      internalID: 8138359553767546371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_44
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463034d6555ae0850800000000000000
+      internalID: 6345190711335519076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 23
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ccb4ebfcfbc84c0800000000000000
+      internalID: -4283838246564410238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356a985793a088c70800000000000000
+      internalID: 8973433499437082195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bread_xing_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9a682c130e1ab0800000000000000
+      internalID: -5035583913881593187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bread_xing_0: 4851527762073467214
+      bread_xing_1: -1113820005241715382
+      bread_xing_10: -8846974661200885214
+      bread_xing_11: 7931059846578413964
+      bread_xing_12: 278819401368261912
+      bread_xing_13: -3089747845178168331
+      bread_xing_14: -6539017376011966839
+      bread_xing_15: 1507150307576238766
+      bread_xing_16: 5580333746119747297
+      bread_xing_17: 1851860798475626894
+      bread_xing_18: -3825442997844890052
+      bread_xing_19: 2328578443163091867
+      bread_xing_2: 1932879342036225808
+      bread_xing_20: 5222152476003303470
+      bread_xing_21: 3490255677294973948
+      bread_xing_22: -7991563850722490157
+      bread_xing_23: -7140858262732234514
+      bread_xing_24: -3267834016651267131
+      bread_xing_25: 401553885895286857
+      bread_xing_26: 2692974349739385681
+      bread_xing_27: 7487443323776984988
+      bread_xing_28: -2387006836594236891
+      bread_xing_29: 8840801607900350381
+      bread_xing_3: -5536674253539253638
+      bread_xing_30: -5573138042598471069
+      bread_xing_31: 9216607031675378766
+      bread_xing_32: 3596909762246312578
+      bread_xing_33: -1117849570293470278
+      bread_xing_34: -842177858825367273
+      bread_xing_35: 6403411058015022620
+      bread_xing_36: -977547519702497504
+      bread_xing_37: -9056130977608213130
+      bread_xing_38: -2243488857885578878
+      bread_xing_39: 8369160386370364219
+      bread_xing_4: -2021543018202138825
+      bread_xing_40: -670194297557292851
+      bread_xing_41: -4861552693854275232
+      bread_xing_42: -6900126664940465758
+      bread_xing_43: 8138359553767546371
+      bread_xing_44: 6345190711335519076
+      bread_xing_45: -4283838246564410238
+      bread_xing_46: 8973433499437082195
+      bread_xing_47: -5035583913881593187
+      bread_xing_5: -4463168057347702131
+      bread_xing_6: 8333494018331197679
+      bread_xing_7: 6075052514657895068
+      bread_xing_8: -6532050799060688297
+      bread_xing_9: 2067646941415550139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

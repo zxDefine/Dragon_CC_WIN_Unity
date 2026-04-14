@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: dd2f08695baae4efa842bcf0a76e9151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6088114253592402318
+    second: juezhan_cg7_qi_0
+  - first:
+      213: -2051394725863052416
+    second: juezhan_cg7_qi_1
+  - first:
+      213: 2782799527611973946
+    second: juezhan_cg7_qi_2
+  - first:
+      213: 90853364015527161
+    second: juezhan_cg7_qi_3
+  - first:
+      213: -2837463888259122551
+    second: juezhan_cg7_qi_4
+  - first:
+      213: 1248303299959971271
+    second: juezhan_cg7_qi_5
+  - first:
+      213: 6205135643046506103
+    second: juezhan_cg7_qi_6
+  - first:
+      213: 8491745877265294352
+    second: juezhan_cg7_qi_7
+  - first:
+      213: 2296319363630987805
+    second: juezhan_cg7_qi_8
+  - first:
+      213: 734961883809294475
+    second: juezhan_cg7_qi_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1702
+        width: 495
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891e5d48a35d7450800000000000000
+      internalID: 6088114253592402318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1926
+        width: 264
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba2d69d5bf783e0800000000000000
+      internalID: -2051394725863052416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2007
+        width: 564
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31cf6c2d6d7e9620800000000000000
+      internalID: 2782799527611973946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 315
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47bc837a6c24100800000000000000
+      internalID: 90853364015527161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1393
+        width: 555
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af05d80ad4f98d0800000000000000
+      internalID: -2837463888259122551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 264
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cddf0ecc3dd25110800000000000000
+      internalID: 1248303299959971271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee6eabdf11d1650800000000000000
+      internalID: 6205135643046506103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 294
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014294952edb8d570800000000000000
+      internalID: 8491745877265294352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_8
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 443
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a73187b4a2edf10800000000000000
+      internalID: 2296319363630987805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juezhan_cg7_qi_9
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 0
+        width: 292
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a7e770fb133a00800000000000000
+      internalID: 734961883809294475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      juezhan_cg7_qi_0: 6088114253592402318
+      juezhan_cg7_qi_1: -2051394725863052416
+      juezhan_cg7_qi_2: 2782799527611973946
+      juezhan_cg7_qi_3: 90853364015527161
+      juezhan_cg7_qi_4: -2837463888259122551
+      juezhan_cg7_qi_5: 1248303299959971271
+      juezhan_cg7_qi_6: 6205135643046506103
+      juezhan_cg7_qi_7: 8491745877265294352
+      juezhan_cg7_qi_8: 2296319363630987805
+      juezhan_cg7_qi_9: 734961883809294475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

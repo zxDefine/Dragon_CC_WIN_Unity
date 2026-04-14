@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 2a1d60dcd5ad9413a9491cd660d9793f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3884900269353704227
+    second: guangdian_quanpin_0
+  - first:
+      213: 3600828376470170765
+    second: guangdian_quanpin_1
+  - first:
+      213: -5718099461622665126
+    second: guangdian_quanpin_2
+  - first:
+      213: 1853541082856722346
+    second: guangdian_quanpin_3
+  - first:
+      213: 1091904651998253982
+    second: guangdian_quanpin_4
+  - first:
+      213: 6775952076864527932
+    second: guangdian_quanpin_5
+  - first:
+      213: 5252314815415246098
+    second: guangdian_quanpin_6
+  - first:
+      213: 2488966671226868399
+    second: guangdian_quanpin_7
+  - first:
+      213: 175700370466473138
+    second: guangdian_quanpin_8
+  - first:
+      213: 9215223859660899844
+    second: guangdian_quanpin_9
+  - first:
+      213: 479616259552056952
+    second: guangdian_quanpin_10
+  - first:
+      213: -3912715735574909520
+    second: guangdian_quanpin_11
+  - first:
+      213: -496750854370495367
+    second: guangdian_quanpin_12
+  - first:
+      213: 3082488959266497550
+    second: guangdian_quanpin_13
+  - first:
+      213: 2082430374723460010
+    second: guangdian_quanpin_14
+  - first:
+      213: -708601792914933232
+    second: guangdian_quanpin_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guangdian_quanpin_0
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 518
+        width: 156
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46a51c9cf061ac0800000000000000
+      internalID: -3884900269353704227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 523
+        width: 191
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ca6a49456b8f130800000000000000
+      internalID: 3600828376470170765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_2
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 610
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f0afd5da35a0b0800000000000000
+      internalID: -5718099461622665126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf844c5bc919b910800000000000000
+      internalID: 1853541082856722346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 443
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d3feee79372f00800000000000000
+      internalID: 1091904651998253982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 487
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e949c6384090e50800000000000000
+      internalID: 6775952076864527932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_6
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 427
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd8552f78f3e840800000000000000
+      internalID: 5252314815415246098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 260
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2934810069a8220800000000000000
+      internalID: 2488966671226868399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 285
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b40f885e86307200800000000000000
+      internalID: 175700370466473138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_9
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 322
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406cac8a64d03ef70800000000000000
+      internalID: 9215223859660899844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_10
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 234
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761a1b6270f7a600800000000000000
+      internalID: 479616259552056952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 230
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde9f9d4cd33b9c0800000000000000
+      internalID: -3912715735574909520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 109
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974ff57dabf2b19f0800000000000000
+      internalID: -496750854370495367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_13
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 56
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a421706337ca20800000000000000
+      internalID: 3082488959266497550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab10e2846746ec10800000000000000
+      internalID: 2082430374723460010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guangdian_quanpin_15
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab9167c6a8a26f0800000000000000
+      internalID: -708601792914933232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guangdian_quanpin_0: -3884900269353704227
+      guangdian_quanpin_1: 3600828376470170765
+      guangdian_quanpin_10: 479616259552056952
+      guangdian_quanpin_11: -3912715735574909520
+      guangdian_quanpin_12: -496750854370495367
+      guangdian_quanpin_13: 3082488959266497550
+      guangdian_quanpin_14: 2082430374723460010
+      guangdian_quanpin_15: -708601792914933232
+      guangdian_quanpin_2: -5718099461622665126
+      guangdian_quanpin_3: 1853541082856722346
+      guangdian_quanpin_4: 1091904651998253982
+      guangdian_quanpin_5: 6775952076864527932
+      guangdian_quanpin_6: 5252314815415246098
+      guangdian_quanpin_7: 2488966671226868399
+      guangdian_quanpin_8: 175700370466473138
+      guangdian_quanpin_9: 9215223859660899844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

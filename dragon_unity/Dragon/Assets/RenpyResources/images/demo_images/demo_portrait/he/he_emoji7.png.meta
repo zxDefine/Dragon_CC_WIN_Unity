@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 2b983464f5dd14ad1a549414d5e5fa1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1219711595963043657
+    second: he_emoji7_0
+  - first:
+      213: 5298250860114218972
+    second: he_emoji7_1
+  - first:
+      213: 5785374757633112881
+    second: he_emoji7_2
+  - first:
+      213: -6275544746022225495
+    second: he_emoji7_3
+  - first:
+      213: 6334818882509960345
+    second: he_emoji7_4
+  - first:
+      213: -3062994846966351
+    second: he_emoji7_5
+  - first:
+      213: -7195918392806096600
+    second: he_emoji7_6
+  - first:
+      213: -5671052744162327529
+    second: he_emoji7_7
+  - first:
+      213: -8652439503781864921
+    second: he_emoji7_8
+  - first:
+      213: -8529635319342536111
+    second: he_emoji7_9
+  - first:
+      213: -55854651312761426
+    second: he_emoji7_10
+  - first:
+      213: 7019982149033824678
+    second: he_emoji7_11
+  - first:
+      213: -2921408629799378848
+    second: he_emoji7_12
+  - first:
+      213: 3866959206192486997
+    second: he_emoji7_13
+  - first:
+      213: -812292609201117403
+    second: he_emoji7_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: he_emoji7_0
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2975
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f4dc5fb394de010800000000000000
+      internalID: 1219711595963043657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2977
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0400061b278940800000000000000
+      internalID: 5298250860114218972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2974
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bbb3990b7c94050800000000000000
+      internalID: 5785374757633112881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2974
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9b6418d49c8e8a0800000000000000
+      internalID: -6275544746022225495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3002
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9947178d53cc9e750800000000000000
+      internalID: 6334818882509960345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2973
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd9230f83e15fff0800000000000000
+      internalID: -3062994846966351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2975
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821c71ce856f22c90800000000000000
+      internalID: -7195918392806096600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2979
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71443b1639f5c41b0800000000000000
+      internalID: -5671052744162327529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2973
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a56882d1c5ce780800000000000000
+      internalID: -8652439503781864921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2978
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a66f67ed5a0a980800000000000000
+      internalID: -8529635319342536111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_10
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2978
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea513759d70993ff0800000000000000
+      internalID: -55854651312761426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2972
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a19eb2329cfb6160800000000000000
+      internalID: 7019982149033824678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2973
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0602c0954521577d0800000000000000
+      internalID: -2921408629799378848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2972
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a9706f8e23aa530800000000000000
+      internalID: 3866959206192486997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: he_emoji7_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2981
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52764e6fc282ab4f0800000000000000
+      internalID: -812292609201117403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      he_emoji7_0: 1219711595963043657
+      he_emoji7_1: 5298250860114218972
+      he_emoji7_10: -55854651312761426
+      he_emoji7_11: 7019982149033824678
+      he_emoji7_12: -2921408629799378848
+      he_emoji7_13: 3866959206192486997
+      he_emoji7_14: -812292609201117403
+      he_emoji7_2: 5785374757633112881
+      he_emoji7_3: -6275544746022225495
+      he_emoji7_4: 6334818882509960345
+      he_emoji7_5: -3062994846966351
+      he_emoji7_6: -7195918392806096600
+      he_emoji7_7: -5671052744162327529
+      he_emoji7_8: -8652439503781864921
+      he_emoji7_9: -8529635319342536111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

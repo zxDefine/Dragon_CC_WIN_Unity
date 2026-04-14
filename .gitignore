@@ -1,0 +1,71 @@
+# ===== Reference 原版项目（只读参考，不上传）=====
+dragon_yuanban/
+
+# ===== Unity 生成目录 =====
+dragon_unity/Dragon/[Ll]ibrary/
+dragon_unity/Dragon/[Tt]emp/
+dragon_unity/Dragon/[Oo]bj/
+dragon_unity/Dragon/[Bb]uild/
+dragon_unity/Dragon/[Bb]uilds/
+dragon_unity/Dragon/[Ll]ogs/
+dragon_unity/Dragon/[Uu]ser[Ss]ettings/
+dragon_unity/Dragon/[Mm]emoryCaptures/
+dragon_unity/Dragon/[Aa]ssets/AssetStoreTools*
+dragon_unity/Dragon/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# IDE 生成
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+
+# Unity meta 自动生成但被 Unity 依赖，保留
+# !*.meta
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# ===== Python 辅助脚本的临时产物 =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# 工具中间产物（保留脚本本身，忽略输出）
+choice12_mapping.json
+dangling_inventory.json
+end6_IdEQSfpx_extracted.txt
+rpy_dialogs_*.json
+voice_insertion_plan.json
+voice_mapping_parsed.json
+
+# 备份
+*.bak
+Docs/GameScript_backup_before_fix/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Memory 目录（用户本地 Claude 记忆）
+memory/
