@@ -9,6 +9,11 @@ public class GameMain : MonoBehaviour
 
     IEnumerator Start()
     {
+        // 强制后台仍然 tick：Unity Editor 默认在失焦时暂停 Game View 帧循环，
+        // 导致 GameMain 的 Start 协程卡在 yield return null，使 LabelRegistry 永远停在 0 条
+        // 注册（M4/M5 的诡异"labelMap=0"现象就是这个原因）。
+        Application.runInBackground = true;
+
         // 等待一帧，确保场景中所有 GameObject 初始化完成
         yield return null;
 
